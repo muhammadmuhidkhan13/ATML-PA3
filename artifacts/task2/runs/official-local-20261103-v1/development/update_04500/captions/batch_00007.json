@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 556892,
+      "caption_id": 640804,
+      "image_id": 556892,
+      "original_target": "The man is laying out in the sand at the beach",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 7050,
+      "caption_id": 459306,
+      "image_id": 7050,
+      "original_target": "The boaters are smiling, their two boats touching in the low water near shore.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 223444,
+      "caption_id": 342202,
+      "image_id": 223444,
+      "original_target": "Two wires have a lot of wires coming from them.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 309264,
+      "caption_id": 359893,
+      "image_id": 309264,
+      "original_target": "Stacks of cages with small birds in them.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 277888,
+      "caption_id": 68259,
+      "image_id": 277888,
+      "original_target": "A group of stuffed animals and guinea pig sitting on a couch. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 109539,
+      "caption_id": 801586,
+      "image_id": 109539,
+      "original_target": "Several metal statues of people wearing coats and holding umbrellas are in close proximity to each other.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 75481,
+      "caption_id": 248060,
+      "image_id": 75481,
+      "original_target": "a street sign on a pole on a sidewalk.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 285235,
+      "caption_id": 299933,
+      "image_id": 285235,
+      "original_target": "A group of cattle standing on a cement surface.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 556892,
+      "caption_id": 640804,
+      "image_id": 556892,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "The man is laying out in the sand at the beach",
+      "question": "Describe this image.",
+      "reference_nll": 1.8026634454727173,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 7050,
+      "caption_id": 459306,
+      "image_id": 7050,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "The boaters are smiling, their two boats touching in the low water near shore.",
+      "question": "Describe this image.",
+      "reference_nll": 4.517852306365967,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 223444,
+      "caption_id": 342202,
+      "image_id": 223444,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "Two wires have a lot of wires coming from them.",
+      "question": "Describe this image.",
+      "reference_nll": 3.881601095199585,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 309264,
+      "caption_id": 359893,
+      "image_id": 309264,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "Stacks of cages with small birds in them.",
+      "question": "Describe this image.",
+      "reference_nll": 2.0157201290130615,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 277888,
+      "caption_id": 68259,
+      "image_id": 277888,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "A group of stuffed animals and guinea pig sitting on a couch. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.007535219192505,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 109539,
+      "caption_id": 801586,
+      "image_id": 109539,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "Several metal statues of people wearing coats and holding umbrellas are in close proximity to each other.",
+      "question": "Describe this image.",
+      "reference_nll": 2.939349889755249,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 75481,
+      "caption_id": 248060,
+      "image_id": 75481,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "a street sign on a pole on a sidewalk.",
+      "question": "Describe this image.",
+      "reference_nll": 1.9114433526992798,
+      "reference_seconds": 0.011511521617649123
+    },
+    {
+      "actual_image_id": 285235,
+      "caption_id": 299933,
+      "image_id": 285235,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "A group of cattle standing on a cement surface.",
+      "question": "Describe this image.",
+      "reference_nll": 2.227264404296875,
+      "reference_seconds": 0.011511521617649123
+    }
+  ],
+  "spec_id": "501d090f82f93ceae001b4243efb11b3826aaad2415eda97a4747cbb4d68665d"
+}

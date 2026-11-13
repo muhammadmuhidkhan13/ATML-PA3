@@ -1,0 +1,755 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 203460,
+      "original_target": "yes",
+      "pair_id": "ground:test:8",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:8:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 434583,
+      "original_target": "no",
+      "pair_id": "ground:test:8",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:8:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 153510,
+      "original_target": "yes",
+      "pair_id": "ground:test:9",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain carrot?",
+      "question_id": "ground:test:9:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 452846,
+      "original_target": "no",
+      "pair_id": "ground:test:9",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain carrot?",
+      "question_id": "ground:test:9:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 124798,
+      "original_target": "yes",
+      "pair_id": "ground:test:10",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:10:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 69757,
+      "original_target": "no",
+      "pair_id": "ground:test:10",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:10:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 249506,
+      "original_target": "yes",
+      "pair_id": "ground:test:11",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain keyboard?",
+      "question_id": "ground:test:11:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 124004,
+      "original_target": "no",
+      "pair_id": "ground:test:11",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain keyboard?",
+      "question_id": "ground:test:11:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        2168,
+        1558,
+        537,
+        6644,
+        264,
+        11722,
+        13,
+        151645
+      ],
+      "generated_tokens": 11,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no image does not contain bear",
+      "original_image_id": 203460,
+      "original_target": "yes",
+      "pair_id": "ground:test:8",
+      "partner_canonical_answer": "no",
+      "prediction_text": "No, the image does not contain a bear.",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:8:0",
+      "question_type": "presence",
+      "raw_response": "No, the image does not contain a bear.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.5825581550598145,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        2168,
+        1558,
+        537,
+        6644,
+        264,
+        11722,
+        13,
+        151645
+      ],
+      "generated_tokens": 11,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no image does not contain bear",
+      "original_image_id": 434583,
+      "original_target": "no",
+      "pair_id": "ground:test:8",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "No, the image does not contain a bear.",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:8:1",
+      "question_type": "presence",
+      "raw_response": "No, the image does not contain a bear.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.2075581550598145,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        279,
+        2168,
+        5610,
+        264,
+        74194,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes image contains carrot",
+      "original_image_id": 153510,
+      "original_target": "yes",
+      "pair_id": "ground:test:9",
+      "partner_canonical_answer": "no",
+      "prediction_text": "Yes, the image contains a carrot.",
+      "question": "Does this image contain carrot?",
+      "question_id": "ground:test:9:0",
+      "question_type": "presence",
+      "raw_response": "Yes, the image contains a carrot.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.1497770547866821,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        279,
+        2168,
+        5610,
+        264,
+        74194,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes image contains carrot",
+      "original_image_id": 452846,
+      "original_target": "no",
+      "pair_id": "ground:test:9",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "Yes, the image contains a carrot.",
+      "question": "Does this image contain carrot?",
+      "question_id": "ground:test:9:1",
+      "question_type": "presence",
+      "raw_response": "Yes, the image contains a carrot.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.7747769355773926,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        2753,
+        13,
+        151645
+      ],
+      "generated_tokens": 3,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 124798,
+      "original_target": "yes",
+      "pair_id": "ground:test:10",
+      "partner_canonical_answer": "no",
+      "prediction_text": "No.",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:10:0",
+      "question_type": "presence",
+      "raw_response": "No.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.2604329586029053,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        13,
+        151645
+      ],
+      "generated_tokens": 3,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 69757,
+      "original_target": "no",
+      "pair_id": "ground:test:10",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "No.",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:10:1",
+      "question_type": "presence",
+      "raw_response": "No.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.3541829586029053,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        2168,
+        1558,
+        537,
+        6644,
+        264,
+        13625,
+        13,
+        151645
+      ],
+      "generated_tokens": 11,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no image does not contain keyboard",
+      "original_image_id": 249506,
+      "original_target": "yes",
+      "pair_id": "ground:test:11",
+      "partner_canonical_answer": "no",
+      "prediction_text": "No, the image does not contain a keyboard.",
+      "question": "Does this image contain keyboard?",
+      "question_id": "ground:test:11:0",
+      "question_type": "presence",
+      "raw_response": "No, the image does not contain a keyboard.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.0926942825317383,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        2168,
+        1558,
+        537,
+        6644,
+        264,
+        13625,
+        13,
+        151645
+      ],
+      "generated_tokens": 11,
+      "generation_seconds": 0.08753960934700444,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no image does not contain keyboard",
+      "original_image_id": 124004,
+      "original_target": "no",
+      "pair_id": "ground:test:11",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "No, the image does not contain a keyboard.",
+      "question": "Does this image contain keyboard?",
+      "question_id": "ground:test:11:1",
+      "question_type": "presence",
+      "raw_response": "No, the image does not contain a keyboard.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.3739442825317383,
+      "reference_seconds": 0.008719543140614405,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "277091069a3348fbf32d70aacabba6a81fa689e7cfb154536cf2abb39ac0797a"
+}

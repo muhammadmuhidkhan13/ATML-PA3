@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 261999,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 136833,
+      "original_target": "2",
+      "pair_id": "vqa:136833000:261999012",
+      "partner_canonical_answer": "1",
+      "question": "How many motorcycles are in the picture?",
+      "question_id": 136833000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 136833,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 261999,
+      "original_target": "1",
+      "pair_id": "vqa:136833000:261999012",
+      "partner_canonical_answer": "2",
+      "question": "How many motorcycles are in the picture?",
+      "question_id": 261999012,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 507782,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 122997,
+      "original_target": "2",
+      "pair_id": "vqa:122997000:507782004",
+      "partner_canonical_answer": "1",
+      "question": "How many people are wearing glasses?",
+      "question_id": 122997000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 122997,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 507782,
+      "original_target": "1",
+      "pair_id": "vqa:122997000:507782004",
+      "partner_canonical_answer": "2",
+      "question": "How many people are wearing glasses?",
+      "question_id": 507782004,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 489611,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 461408,
+      "original_target": "2",
+      "pair_id": "vqa:461408000:489611002",
+      "partner_canonical_answer": "1",
+      "question": "How many people are in this photo?",
+      "question_id": 461408000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 461408,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 489611,
+      "original_target": "1",
+      "pair_id": "vqa:461408000:489611002",
+      "partner_canonical_answer": "2",
+      "question": "How many people are in this photo?",
+      "question_id": 489611002,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 290026,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 175570,
+      "original_target": "1",
+      "pair_id": "vqa:175570005:290026003",
+      "partner_canonical_answer": "0",
+      "question": "How many people are walking across the street?",
+      "question_id": 175570005,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 175570,
+      "canonical_answer": "0",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 290026,
+      "original_target": "0",
+      "pair_id": "vqa:175570005:290026003",
+      "partner_canonical_answer": "1",
+      "question": "How many people are walking across the street?",
+      "question_id": 290026003,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 261999,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 136833,
+      "original_target": "2",
+      "pair_id": "vqa:136833000:261999012",
+      "partner_canonical_answer": "1",
+      "question": "How many motorcycles are in the picture?",
+      "question_id": 136833000,
+      "question_type": "number",
+      "reference_nll": 2.7706282138824463,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 136833,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 261999,
+      "original_target": "1",
+      "pair_id": "vqa:136833000:261999012",
+      "partner_canonical_answer": "2",
+      "question": "How many motorcycles are in the picture?",
+      "question_id": 261999012,
+      "question_type": "number",
+      "reference_nll": 5.291032791137695,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 507782,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 122997,
+      "original_target": "2",
+      "pair_id": "vqa:122997000:507782004",
+      "partner_canonical_answer": "1",
+      "question": "How many people are wearing glasses?",
+      "question_id": 122997000,
+      "question_type": "number",
+      "reference_nll": 0.48029452562332153,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 122997,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 507782,
+      "original_target": "1",
+      "pair_id": "vqa:122997000:507782004",
+      "partner_canonical_answer": "2",
+      "question": "How many people are wearing glasses?",
+      "question_id": 507782004,
+      "question_type": "number",
+      "reference_nll": 2.621122360229492,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 489611,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 461408,
+      "original_target": "2",
+      "pair_id": "vqa:461408000:489611002",
+      "partner_canonical_answer": "1",
+      "question": "How many people are in this photo?",
+      "question_id": 461408000,
+      "question_type": "number",
+      "reference_nll": 2.2727317810058594,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 461408,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 489611,
+      "original_target": "1",
+      "pair_id": "vqa:461408000:489611002",
+      "partner_canonical_answer": "2",
+      "question": "How many people are in this photo?",
+      "question_id": 489611002,
+      "question_type": "number",
+      "reference_nll": 2.1530239582061768,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 290026,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 175570,
+      "original_target": "1",
+      "pair_id": "vqa:175570005:290026003",
+      "partner_canonical_answer": "0",
+      "question": "How many people are walking across the street?",
+      "question_id": 175570005,
+      "question_type": "number",
+      "reference_nll": 0.8964859843254089,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 175570,
+      "canonical_answer": "0",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 290026,
+      "original_target": "0",
+      "pair_id": "vqa:175570005:290026003",
+      "partner_canonical_answer": "1",
+      "question": "How many people are walking across the street?",
+      "question_id": 290026003,
+      "question_type": "number",
+      "reference_nll": 6.594589710235596,
+      "reference_seconds": 0.012376377242617309,
+      "references": [
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "0075eedde51978e1bdcdc241e69ad84de79ff25141a6909ec01aa345df7d871c"
+}

@@ -1,0 +1,1541 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 565043,
+      "original_target": "yes",
+      "pair_id": "vqa:107234000:565043002",
+      "partner_canonical_answer": "no",
+      "question": "He is wearing a bow tie?",
+      "question_id": 565043002,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 107234,
+      "original_target": "no",
+      "pair_id": "vqa:107234000:565043002",
+      "partner_canonical_answer": "yes",
+      "question": "He is wearing a bow tie?",
+      "question_id": 107234000,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 550051,
+      "original_target": "yes",
+      "pair_id": "vqa:67563004:550051001",
+      "partner_canonical_answer": "no",
+      "question": "Is this a street cafe?",
+      "question_id": 550051001,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "no",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 67563,
+      "original_target": "no",
+      "pair_id": "vqa:67563004:550051001",
+      "partner_canonical_answer": "yes",
+      "question": "Is this a street cafe?",
+      "question_id": 67563004,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 564283,
+      "original_target": "yes",
+      "pair_id": "vqa:462527003:564283005",
+      "partner_canonical_answer": "no",
+      "question": "Is there a toaster on the counter?",
+      "question_id": 564283005,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 462527,
+      "original_target": "no",
+      "pair_id": "vqa:462527003:564283005",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a toaster on the counter?",
+      "question_id": 462527003,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 397008,
+      "original_target": "no",
+      "pair_id": "vqa:397008003:441873007",
+      "partner_canonical_answer": "yes",
+      "question": "Was this picture taken recently?",
+      "question_id": 397008003,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "no",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 441873,
+      "original_target": "yes",
+      "pair_id": "vqa:397008003:441873007",
+      "partner_canonical_answer": "no",
+      "question": "Was this picture taken recently?",
+      "question_id": 441873007,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "maybe",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "no",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "no",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        566,
+        374,
+        12233,
+        264,
+        15273,
+        18131,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes he is wearing bow tie",
+      "original_image_id": 565043,
+      "original_target": "yes",
+      "pair_id": "vqa:107234000:565043002",
+      "partner_canonical_answer": "no",
+      "prediction_text": "Yes, he is wearing a bow tie.",
+      "question": "He is wearing a bow tie?",
+      "question_id": 565043002,
+      "question_type": "yes/no",
+      "raw_response": "Yes, he is wearing a bow tie.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.40777063369751,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        566,
+        374,
+        12233,
+        264,
+        15273,
+        18131,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes he is wearing bow tie",
+      "original_image_id": 107234,
+      "original_target": "no",
+      "pair_id": "vqa:107234000:565043002",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "Yes, he is wearing a bow tie.",
+      "question": "He is wearing a bow tie?",
+      "question_id": 107234000,
+      "question_type": "yes/no",
+      "raw_response": "Yes, he is wearing a bow tie.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 6.36089563369751,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        419,
+        374,
+        264,
+        8592,
+        40930,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes this is street cafe",
+      "original_image_id": 550051,
+      "original_target": "yes",
+      "pair_id": "vqa:67563004:550051001",
+      "partner_canonical_answer": "no",
+      "prediction_text": "Yes, this is a street cafe.",
+      "question": "Is this a street cafe?",
+      "question_id": 550051001,
+      "question_type": "yes/no",
+      "raw_response": "Yes, this is a street cafe.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.437425136566162,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "no",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        419,
+        374,
+        264,
+        8592,
+        40930,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes this is street cafe",
+      "original_image_id": 67563,
+      "original_target": "no",
+      "pair_id": "vqa:67563004:550051001",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "Yes, this is a street cafe.",
+      "question": "Is this a street cafe?",
+      "question_id": 67563004,
+      "question_type": "yes/no",
+      "raw_response": "Yes, this is a street cafe.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 7.703050136566162,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        1052,
+        374,
+        264,
+        89818,
+        389,
+        279,
+        5546,
+        13,
+        1084,
+        374,
+        16626,
+        1483,
+        311,
+        22405
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes there is toaster on counter it is commonly used to toast",
+      "original_image_id": 564283,
+      "original_target": "yes",
+      "pair_id": "vqa:462527003:564283005",
+      "partner_canonical_answer": "no",
+      "prediction_text": "Yes, there is a toaster on the counter. It is commonly used to toast",
+      "question": "Is there a toaster on the counter?",
+      "question_id": 564283005,
+      "question_type": "yes/no",
+      "raw_response": "Yes, there is a toaster on the counter. It is commonly used to toast",
+      "reached_token_cap": true,
+      "reference_nll": 5.511906623840332,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        1052,
+        374,
+        264,
+        89818,
+        389,
+        279,
+        5546,
+        13,
+        1084,
+        374,
+        16626,
+        1483,
+        311,
+        22405
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes there is toaster on counter it is commonly used to toast",
+      "original_image_id": 462527,
+      "original_target": "no",
+      "pair_id": "vqa:462527003:564283005",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "Yes, there is a toaster on the counter. It is commonly used to toast",
+      "question": "Is there a toaster on the counter?",
+      "question_id": 462527003,
+      "question_type": "yes/no",
+      "raw_response": "Yes, there is a toaster on the counter. It is commonly used to toast",
+      "reached_token_cap": true,
+      "reference_nll": 8.800969123840332,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2132,
+        13798,
+        389,
+        279,
+        3151,
+        2168,
+        498,
+        2299,
+        22023,
+        311,
+        13,
+        1416,
+        498,
+        646,
+        7512,
+        279
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "it depends on specific image you're referring to if you can describe",
+      "original_image_id": 397008,
+      "original_target": "no",
+      "pair_id": "vqa:397008003:441873007",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "It depends on the specific image you're referring to. If you can describe the",
+      "question": "Was this picture taken recently?",
+      "question_id": 397008003,
+      "question_type": "yes/no",
+      "raw_response": "It depends on the specific image you're referring to. If you can describe the",
+      "reached_token_cap": true,
+      "reference_nll": 6.536854267120361,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "no",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2132,
+        13798,
+        389,
+        279,
+        3151,
+        2168,
+        498,
+        2299,
+        22023,
+        311,
+        13,
+        1416,
+        498,
+        646,
+        7512,
+        279
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13287061313167214,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "it depends on specific image you're referring to if you can describe",
+      "original_image_id": 441873,
+      "original_target": "yes",
+      "pair_id": "vqa:397008003:441873007",
+      "partner_canonical_answer": "no",
+      "prediction_text": "It depends on the specific image you're referring to. If you can describe the",
+      "question": "Was this picture taken recently?",
+      "question_id": 441873007,
+      "question_type": "yes/no",
+      "raw_response": "It depends on the specific image you're referring to. If you can describe the",
+      "reached_token_cap": true,
+      "reference_nll": 6.255604267120361,
+      "reference_seconds": 0.008673448144691065,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "maybe",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "no",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "no",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

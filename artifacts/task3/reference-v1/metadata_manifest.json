@@ -1,0 +1,12 @@
+{
+  "mathvista_testmini.json": {
+    "url": "https://raw.githubusercontent.com/lupantech/MathVista/c5acd37d75a8c8f9756cb66c78fe2e54fa2c31fb/data/testmini.json",
+    "bytes": 871725,
+    "sha256": "ab0148dca9d401c31cc47f29b3826eec28a76ff155a1c0878d81e8daf0413480"
+  },
+  "qwen25_model_info.json": {
+    "url": "https://huggingface.co/api/models/Qwen/Qwen2.5-3B-Instruct/revision/aa8e72537993ba99e69dfaafa59ed015b17504d1",
+    "bytes": 7650,
+    "sha256": "88679dacdfe2a70d0306b5f93ff2a1308f115b9a91704d0f61573fe124d9b225"
+  }
+}

@@ -1,0 +1,1462 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 517612,
+      "canonical_answer": "skiing",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 343703,
+      "original_target": "skiing",
+      "pair_id": "vqa:343703003:441472006",
+      "partner_canonical_answer": "snowboarding",
+      "question": "What is the person in the scene doing?",
+      "question_id": 343703003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 30992,
+      "canonical_answer": "snowboarding",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 441472,
+      "original_target": "snowboarding",
+      "pair_id": "vqa:343703003:441472006",
+      "partner_canonical_answer": "skiing",
+      "question": "What is the person in the scene doing?",
+      "question_id": 441472006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skating",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 505650,
+      "canonical_answer": "dog",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 226291,
+      "original_target": "dog",
+      "pair_id": "vqa:226291000:244099019",
+      "partner_canonical_answer": "horse",
+      "question": "What kind of animal is this?",
+      "question_id": 226291000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 134886,
+      "canonical_answer": "horse",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 244099,
+      "original_target": "horse",
+      "pair_id": "vqa:226291000:244099019",
+      "partner_canonical_answer": "dog",
+      "question": "What kind of animal is this?",
+      "question_id": 244099019,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 67896,
+      "canonical_answer": "brown",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 329940,
+      "original_target": "brown",
+      "pair_id": "vqa:329940002:566414015",
+      "partner_canonical_answer": "red",
+      "question": "What color is the building?",
+      "question_id": 329940002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red brick",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 538204,
+      "canonical_answer": "red",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 566414,
+      "original_target": "red",
+      "pair_id": "vqa:329940002:566414015",
+      "partner_canonical_answer": "brown",
+      "question": "What color is the building?",
+      "question_id": 566414015,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 488736,
+      "canonical_answer": "dogs",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 423410,
+      "original_target": "dogs",
+      "pair_id": "vqa:381037036:423410003",
+      "partner_canonical_answer": "cat",
+      "question": "What type of animals are looking through the glass?",
+      "question_id": 423410003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 329940,
+      "canonical_answer": "cat",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 381037,
+      "original_target": "cat",
+      "pair_id": "vqa:381037036:423410003",
+      "partner_canonical_answer": "dogs",
+      "question": "What type of animals are looking through the glass?",
+      "question_id": 381037036,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "cat",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "cats",
+          "answer_confidence": "no",
+          "answer_id": 5
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "none",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 517612,
+      "canonical_answer": "skiing",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        49680,
+        264,
+        97982,
+        151645
+      ],
+      "generated_tokens": 4,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "riding skateboard",
+      "original_image_id": 343703,
+      "original_target": "skiing",
+      "pair_id": "vqa:343703003:441472006",
+      "partner_canonical_answer": "snowboarding",
+      "prediction_text": "riding a skateboard",
+      "question": "What is the person in the scene doing?",
+      "question_id": 343703003,
+      "question_type": "other",
+      "raw_response": "riding a skateboard<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.1669583320617676,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "skiing",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 30992,
+      "canonical_answer": "snowboarding",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        7173,
+        287,
+        264,
+        4935,
+        151645
+      ],
+      "generated_tokens": 5,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "catching ball",
+      "original_image_id": 441472,
+      "original_target": "snowboarding",
+      "pair_id": "vqa:343703003:441472006",
+      "partner_canonical_answer": "skiing",
+      "prediction_text": "catching a ball",
+      "question": "What is the person in the scene doing?",
+      "question_id": 441472006,
+      "question_type": "other",
+      "raw_response": "catching a ball<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 9.386577606201172,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skating",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "snowboarding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 505650,
+      "canonical_answer": "dog",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        59675,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "horse",
+      "original_image_id": 226291,
+      "original_target": "dog",
+      "pair_id": "vqa:226291000:244099019",
+      "partner_canonical_answer": "horse",
+      "prediction_text": "horse",
+      "question": "What kind of animal is this?",
+      "question_id": 226291000,
+      "question_type": "other",
+      "raw_response": "horse<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 7.008369445800781,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "dog",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 134886,
+      "canonical_answer": "horse",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        6918,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "car",
+      "original_image_id": 244099,
+      "original_target": "horse",
+      "pair_id": "vqa:226291000:244099019",
+      "partner_canonical_answer": "dog",
+      "prediction_text": "car",
+      "question": "What kind of animal is this?",
+      "question_id": 244099019,
+      "question_type": "other",
+      "raw_response": "car<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.287436008453369,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 67896,
+      "canonical_answer": "brown",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        13250,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "green",
+      "original_image_id": 329940,
+      "original_target": "brown",
+      "pair_id": "vqa:329940002:566414015",
+      "partner_canonical_answer": "red",
+      "prediction_text": "green",
+      "question": "What color is the building?",
+      "question_id": 329940002,
+      "question_type": "other",
+      "raw_response": "green<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.508586883544922,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red brick",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 538204,
+      "canonical_answer": "red",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        13250,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "green",
+      "original_image_id": 566414,
+      "original_target": "red",
+      "pair_id": "vqa:329940002:566414015",
+      "partner_canonical_answer": "brown",
+      "prediction_text": "green",
+      "question": "What color is the building?",
+      "question_id": 566414015,
+      "question_type": "other",
+      "raw_response": "green<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.7164616584777832,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 488736,
+      "canonical_answer": "dogs",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        331,
+        89888,
+        97966,
+        151645
+      ],
+      "generated_tokens": 4,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "chimpanzee",
+      "original_image_id": 423410,
+      "original_target": "dogs",
+      "pair_id": "vqa:381037036:423410003",
+      "partner_canonical_answer": "cat",
+      "prediction_text": "chimpanzee",
+      "question": "What type of animals are looking through the glass?",
+      "question_id": 423410003,
+      "question_type": "other",
+      "raw_response": "chimpanzee<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.9231138229370117,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "dogs",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 329940,
+      "canonical_answer": "cat",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        80034,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.05322055172291584,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "dogs",
+      "original_image_id": 381037,
+      "original_target": "cat",
+      "pair_id": "vqa:381037036:423410003",
+      "partner_canonical_answer": "dogs",
+      "prediction_text": "dogs",
+      "question": "What type of animals are looking through the glass?",
+      "question_id": 381037036,
+      "question_type": "other",
+      "raw_response": "dogs<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.5515265464782715,
+      "reference_seconds": 0.011529676761711016,
+      "references": [
+        {
+          "answer": "cat",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "cats",
+          "answer_confidence": "no",
+          "answer_id": 5
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "none",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "4cb7857d43de6cc0c03a641caed005b2b758b225f8168ce8614516052be82f1e"
+}

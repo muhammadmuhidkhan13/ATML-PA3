@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 545550,
+      "caption_id": 184690,
+      "image_id": 545550,
+      "original_target": "A girl is eating a slice of pizza.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 214109,
+      "caption_id": 824979,
+      "image_id": 214109,
+      "original_target": "Benches in a park with broken caution tape on them.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 540740,
+      "caption_id": 659354,
+      "image_id": 540740,
+      "original_target": "A boy jumping a skateboard ramp jump in front of others.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 260922,
+      "caption_id": 793832,
+      "image_id": 260922,
+      "original_target": "A clock lit up at night time on a building corner.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 138079,
+      "caption_id": 157764,
+      "image_id": 138079,
+      "original_target": "A varying palette of neutrals in a bathroom awaits the softening of the cabinetry.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 432962,
+      "caption_id": 216859,
+      "image_id": 432962,
+      "original_target": "A pretty white dog gazing out the window in the rearview mirror.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 504224,
+      "caption_id": 763926,
+      "image_id": 504224,
+      "original_target": "THIS IS A PHOTO OF A MAN WORKING ON SOME SORT OF CRAFT PRJECT",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 11197,
+      "caption_id": 657677,
+      "image_id": 11197,
+      "original_target": "Couple of people standing at an intersection waiting to cross.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 545550,
+      "caption_id": 184690,
+      "image_id": 545550,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A girl is eating a slice of pizza.",
+      "question": "Describe this image.",
+      "reference_nll": 0.6585530042648315,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 214109,
+      "caption_id": 824979,
+      "image_id": 214109,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Benches in a park with broken caution tape on them.",
+      "question": "Describe this image.",
+      "reference_nll": 3.25897479057312,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 540740,
+      "caption_id": 659354,
+      "image_id": 540740,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A boy jumping a skateboard ramp jump in front of others.",
+      "question": "Describe this image.",
+      "reference_nll": 3.053502321243286,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 260922,
+      "caption_id": 793832,
+      "image_id": 260922,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A clock lit up at night time on a building corner.",
+      "question": "Describe this image.",
+      "reference_nll": 2.6174533367156982,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 138079,
+      "caption_id": 157764,
+      "image_id": 138079,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A varying palette of neutrals in a bathroom awaits the softening of the cabinetry.",
+      "question": "Describe this image.",
+      "reference_nll": 3.9187967777252197,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 432962,
+      "caption_id": 216859,
+      "image_id": 432962,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A pretty white dog gazing out the window in the rearview mirror.",
+      "question": "Describe this image.",
+      "reference_nll": 2.2746198177337646,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 504224,
+      "caption_id": 763926,
+      "image_id": 504224,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "THIS IS A PHOTO OF A MAN WORKING ON SOME SORT OF CRAFT PRJECT",
+      "question": "Describe this image.",
+      "reference_nll": 3.256497859954834,
+      "reference_seconds": 0.012894330371636897
+    },
+    {
+      "actual_image_id": 11197,
+      "caption_id": 657677,
+      "image_id": 11197,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Couple of people standing at an intersection waiting to cross.",
+      "question": "Describe this image.",
+      "reference_nll": 2.4418883323669434,
+      "reference_seconds": 0.012894330371636897
+    }
+  ],
+  "spec_id": "24725920d3824a1b0d957b25ae98d5c5aa5a30a179954cb975af0a76b327123b"
+}

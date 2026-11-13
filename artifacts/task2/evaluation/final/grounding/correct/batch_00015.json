@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 454610,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 454610,
+      "original_target": "2",
+      "pair_id": "ground:test:60",
+      "partner_canonical_answer": "1",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:60:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 44993,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 44993,
+      "original_target": "1",
+      "pair_id": "ground:test:60",
+      "partner_canonical_answer": "2",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:60:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 51376,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 51376,
+      "original_target": "1",
+      "pair_id": "ground:test:61",
+      "partner_canonical_answer": "2",
+      "question": "How many spoons can you see?",
+      "question_id": "ground:test:61:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 308543,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 308543,
+      "original_target": "2",
+      "pair_id": "ground:test:61",
+      "partner_canonical_answer": "1",
+      "question": "How many spoons can you see?",
+      "question_id": "ground:test:61:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 5388,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 5388,
+      "original_target": "4",
+      "pair_id": "ground:test:62",
+      "partner_canonical_answer": "1",
+      "question": "How many baseball gloves can you see?",
+      "question_id": "ground:test:62:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 530013,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 530013,
+      "original_target": "1",
+      "pair_id": "ground:test:62",
+      "partner_canonical_answer": "4",
+      "question": "How many baseball gloves can you see?",
+      "question_id": "ground:test:62:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 443347,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 443347,
+      "original_target": "2",
+      "pair_id": "ground:test:63",
+      "partner_canonical_answer": "3",
+      "question": "How many hot dogs can you see?",
+      "question_id": "ground:test:63:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 217522,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 217522,
+      "original_target": "3",
+      "pair_id": "ground:test:63",
+      "partner_canonical_answer": "2",
+      "question": "How many hot dogs can you see?",
+      "question_id": "ground:test:63:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 454610,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        19,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "4",
+      "original_image_id": 454610,
+      "original_target": "2",
+      "pair_id": "ground:test:60",
+      "partner_canonical_answer": "1",
+      "prediction_text": "4",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:60:0",
+      "question_type": "counting",
+      "raw_response": "4<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.9556292295455933,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 44993,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        19,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "4",
+      "original_image_id": 44993,
+      "original_target": "1",
+      "pair_id": "ground:test:60",
+      "partner_canonical_answer": "2",
+      "prediction_text": "4",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:60:1",
+      "question_type": "counting",
+      "raw_response": "4<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.657036304473877,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 51376,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 51376,
+      "original_target": "1",
+      "pair_id": "ground:test:61",
+      "partner_canonical_answer": "2",
+      "prediction_text": "2",
+      "question": "How many spoons can you see?",
+      "question_id": "ground:test:61:0",
+      "question_type": "counting",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.8542283773422241,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 308543,
+      "canonical_answer": "2",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 308543,
+      "original_target": "2",
+      "pair_id": "ground:test:61",
+      "partner_canonical_answer": "1",
+      "prediction_text": "2",
+      "question": "How many spoons can you see?",
+      "question_id": "ground:test:61:1",
+      "question_type": "counting",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.4068527817726135,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 5388,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 5388,
+      "original_target": "4",
+      "pair_id": "ground:test:62",
+      "partner_canonical_answer": "1",
+      "prediction_text": "3",
+      "question": "How many baseball gloves can you see?",
+      "question_id": "ground:test:62:0",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.2903286218643188,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 530013,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 530013,
+      "original_target": "1",
+      "pair_id": "ground:test:62",
+      "partner_canonical_answer": "4",
+      "prediction_text": "3",
+      "question": "How many baseball gloves can you see?",
+      "question_id": "ground:test:62:1",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.0852701663970947,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 443347,
+      "canonical_answer": "2",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 443347,
+      "original_target": "2",
+      "pair_id": "ground:test:63",
+      "partner_canonical_answer": "3",
+      "prediction_text": "2",
+      "question": "How many hot dogs can you see?",
+      "question_id": "ground:test:63:0",
+      "question_type": "counting",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.038880299776792526,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 217522,
+      "canonical_answer": "3",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.036644248641096056,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 217522,
+      "original_target": "3",
+      "pair_id": "ground:test:63",
+      "partner_canonical_answer": "2",
+      "prediction_text": "3",
+      "question": "How many hot dogs can you see?",
+      "question_id": "ground:test:63:1",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.2575033903121948,
+      "reference_seconds": 0.011621133598964661,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "863818c935dc3c5db34bace548670564cc7b17f86dcc92490527b66645484782"
+}

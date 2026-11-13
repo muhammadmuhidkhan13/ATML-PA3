@@ -1,0 +1,42 @@
+{
+  "backend": {
+    "attention": "sdpa",
+    "batch_size": 1,
+    "cuda": "13.0",
+    "device": "cuda:0",
+    "dtype": "float16",
+    "gpu_capability": [
+      8,
+      6
+    ],
+    "gpu_name": "NVIDIA GeForce RTX 3090",
+    "gpu_total_bytes": 25295323136,
+    "gpu_uuid": "db1010f5-7a8e-a527-b48e-2a8a4d98060b",
+    "math_verify": "0.9.0",
+    "model": "Qwen/Qwen2.5-3B-Instruct",
+    "model_lock": "6b002a2c75b2f50624235fc1ab5f95eae42c56a6b09d343f592350c39608640c",
+    "numpy": "2.4.6",
+    "python": "3.12.15",
+    "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+    "sympy": "1.14.0",
+    "torch": "2.14.1+cu130",
+    "transformers": "5.22.1"
+  },
+  "chat_template_sha256": "cd8e9439f0570856fd70470bf8889ebd8b5d1107207f67a5efb46e342330527f",
+  "generation_api": "GenerationConfig + generate; no training",
+  "hardware": {
+    "capability": [
+      8,
+      6
+    ],
+    "free_bytes": 25017319424,
+    "name": "NVIDIA GeForce RTX 3090",
+    "total_bytes": 25295323136
+  },
+  "loading_seconds": 5.2679831919958815,
+  "native_generation_config": "{\n  \"bos_token_id\": 151643,\n  \"pad_token_id\": 151643,\n  \"do_sample\": true,\n  \"eos_token_id\": [\n    151645,\n    151643\n  ],\n  \"repetition_penalty\": 1.05,\n  \"temperature\": 0.7,\n  \"top_p\": 0.8,\n  \"top_k\": 20,\n  \"transformers_version\": \"4.37.0\"\n}",
+  "offloaded": false,
+  "padding_side": "right",
+  "quantized": false,
+  "weights_trainable": false
+}

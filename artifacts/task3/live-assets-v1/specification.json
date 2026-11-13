@@ -1,0 +1,34 @@
+{
+  "protocol": {
+    "batch_size": 1,
+    "dtype": "float16",
+    "instruction": "Think step by step inside <think> </think> tags, then give your final answer inside \\boxed{}.",
+    "limits": {
+      "longer": 3072,
+      "parallel0": 1024,
+      "parallel1": 1024,
+      "parallel2": 1024,
+      "revision": 2048
+    },
+    "model": "Qwen/Qwen2.5-3B-Instruct",
+    "quantization": false,
+    "review": "Review the solution above. Identify and correct any errors; if it is correct, retain its answer. Give your final answer inside \\boxed{}.",
+    "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+    "sampling": {
+      "do_sample": true,
+      "num_beams": 1,
+      "repetition_penalty": 1.0,
+      "temperature": 0.7,
+      "top_k": 20,
+      "top_p": 0.8,
+      "use_cache": true
+    },
+    "seed": 6304,
+    "system": "You are a helpful assistant."
+  },
+  "question_source_manifest": "80f6e32e6de2141a747a0a2828e7d427dd7b546afe15b9fbd169ea8359941d79",
+  "scorer_sha256": "d54fca48e1eb208d8531931789ec14920e02ff74892a06831b65509b71b7b05e",
+  "seed_derivation": "first 8 hex digits of task3.io.identity({seed:6304,question_id,unique_call}) as uint32",
+  "unique_calls": 250,
+  "version": "live-v1"
+}

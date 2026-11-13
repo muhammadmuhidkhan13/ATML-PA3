@@ -1,0 +1,4 @@
+# Preserve byte-addressed inputs and evidence on Windows and Linux.
+* -text
+*.py diff=python
+*.sh text eol=lf

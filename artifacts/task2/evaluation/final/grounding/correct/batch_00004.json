@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 156278,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 156278,
+      "original_target": "yes",
+      "pair_id": "ground:test:16",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain knife?",
+      "question_id": "ground:test:16:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 210208,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 210208,
+      "original_target": "no",
+      "pair_id": "ground:test:16",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain knife?",
+      "question_id": "ground:test:16:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 193442,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 193442,
+      "original_target": "yes",
+      "pair_id": "ground:test:17",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain donut?",
+      "question_id": "ground:test:17:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 504248,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 504248,
+      "original_target": "no",
+      "pair_id": "ground:test:17",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain donut?",
+      "question_id": "ground:test:17:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 439481,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 439481,
+      "original_target": "yes",
+      "pair_id": "ground:test:18",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain horse?",
+      "question_id": "ground:test:18:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 508949,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 508949,
+      "original_target": "no",
+      "pair_id": "ground:test:18",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain horse?",
+      "question_id": "ground:test:18:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 305695,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 305695,
+      "original_target": "yes",
+      "pair_id": "ground:test:19",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain zebra?",
+      "question_id": "ground:test:19:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 377113,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 377113,
+      "original_target": "no",
+      "pair_id": "ground:test:19",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain zebra?",
+      "question_id": "ground:test:19:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 156278,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 156278,
+      "original_target": "yes",
+      "pair_id": "ground:test:16",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain knife?",
+      "question_id": "ground:test:16:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.09770993143320084,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 210208,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 210208,
+      "original_target": "no",
+      "pair_id": "ground:test:16",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain knife?",
+      "question_id": "ground:test:16:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.0172815453261137,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 193442,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 193442,
+      "original_target": "yes",
+      "pair_id": "ground:test:17",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain donut?",
+      "question_id": "ground:test:17:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.009611048735678196,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 504248,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 504248,
+      "original_target": "no",
+      "pair_id": "ground:test:17",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain donut?",
+      "question_id": "ground:test:17:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.14343862235546112,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 439481,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 439481,
+      "original_target": "yes",
+      "pair_id": "ground:test:18",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain horse?",
+      "question_id": "ground:test:18:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.027277888730168343,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 508949,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 508949,
+      "original_target": "no",
+      "pair_id": "ground:test:18",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain horse?",
+      "question_id": "ground:test:18:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.011482344008982182,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 305695,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 305695,
+      "original_target": "yes",
+      "pair_id": "ground:test:19",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain zebra?",
+      "question_id": "ground:test:19:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.44640618562698364,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 377113,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0251357689849101,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 377113,
+      "original_target": "no",
+      "pair_id": "ground:test:19",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain zebra?",
+      "question_id": "ground:test:19:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.2782364785671234,
+      "reference_seconds": 0.017769400496035814,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "863818c935dc3c5db34bace548670564cc7b17f86dcc92490527b66645484782"
+}

@@ -1,0 +1,32 @@
+{
+  "batch_hashes": {
+    "batch_00000.json": "71a1d6ffb6018814f1c107f6c4271c29d2c8acfa2d82df8a8cb502a7aad739c4",
+    "batch_00001.json": "2fc04ae7e538c9a9528e64bca4918a3f6e17f1c17d1dd1f77e2f94d31acac652",
+    "batch_00002.json": "f17ebfc1f11286dfb3af0d3ad79ec72e3a4436aca168c76eb29c60a878d9a7ef",
+    "batch_00003.json": "94e9f714c6dbb37af730f9adaea0b04bf22b193ee8a1985f4d5152c857f0c82f",
+    "batch_00004.json": "e07d62497c12080af87ca50d29463e2b22d41116d5d53f42c188ebd7573fc4db",
+    "batch_00005.json": "6effaa711c9cbbca01e799a45f0292483f8cbd7e3a0b00160e93ab7d07904ed1",
+    "batch_00006.json": "d7b84845d02c33b04bd5f54431337ceb850b97a7ebeb2a2cd150255f27a71a4a",
+    "batch_00007.json": "595a9faecedc246598840cafec60608d14623f011b12f411edb788f6591be068",
+    "batch_00008.json": "bbd377fde0febbf6724a4be129f0256300c361d5b9c7c5bc51414a0a9a4ff977",
+    "batch_00009.json": "f17b4081346bac5f0502893640d580ef6d568726d689edc6bf57d7bda21ccec9",
+    "batch_00010.json": "752377fbf0da0cc7fb889262e8aeb12b204d0827208a7bb0d5b4aefa2a650b53",
+    "batch_00011.json": "e610864543694fd629131315ff6e3820275e7b0bad757de523e8fe46f6184b8f"
+  },
+  "batch_size": 8,
+  "complete": true,
+  "expected_examples": 96,
+  "inputs_id": "e4c7a322d5c74e523536dae85c115fa534d50b7b6ce3d3df6726ae967c82e6fd",
+  "spec": {
+    "dataset": "46200aa0b1fe350021683bbaea897310703942d621a8c43b0f651bcc39fded57",
+    "kind": "development",
+    "model_identity": {
+      "global_update": 4000,
+      "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+      "stage": 3
+    },
+    "schema_version": 2,
+    "suite": "captions"
+  },
+  "spec_id": "14b22e12ac947fe5ecc0a172c644221a505236a990359dbe15c23cab2df421e2"
+}

@@ -1,0 +1,85 @@
+{
+  "coco": {
+    "bytes": 252872794,
+    "etag": "\"0a379cfc70b0e71301e0f377548639bd\"",
+    "extracted": {
+      "captions_train2014.json": "dd8c9636dc11740f956e36728866ea0c4ebe4988dcbdc5e712b7c2267f152d12",
+      "captions_val2014.json": "7da4cc45cb76ee1642d163e846e1e0a33feffac2e841c9c426d585ea499165a4",
+      "instances_train2014.json": "777ef504abfeba349930485bb32ecd5b6529129a3e010f7852e1437cb049b732",
+      "instances_val2014.json": "e1b4d1bc54906827b1a029981b1c77f2088bd4462569b7615db7929070c3ab47",
+      "person_keypoints_train2014.json": "e6f7586e480081c4da709c5c0daff501bb0a0c50b76ec5adf74aef76bf18c089",
+      "person_keypoints_val2014.json": "82866d007626197bb0fbfc8cbc3876f7135206057087f83515270c8fb3a12f01"
+    },
+    "last_modified": "Tue, 10 Jul 2018 17:58:17 GMT",
+    "sha256": "031296bbc80c45a1d1f76bf9a90ead27e94e99ec629208449507a4917a3bf009",
+    "url": "https://s3.amazonaws.com/images.cocodataset.org/annotations/annotations_trainval2014.zip"
+  },
+  "normalization": {
+    "bytes": 8428,
+    "etag": "W/\"0dac7d1b0379dad2c5e5f62ae066ee607e2a99d0056ac8f2c40b7304bc3a4fb1\"",
+    "last_modified": null,
+    "revision": "a013f0043c1e2cdc995922dfe257f7149aa9af06",
+    "sha256": "f08edfcad5be0112500993e245c706b6cb928eadebe203f89f838e5e0d04bec8",
+    "url": "https://raw.githubusercontent.com/GT-Vision-Lab/VQA/a013f0043c1e2cdc995922dfe257f7149aa9af06/PythonEvaluationTools/vqaEvaluation/vqaEval.py"
+  },
+  "vqa_train_annotations": {
+    "bytes": 21708861,
+    "etag": "\"c76d6493c42594bbb3456468c9351a7e-2\"",
+    "extracted": {
+      "v2_mscoco_train2014_annotations.json": "770d2d3980e7838d6186082e0ddeddd804014c390ae45a592e996d6baf841d92"
+    },
+    "last_modified": "Wed, 07 May 2025 23:52:35 GMT",
+    "sha256": "fb101bcefe91422c543c2bb6d70af11eb3119d0ff745ae283d09acdf66250853",
+    "url": "https://cvmlp.s3.amazonaws.com/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip"
+  },
+  "vqa_train_complementary_pairs": {
+    "bytes": 1643822,
+    "etag": "\"16d0d110dcc2d1d32a5fc8febdd3d271\"",
+    "extracted": {
+      "v2_mscoco_train2014_complementary_pairs.json": "b1ac37a0bae6bd4d8073c98364f46e513647bdd6440199a2db025d45fdf9c37d"
+    },
+    "last_modified": "Wed, 07 May 2025 23:52:40 GMT",
+    "sha256": "95b8142bd2e52bccfd0d9b15c4a9c580ee03745d04ef8481e54bc4ffb8b5c40d",
+    "url": "https://cvmlp.s3.amazonaws.com/vqa/mscoco/vqa/v2_Complementary_Pairs_Train_mscoco.zip"
+  },
+  "vqa_train_questions": {
+    "bytes": 7239401,
+    "etag": "\"6785d6b8b31c901ec7847e4c65e14bb9\"",
+    "extracted": {
+      "v2_OpenEnded_mscoco_train2014_questions.json": "cb671e77b52a86fc3722b2a0ffc456c8199240391bfd97eaf2d850448404845c"
+    },
+    "last_modified": "Wed, 07 May 2025 23:52:43 GMT",
+    "sha256": "05a64b6e2582d06d7585f5429674a9a33851878be1bff9f8668cdcf792df611e",
+    "url": "https://cvmlp.s3.amazonaws.com/vqa/mscoco/vqa/v2_Questions_Train_mscoco.zip"
+  },
+  "vqa_val_annotations": {
+    "bytes": 10518930,
+    "etag": "\"4607184e3d7f057ed22f65ca55038e6b\"",
+    "extracted": {
+      "v2_mscoco_val2014_annotations.json": "0564650e712b34c246e4ad142894692bf2e45dee8e9cc6ebb2cedbe85731c4bf"
+    },
+    "last_modified": "Wed, 07 May 2025 23:52:39 GMT",
+    "sha256": "0caae7c8d1dafd852727f5ac046bc1efca9b72026bd6ffa34fc489f3a7b3291e",
+    "url": "https://cvmlp.s3.amazonaws.com/vqa/mscoco/vqa/v2_Annotations_Val_mscoco.zip"
+  },
+  "vqa_val_complementary_pairs": {
+    "bytes": 772608,
+    "etag": "\"1a38f2ceb51d0004fdfdd609fa645b4c\"",
+    "extracted": {
+      "v2_mscoco_val2014_complementary_pairs.json": "66d2dab90e7e905e2c9bf3448f3cd744e011fda33879e6109a04834f6e70c0bc"
+    },
+    "last_modified": "Wed, 07 May 2025 23:22:05 GMT",
+    "sha256": "4788add4425f17d301fbdbeb42b9ad855122ffc420ad23b5184af21dc3d2e716",
+    "url": "https://cvmlp.s3.amazonaws.com/vqa/mscoco/vqa/v2_Complementary_Pairs_Val_mscoco.zip"
+  },
+  "vqa_val_questions": {
+    "bytes": 3494929,
+    "etag": "\"b9d3a3147866ec65b7e000a4767cc8aa\"",
+    "extracted": {
+      "v2_OpenEnded_mscoco_val2014_questions.json": "f34d9c9909dea76700d361baddd63dd47b4494945097459b542d9fe840244811"
+    },
+    "last_modified": "Wed, 07 May 2025 23:52:44 GMT",
+    "sha256": "e71f6c5c3e97a51d050f28243e262b28cd0c48d11a6b4632d769d30d3f93222a",
+    "url": "https://cvmlp.s3.amazonaws.com/vqa/mscoco/vqa/v2_Questions_Val_mscoco.zip"
+  }
+}

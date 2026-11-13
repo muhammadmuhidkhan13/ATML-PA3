@@ -1,0 +1,1455 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 81390,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 81390,
+      "original_target": "2",
+      "pair_id": "vqa:34141005:81390000",
+      "partner_canonical_answer": "1",
+      "question": "How many giraffes are in the picture?",
+      "question_id": 81390000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 34141,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 34141,
+      "original_target": "1",
+      "pair_id": "vqa:34141005:81390000",
+      "partner_canonical_answer": "2",
+      "question": "How many giraffes are in the picture?",
+      "question_id": 34141005,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 437284,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 437284,
+      "original_target": "2",
+      "pair_id": "vqa:335887005:437284000",
+      "partner_canonical_answer": "674",
+      "question": "What number is on the train?",
+      "question_id": 437284000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 335887,
+      "canonical_answer": "674",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 335887,
+      "original_target": "674",
+      "pair_id": "vqa:335887005:437284000",
+      "partner_canonical_answer": "2",
+      "question": "What number is on the train?",
+      "question_id": 335887005,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 67502,
+      "canonical_answer": "8",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 67502,
+      "original_target": "8",
+      "pair_id": "vqa:67502001:188624003",
+      "partner_canonical_answer": "1",
+      "question": "How many people are posing?",
+      "question_id": 67502001,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "6",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "6",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 188624,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 188624,
+      "original_target": "1",
+      "pair_id": "vqa:67502001:188624003",
+      "partner_canonical_answer": "8",
+      "question": "How many people are posing?",
+      "question_id": 188624003,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "no",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 538204,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 538204,
+      "original_target": "3",
+      "pair_id": "vqa:347087000:538204000",
+      "partner_canonical_answer": "1",
+      "question": "How many candles are burning?",
+      "question_id": 538204000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 347087,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 347087,
+      "original_target": "1",
+      "pair_id": "vqa:347087000:538204000",
+      "partner_canonical_answer": "3",
+      "question": "How many candles are burning?",
+      "question_id": 347087000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 81390,
+      "canonical_answer": "2",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 81390,
+      "original_target": "2",
+      "pair_id": "vqa:34141005:81390000",
+      "partner_canonical_answer": "1",
+      "prediction_text": "2",
+      "question": "How many giraffes are in the picture?",
+      "question_id": 81390000,
+      "question_type": "number",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.009936394169926643,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 34141,
+      "canonical_answer": "1",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 34141,
+      "original_target": "1",
+      "pair_id": "vqa:34141005:81390000",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many giraffes are in the picture?",
+      "question_id": 34141005,
+      "question_type": "number",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.009590386413037777,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 437284,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 437284,
+      "original_target": "2",
+      "pair_id": "vqa:335887005:437284000",
+      "partner_canonical_answer": "674",
+      "prediction_text": "1",
+      "question": "What number is on the train?",
+      "question_id": 437284000,
+      "question_type": "number",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.7784086465835571,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 335887,
+      "canonical_answer": "674",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 335887,
+      "original_target": "674",
+      "pair_id": "vqa:335887005:437284000",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "What number is on the train?",
+      "question_id": 335887005,
+      "question_type": "number",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.916409730911255,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "674",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 67502,
+      "canonical_answer": "8",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        19,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "4",
+      "original_image_id": 67502,
+      "original_target": "8",
+      "pair_id": "vqa:67502001:188624003",
+      "partner_canonical_answer": "1",
+      "prediction_text": "4",
+      "question": "How many people are posing?",
+      "question_id": 67502001,
+      "question_type": "number",
+      "raw_response": "4<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.7087676525115967,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "6",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "6",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "8",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 188624,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 188624,
+      "original_target": "1",
+      "pair_id": "vqa:67502001:188624003",
+      "partner_canonical_answer": "8",
+      "prediction_text": "3",
+      "question": "How many people are posing?",
+      "question_id": 188624003,
+      "question_type": "number",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.7239121198654175,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "no",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 538204,
+      "canonical_answer": "3",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 538204,
+      "original_target": "3",
+      "pair_id": "vqa:347087000:538204000",
+      "partner_canonical_answer": "1",
+      "prediction_text": "3",
+      "question": "How many candles are burning?",
+      "question_id": 538204000,
+      "question_type": "number",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.7768025994300842,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 347087,
+      "canonical_answer": "1",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02172964537749067,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 347087,
+      "original_target": "1",
+      "pair_id": "vqa:347087000:538204000",
+      "partner_canonical_answer": "3",
+      "prediction_text": "1",
+      "question": "How many candles are burning?",
+      "question_id": 347087000,
+      "question_type": "number",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.6860530376434326,
+      "reference_seconds": 0.012683175125857815,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "031dd8247e19620da047bf47c54fb64baa063425a97960abb879e4744c0bddf8"
+}

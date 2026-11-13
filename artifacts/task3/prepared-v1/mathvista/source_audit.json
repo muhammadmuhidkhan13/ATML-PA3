@@ -1,0 +1,107 @@
+{
+  "counts": {
+    "capped": 487,
+    "missing_extracted": 3032,
+    "rows": 32000,
+    "tokens": 8961703
+  },
+  "dataset": "mathvista",
+  "duplicate_keys": 0,
+  "files": {
+    "attention_metrics": {
+      "bytes": 138497144,
+      "metadata": {
+        "attention_layers": "1..36 inclusive; all heads; arithmetic mean over layer-head pairs",
+        "attention_scenario": "all_layers_all_heads",
+        "dataset": "mathvista",
+        "experiment_group_id": "checkpoint-1-4090-b2-extended-2048",
+        "export_date": "2026-10-19",
+        "export_format_version": "1",
+        "join_key": "dataset,sample_id,rollout_id",
+        "max_new_tokens": "2048",
+        "model": "Qwen2.5-VL-3B-Instruct",
+        "model_id": "qwen2_5_vl_3b",
+        "model_revision": "local-qwen2.5-vl-3b-instruct",
+        "n_generated_text_tokens": "per-token count of previously generated retained tokens: [0,1,...,N-1]",
+        "null_policy": "undefined or unavailable values remain null; IEEE infinity is preserved",
+        "rollout_id": "zero-based rollout_index; 0..31 within each sample",
+        "run_id": "run-ab42af3666945b6b",
+        "sampling": "{\"name\": \"concentrated\", \"repetition_penalty\": 1.0, \"temperature\": 0.7, \"top_k\": 20, \"top_p\": 0.8}",
+        "split": "testmini",
+        "table": "attention_metrics",
+        "token_alignment": "list index i describes retained generated token i, predicted from prompt and tokens before i; stop tokens excluded"
+      },
+      "path": "ATML-PA3-Data/qwen25vl-mathvista/attention_metrics.parquet",
+      "schema": "dataset: string not null\nsample_id: string not null\nrollout_id: int32 not null\nn_image_tokens: int32 not null\nn_prompt_text_tokens: int32 not null\nn_generated_text_tokens: list<element: int32 not null> not null\n  child 0, element: int32 not null\nimg_attn_total: list<element: float> not null\n  child 0, element: float\nprompt_text_attn_total: list<element: float> not null\n  child 0, element: float\ngenerated_text_attn_total: list<element: float> not null\n  child 0, element: float\n-- schema metadata --\nexport_format_version: '1'\ndataset: 'mathvista'\nsplit: 'testmini'\nmodel: 'Qwen2.5-VL-3B-Instruct'\nmodel_id: 'qwen2_5_vl_3b'\nmodel_revision: 'local-qwen2.5-vl-3b-instruct'\nexperiment_group_id: 'checkpoint-1-4090-b2-extended-2048'\nrun_id: 'run-ab42af3666945b6b'\nsampling: '{\"name\": \"concentrated\", \"repetition_penalty\": 1.0, \"temperatu' + 36\nmax_new_tokens: '2048'\njoin_key: 'dataset,sample_id,rollout_id'\nrollout_id: 'zero-based rollout_index; 0..31 within each sample'\ntoken_alignment: 'list index i describes retained generated token i, pred' + 59\nnull_policy: 'undefined or unavailable values remain null; IEEE infinity ' + 12\nexport_date: '2026-10-19'\ntable: 'attention_metrics'\nattention_scenario: 'all_layers_all_heads'\nattention_layers: '1..36 inclusive; all heads; arithmetic mean over layer' + 11\nn_generated_text_tokens: 'per-token count of previously generated retaine' + 23",
+      "sha256": "4f6cfce99519808c75f950e53c957795697d8b503a7fd407fcfdd260f06d0058"
+    },
+    "generations": {
+      "bytes": 17098339,
+      "metadata": {
+        "dataset": "mathvista",
+        "experiment_group_id": "checkpoint-1-4090-b2-extended-2048",
+        "export_date": "2026-10-19",
+        "export_format_version": "1",
+        "join_key": "dataset,sample_id,rollout_id",
+        "max_new_tokens": "2048",
+        "model": "Qwen2.5-VL-3B-Instruct",
+        "model_id": "qwen2_5_vl_3b",
+        "model_revision": "local-qwen2.5-vl-3b-instruct",
+        "n_generated_text_tokens": "final retained response length N",
+        "null_policy": "undefined or unavailable values remain null; IEEE infinity is preserved",
+        "rollout_id": "zero-based rollout_index; 0..31 within each sample",
+        "run_id": "run-ab42af3666945b6b",
+        "sampling": "{\"name\": \"concentrated\", \"repetition_penalty\": 1.0, \"temperature\": 0.7, \"top_k\": 20, \"top_p\": 0.8}",
+        "split": "testmini",
+        "table": "generations",
+        "token_alignment": "list index i describes retained generated token i, predicted from prompt and tokens before i; stop tokens excluded"
+      },
+      "path": "ATML-PA3-Data/qwen25vl-mathvista/generations.parquet",
+      "schema": "dataset: string not null\nmodel: string not null\nsample_id: string not null\nrollout_id: int32 not null\nquestion_text: string not null\ngenerated_token_ids: list<element: int32 not null> not null\n  child 0, element: int32 not null\nn_generated_text_tokens: int32 not null\nhit_max_new_tokens: bool not null\ngenerated_text: string not null\ngold_answer: string not null\nextracted_answer: string\n-- schema metadata --\nexport_format_version: '1'\ndataset: 'mathvista'\nsplit: 'testmini'\nmodel: 'Qwen2.5-VL-3B-Instruct'\nmodel_id: 'qwen2_5_vl_3b'\nmodel_revision: 'local-qwen2.5-vl-3b-instruct'\nexperiment_group_id: 'checkpoint-1-4090-b2-extended-2048'\nrun_id: 'run-ab42af3666945b6b'\nsampling: '{\"name\": \"concentrated\", \"repetition_penalty\": 1.0, \"temperatu' + 36\nmax_new_tokens: '2048'\njoin_key: 'dataset,sample_id,rollout_id'\nrollout_id: 'zero-based rollout_index; 0..31 within each sample'\ntoken_alignment: 'list index i describes retained generated token i, pred' + 59\nnull_policy: 'undefined or unavailable values remain null; IEEE infinity ' + 12\nexport_date: '2026-10-19'\ntable: 'generations'\nn_generated_text_tokens: 'final retained response length N'",
+      "sha256": "dac12a7dc14baaa44e6c3ed8f8dfcf9d39b8493462c8a60ea162d0a66dda5435"
+    },
+    "probability_metrics": {
+      "bytes": 81118521,
+      "metadata": {
+        "dataset": "mathvista",
+        "distribution": "full-vocabulary raw logits; natural logarithms; no sampling transformations",
+        "experiment_group_id": "checkpoint-1-4090-b2-extended-2048",
+        "export_date": "2026-10-19",
+        "export_format_version": "1",
+        "join_key": "dataset,sample_id,rollout_id",
+        "max_new_tokens": "2048",
+        "model": "Qwen2.5-VL-3B-Instruct",
+        "model_id": "qwen2_5_vl_3b",
+        "model_revision": "local-qwen2.5-vl-3b-instruct",
+        "null_policy": "undefined or unavailable values remain null; IEEE infinity is preserved",
+        "rollout_id": "zero-based rollout_index; 0..31 within each sample",
+        "run_id": "run-ab42af3666945b6b",
+        "sampling": "{\"name\": \"concentrated\", \"repetition_penalty\": 1.0, \"temperature\": 0.7, \"top_k\": 20, \"top_p\": 0.8}",
+        "split": "testmini",
+        "table": "probability_metrics",
+        "token_alignment": "list index i describes retained generated token i, predicted from prompt and tokens before i; stop tokens excluded"
+      },
+      "path": "ATML-PA3-Data/qwen25vl-mathvista/probability_metrics.parquet",
+      "schema": "dataset: string not null\nsample_id: string not null\nrollout_id: int32 not null\nlogp: list<element: float> not null\n  child 0, element: float\nkl_u_p: list<element: float> not null\n  child 0, element: float\n-- schema metadata --\nexport_format_version: '1'\ndataset: 'mathvista'\nsplit: 'testmini'\nmodel: 'Qwen2.5-VL-3B-Instruct'\nmodel_id: 'qwen2_5_vl_3b'\nmodel_revision: 'local-qwen2.5-vl-3b-instruct'\nexperiment_group_id: 'checkpoint-1-4090-b2-extended-2048'\nrun_id: 'run-ab42af3666945b6b'\nsampling: '{\"name\": \"concentrated\", \"repetition_penalty\": 1.0, \"temperatu' + 36\nmax_new_tokens: '2048'\njoin_key: 'dataset,sample_id,rollout_id'\nrollout_id: 'zero-based rollout_index; 0..31 within each sample'\ntoken_alignment: 'list index i describes retained generated token i, pred' + 59\nnull_policy: 'undefined or unavailable values remain null; IEEE infinity ' + 12\nexport_date: '2026-10-19'\ntable: 'probability_metrics'\ndistribution: 'full-vocabulary raw logits; natural logarithms; no samplin' + 17",
+      "sha256": "c1c7a9b9724aa4930673c1bb5759d2d82bacc57f4a530a83f533e9d2d43102ac"
+    }
+  },
+  "invalid_values": {
+    "generated_text_attn_total": 0,
+    "img_attn_total": 0,
+    "kl_u_p": 0,
+    "logp": 0,
+    "prompt_text_attn_total": 0
+  },
+  "nonfinite_token_measurements": {
+    "generated_text_attn_total": 0,
+    "img_attn_total": 0,
+    "kl_u_p": 0,
+    "logp": 0,
+    "prompt_text_attn_total": 0
+  },
+  "questions": 1000,
+  "rollouts_per_question": 32,
+  "token_alignment": "corresponding prediction; no shift; termination excluded",
+  "unmatched_keys": 0
+}

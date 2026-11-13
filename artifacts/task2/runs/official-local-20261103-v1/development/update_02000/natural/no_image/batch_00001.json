@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 45959,
+      "original_target": "yes",
+      "pair_id": "vqa:45959003:166731000",
+      "partner_canonical_answer": "no",
+      "question": "Is there a fire hydrant next to the pole?",
+      "question_id": 45959003,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 166731,
+      "original_target": "no",
+      "pair_id": "vqa:45959003:166731000",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a fire hydrant next to the pole?",
+      "question_id": 166731000,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 385669,
+      "original_target": "no",
+      "pair_id": "vqa:385669002:539529003",
+      "partner_canonical_answer": "yes",
+      "question": "Is the sun shining?",
+      "question_id": 385669002,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 539529,
+      "original_target": "yes",
+      "pair_id": "vqa:385669002:539529003",
+      "partner_canonical_answer": "no",
+      "question": "Is the sun shining?",
+      "question_id": 539529003,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 498319,
+      "original_target": "no",
+      "pair_id": "vqa:358302006:498319004",
+      "partner_canonical_answer": "yes",
+      "question": "Is this a regular kitchen?",
+      "question_id": 498319004,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 358302,
+      "original_target": "yes",
+      "pair_id": "vqa:358302006:498319004",
+      "partner_canonical_answer": "no",
+      "question": "Is this a regular kitchen?",
+      "question_id": 358302006,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 302380,
+      "original_target": "yes",
+      "pair_id": "vqa:258243001:302380002",
+      "partner_canonical_answer": "no",
+      "question": "Does anyone appear to be drinking alcohol in this picture?",
+      "question_id": 302380002,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 258243,
+      "original_target": "no",
+      "pair_id": "vqa:258243001:302380002",
+      "partner_canonical_answer": "yes",
+      "question": "Does anyone appear to be drinking alcohol in this picture?",
+      "question_id": 258243001,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no they aren't",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 45959,
+      "original_target": "yes",
+      "pair_id": "vqa:45959003:166731000",
+      "partner_canonical_answer": "no",
+      "question": "Is there a fire hydrant next to the pole?",
+      "question_id": 45959003,
+      "question_type": "yes/no",
+      "reference_nll": 10.597562789916992,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 166731,
+      "original_target": "no",
+      "pair_id": "vqa:45959003:166731000",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a fire hydrant next to the pole?",
+      "question_id": 166731000,
+      "question_type": "yes/no",
+      "reference_nll": 10.292875289916992,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 385669,
+      "original_target": "no",
+      "pair_id": "vqa:385669002:539529003",
+      "partner_canonical_answer": "yes",
+      "question": "Is the sun shining?",
+      "question_id": 385669002,
+      "question_type": "yes/no",
+      "reference_nll": 12.621320724487305,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 539529,
+      "original_target": "yes",
+      "pair_id": "vqa:385669002:539529003",
+      "partner_canonical_answer": "no",
+      "question": "Is the sun shining?",
+      "question_id": 539529003,
+      "question_type": "yes/no",
+      "reference_nll": 9.863508224487305,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 498319,
+      "original_target": "no",
+      "pair_id": "vqa:358302006:498319004",
+      "partner_canonical_answer": "yes",
+      "question": "Is this a regular kitchen?",
+      "question_id": 498319004,
+      "question_type": "yes/no",
+      "reference_nll": 11.034810066223145,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 358302,
+      "original_target": "yes",
+      "pair_id": "vqa:358302006:498319004",
+      "partner_canonical_answer": "no",
+      "question": "Is this a regular kitchen?",
+      "question_id": 358302006,
+      "question_type": "yes/no",
+      "reference_nll": 9.628560066223145,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 302380,
+      "original_target": "yes",
+      "pair_id": "vqa:258243001:302380002",
+      "partner_canonical_answer": "no",
+      "question": "Does anyone appear to be drinking alcohol in this picture?",
+      "question_id": 302380002,
+      "question_type": "yes/no",
+      "reference_nll": 15.033644676208496,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 258243,
+      "original_target": "no",
+      "pair_id": "vqa:258243001:302380002",
+      "partner_canonical_answer": "yes",
+      "question": "Does anyone appear to be drinking alcohol in this picture?",
+      "question_id": 258243001,
+      "question_type": "yes/no",
+      "reference_nll": 10.166457176208496,
+      "reference_seconds": 0.017541787499794737,
+      "references": [
+        {
+          "answer": "no they aren't",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "9e4836543b029f4894f360156a58fa4fb0b0a4d97e8f3a295139cb32750f5b3e"
+}

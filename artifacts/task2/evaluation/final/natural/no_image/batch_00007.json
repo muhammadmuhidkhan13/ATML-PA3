@@ -1,0 +1,1527 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 226701,
+      "original_target": "yes",
+      "pair_id": "vqa:120747026:226701021",
+      "partner_canonical_answer": "no",
+      "question": "Is the room dark?",
+      "question_id": 226701021,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 120747,
+      "original_target": "no",
+      "pair_id": "vqa:120747026:226701021",
+      "partner_canonical_answer": "yes",
+      "question": "Is the room dark?",
+      "question_id": 120747026,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 269784,
+      "original_target": "yes",
+      "pair_id": "vqa:269784001:322864000",
+      "partner_canonical_answer": "no",
+      "question": "Is there a manhole?",
+      "question_id": 269784001,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 322864,
+      "original_target": "no",
+      "pair_id": "vqa:269784001:322864000",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a manhole?",
+      "question_id": 322864000,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 465735,
+      "original_target": "no",
+      "pair_id": "vqa:134886012:465735003",
+      "partner_canonical_answer": "yes",
+      "question": "Is the sky overcast?",
+      "question_id": 465735003,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 134886,
+      "original_target": "yes",
+      "pair_id": "vqa:134886012:465735003",
+      "partner_canonical_answer": "no",
+      "question": "Is the sky overcast?",
+      "question_id": 134886012,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 182175,
+      "original_target": "no",
+      "pair_id": "vqa:30356032:182175002",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a place to wash your hands?",
+      "question_id": 182175002,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 30356,
+      "original_target": "yes",
+      "pair_id": "vqa:30356032:182175002",
+      "partner_canonical_answer": "no",
+      "question": "Is there a place to wash your hands?",
+      "question_id": 30356032,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        3054,
+        374,
+        537,
+        6319,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no room is not dark",
+      "original_image_id": 226701,
+      "original_target": "yes",
+      "pair_id": "vqa:120747026:226701021",
+      "partner_canonical_answer": "no",
+      "prediction_text": "No, the room is not dark.",
+      "question": "Is the room dark?",
+      "question_id": 226701021,
+      "question_type": "yes/no",
+      "raw_response": "No, the room is not dark.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 7.352029323577881,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        3054,
+        374,
+        537,
+        6319,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no room is not dark",
+      "original_image_id": 120747,
+      "original_target": "no",
+      "pair_id": "vqa:120747026:226701021",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "No, the room is not dark.",
+      "question": "Is the room dark?",
+      "question_id": 120747026,
+      "question_type": "yes/no",
+      "raw_response": "No, the room is not dark.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.523904323577881,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        1052,
+        374,
+        264,
+        883,
+        30420,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes there is manhole",
+      "original_image_id": 269784,
+      "original_target": "yes",
+      "pair_id": "vqa:269784001:322864000",
+      "partner_canonical_answer": "no",
+      "prediction_text": "Yes, there is a manhole.",
+      "question": "Is there a manhole?",
+      "question_id": 269784001,
+      "question_type": "yes/no",
+      "raw_response": "Yes, there is a manhole.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.711784362792969,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        1052,
+        374,
+        264,
+        883,
+        30420,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes there is manhole",
+      "original_image_id": 322864,
+      "original_target": "no",
+      "pair_id": "vqa:269784001:322864000",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "Yes, there is a manhole.",
+      "question": "Is there a manhole?",
+      "question_id": 322864000,
+      "question_type": "yes/no",
+      "raw_response": "Yes, there is a manhole.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 8.196159362792969,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        12884,
+        374,
+        537,
+        916,
+        3829,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no sky is not overcast",
+      "original_image_id": 465735,
+      "original_target": "no",
+      "pair_id": "vqa:134886012:465735003",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "No, the sky is not overcast.",
+      "question": "Is the sky overcast?",
+      "question_id": 465735003,
+      "question_type": "yes/no",
+      "raw_response": "No, the sky is not overcast.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 6.524966239929199,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2753,
+        11,
+        279,
+        12884,
+        374,
+        537,
+        916,
+        3829,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no sky is not overcast",
+      "original_image_id": 134886,
+      "original_target": "yes",
+      "pair_id": "vqa:134886012:465735003",
+      "partner_canonical_answer": "no",
+      "prediction_text": "No, the sky is not overcast.",
+      "question": "Is the sky overcast?",
+      "question_id": 134886012,
+      "question_type": "yes/no",
+      "raw_response": "No, the sky is not overcast.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 7.462466239929199,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "no",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        1052,
+        525,
+        7482,
+        1380,
+        498,
+        646,
+        11369,
+        697,
+        6078,
+        11,
+        1741,
+        438,
+        1424,
+        97091
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes there are places where you can wash your hands such as handwashing",
+      "original_image_id": 182175,
+      "original_target": "no",
+      "pair_id": "vqa:30356032:182175002",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "Yes, there are places where you can wash your hands, such as handwashing",
+      "question": "Is there a place to wash your hands?",
+      "question_id": 182175002,
+      "question_type": "yes/no",
+      "raw_response": "Yes, there are places where you can wash your hands, such as handwashing",
+      "reached_token_cap": true,
+      "reference_nll": 4.861467361450195,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9454,
+        11,
+        1052,
+        525,
+        7482,
+        1380,
+        498,
+        646,
+        11369,
+        697,
+        6078,
+        11,
+        1741,
+        438,
+        1424,
+        97091
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12438598097651266,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes there are places where you can wash your hands such as handwashing",
+      "original_image_id": 30356,
+      "original_target": "yes",
+      "pair_id": "vqa:30356032:182175002",
+      "partner_canonical_answer": "no",
+      "prediction_text": "Yes, there are places where you can wash your hands, such as handwashing",
+      "question": "Is there a place to wash your hands?",
+      "question_id": 30356032,
+      "question_type": "yes/no",
+      "raw_response": "Yes, there are places where you can wash your hands, such as handwashing",
+      "reached_token_cap": true,
+      "reference_nll": 2.7833423614501953,
+      "reference_seconds": 0.008115311618894339,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

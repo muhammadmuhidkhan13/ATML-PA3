@@ -1,0 +1,72 @@
+{
+  "batch_hashes": {
+    "batch_00000.json": "3ebe1d8075b28d77f6427d689b7e6b041546905a462d0537c9d8464686e4b428",
+    "batch_00001.json": "30e961902385976b1d1a01cc505f2269cc2d7f5c4774c9efc5497220c9ec8b1c",
+    "batch_00002.json": "7b71753e175ecb75f4457f272aec0ea359d0b8c7551edbac0afa6bdab5bd847a",
+    "batch_00003.json": "de96a1114f680252b8197b153e414b78752f4347fe39b006ba11b29115187687",
+    "batch_00004.json": "2de9fce4d92ba63333c5242ed00e717f5bcbcce9d2475ef45dfaddb4b3511cbb",
+    "batch_00005.json": "481b155d4aa51d38c7d7f0cf324f336083992fd9171476181aade8ed99716079",
+    "batch_00006.json": "43e74c4e02f64f498da9df8b01ac9ab7823b26dda6af012823ea882ba7a68554",
+    "batch_00007.json": "9f555a36be3d855b691677ee72f7dffd14476f5c88f246083c0dfea608efd4b8",
+    "batch_00008.json": "553e58db33e69a7eabd2a4a67c83878649a90c23fce963949ec2972282e94b43",
+    "batch_00009.json": "e57bd39ed248199df5ebadfed6a364706305e04d3c0de7140e9ae46c8b23a37a",
+    "batch_00010.json": "40166cdfa4145de753fe975637a83c5039368affd25d6119ed0f1ba0907e4264",
+    "batch_00011.json": "e36746fb8925df3c945ee121bfb365274410a467d4f738b6f803531da5f2dba2",
+    "batch_00012.json": "454fc52cc6672d8e8f8caab3a3d08e21ab7dd4ac516e77116a75ae43b313cc08",
+    "batch_00013.json": "5f06609fe1b7f27f15c52f402a94a636110312748ca27d9ea777d47975dbeb34",
+    "batch_00014.json": "358b39ba6b30f995b4de9fd929ceaf575d1014de3cedf5adec91d29d712a12c7",
+    "batch_00015.json": "caa44cc4497b1665f330839a1fe284d53d76f77570b05b2d980bd8eba346790a"
+  },
+  "batch_size": 8,
+  "complete": true,
+  "expected_examples": 128,
+  "inputs_id": "18a396a099becb1630d925ec3c381e082864bf00a4924eea8385323e8d22a749",
+  "spec": {
+    "batch_size": 8,
+    "bootstrap_resamples": 4000,
+    "bootstrap_seed": 6304,
+    "condition": "no_image",
+    "dataset": "46200aa0b1fe350021683bbaea897310703942d621a8c43b0f651bcc39fded57",
+    "greedy": true,
+    "kind": "final",
+    "mapping_sha256": "e1585d2081e70e0d2fe332be9da58d0b826ccb8a0e24f772abd5b362be505dd2",
+    "model_identity": {
+      "checkpoint": "stage_3",
+      "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+      "progress": {
+        "completed_examples": 72000,
+        "evaluated": [
+          0,
+          500,
+          1000,
+          1500,
+          2000,
+          2250,
+          2500,
+          3000,
+          3500,
+          3750,
+          4000
+        ],
+        "global_update": 4500,
+        "mixture": {
+          "caption": 43258,
+          "counting": 7084,
+          "natural": 8426,
+          "presence": 13232
+        },
+        "sft_loss_sum": 7651.382762450841,
+        "skipped_attempts": 0,
+        "stage": 3,
+        "stage_update": 750,
+        "training_seconds": 5574.409303687658
+      },
+      "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+    },
+    "new_token_cap": 16,
+    "schema_version": 2,
+    "suite": "grounding",
+    "suite_pairs_id": "ca6475470c1be7b5572419c19268c16e1a8938f6bd9b149edf48272729537f4a"
+  },
+  "spec_id": "277091069a3348fbf32d70aacabba6a81fa689e7cfb154536cf2abb39ac0797a"
+}

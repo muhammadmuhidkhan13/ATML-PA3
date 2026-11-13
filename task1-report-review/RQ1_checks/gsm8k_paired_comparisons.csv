@@ -1,0 +1,12 @@
+﻿comparison,N,A_correct,B_correct,A_only_correct,B_only_correct,both_correct,both_wrong,difference_pp,CI95_low_pp,CI95_high_pp,exact_McNemar_p
+full_mid minus baseline,1319,575,740,154,319,421,425,12.509,9.401,15.694,2.56898e-14
+full_final minus baseline,1319,575,843,102,370,473,374,20.318,17.286,23.351,9.80843e-37
+l2sp_final minus baseline,1319,575,844,95,364,480,380,20.394,17.513,23.351,3.69717e-38
+lora4_final minus baseline,1319,575,803,124,352,451,392,17.286,14.102,20.318,2.45671e-26
+lora16_final minus baseline,1319,575,825,113,363,462,381,18.954,15.921,22.138,1.26182e-31
+oplora16_final minus baseline,1319,575,807,114,346,461,398,17.589,14.556,20.622,3.11958e-28
+full_final minus full_mid,1319,740,843,85,188,655,391,7.809,5.383,10.159,4.18281e-10
+l2sp_final minus full_final,1319,843,844,67,68,776,408,0.076,-1.592,1.82,1
+lora16_final minus full_final,1319,843,825,129,111,714,365,-1.365,-3.715,0.91,0.272457
+lora16_final minus lora4_final,1319,803,825,94,116,709,400,1.668,-0.531,3.867,0.147123
+oplora16_final minus lora16_final,1319,825,807,72,54,753,440,-1.365,-3.033,0.303,0.129576

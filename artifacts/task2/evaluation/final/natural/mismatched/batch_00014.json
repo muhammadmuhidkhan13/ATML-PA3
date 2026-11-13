@@ -1,0 +1,1455 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 312720,
+      "canonical_answer": "1",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 265816,
+      "original_target": "1",
+      "pair_id": "vqa:265816000:310669004",
+      "partner_canonical_answer": "2",
+      "question": "How many horses are there?",
+      "question_id": 265816000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 156236,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 310669,
+      "original_target": "2",
+      "pair_id": "vqa:265816000:310669004",
+      "partner_canonical_answer": "1",
+      "question": "How many horses are there?",
+      "question_id": 310669004,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 440106,
+      "canonical_answer": "1",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 257478,
+      "original_target": "1",
+      "pair_id": "vqa:257478000:430359002",
+      "partner_canonical_answer": "2",
+      "question": "How many hands is he holding up?",
+      "question_id": 257478000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 44950,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 430359,
+      "original_target": "2",
+      "pair_id": "vqa:257478000:430359002",
+      "partner_canonical_answer": "1",
+      "question": "How many hands is he holding up?",
+      "question_id": 430359002,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 208380,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 529968,
+      "original_target": "2",
+      "pair_id": "vqa:245642007:529968002",
+      "partner_canonical_answer": "0",
+      "question": "How many mirrors on the bike?",
+      "question_id": 529968002,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 549335,
+      "canonical_answer": "0",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 245642,
+      "original_target": "0",
+      "pair_id": "vqa:245642007:529968002",
+      "partner_canonical_answer": "2",
+      "question": "How many mirrors on the bike?",
+      "question_id": 245642007,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 546702,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 567877,
+      "original_target": "2",
+      "pair_id": "vqa:391255013:567877002",
+      "partner_canonical_answer": "1",
+      "question": "How many cakes are there?",
+      "question_id": 567877002,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 472648,
+      "canonical_answer": "1",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 391255,
+      "original_target": "1",
+      "pair_id": "vqa:391255013:567877002",
+      "partner_canonical_answer": "2",
+      "question": "How many cakes are there?",
+      "question_id": 391255013,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 312720,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 265816,
+      "original_target": "1",
+      "pair_id": "vqa:265816000:310669004",
+      "partner_canonical_answer": "2",
+      "prediction_text": "0",
+      "question": "How many horses are there?",
+      "question_id": 265816000,
+      "question_type": "number",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.3216171264648438,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 156236,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 310669,
+      "original_target": "2",
+      "pair_id": "vqa:265816000:310669004",
+      "partner_canonical_answer": "1",
+      "prediction_text": "0",
+      "question": "How many horses are there?",
+      "question_id": 310669004,
+      "question_type": "number",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.804678201675415,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 440106,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 257478,
+      "original_target": "1",
+      "pair_id": "vqa:257478000:430359002",
+      "partner_canonical_answer": "2",
+      "prediction_text": "2",
+      "question": "How many hands is he holding up?",
+      "question_id": 257478000,
+      "question_type": "number",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.8421334028244019,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 44950,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 430359,
+      "original_target": "2",
+      "pair_id": "vqa:257478000:430359002",
+      "partner_canonical_answer": "1",
+      "prediction_text": "1",
+      "question": "How many hands is he holding up?",
+      "question_id": 430359002,
+      "question_type": "number",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.549072265625,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 208380,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 529968,
+      "original_target": "2",
+      "pair_id": "vqa:245642007:529968002",
+      "partner_canonical_answer": "0",
+      "prediction_text": "0",
+      "question": "How many mirrors on the bike?",
+      "question_id": 529968002,
+      "question_type": "number",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.8418991565704346,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 549335,
+      "canonical_answer": "0",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 245642,
+      "original_target": "0",
+      "pair_id": "vqa:245642007:529968002",
+      "partner_canonical_answer": "2",
+      "prediction_text": "0",
+      "question": "How many mirrors on the bike?",
+      "question_id": 245642007,
+      "question_type": "number",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.6724375486373901,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 546702,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 567877,
+      "original_target": "2",
+      "pair_id": "vqa:391255013:567877002",
+      "partner_canonical_answer": "1",
+      "prediction_text": "0",
+      "question": "How many cakes are there?",
+      "question_id": 567877002,
+      "question_type": "number",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.233099937438965,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 472648,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02025526136276312,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 391255,
+      "original_target": "1",
+      "pair_id": "vqa:391255013:567877002",
+      "partner_canonical_answer": "2",
+      "prediction_text": "0",
+      "question": "How many cakes are there?",
+      "question_id": 391255013,
+      "question_type": "number",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.9880251884460449,
+      "reference_seconds": 0.012736778357066214,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "4cb7857d43de6cc0c03a641caed005b2b758b225f8168ce8614516052be82f1e"
+}

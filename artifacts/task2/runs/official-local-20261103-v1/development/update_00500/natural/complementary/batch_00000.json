@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 302038,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 58364,
+      "original_target": "yes",
+      "pair_id": "vqa:58364002:302038007",
+      "partner_canonical_answer": "no",
+      "question": "Is there a hat in the picture?",
+      "question_id": 58364002,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 58364,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 302038,
+      "original_target": "no",
+      "pair_id": "vqa:58364002:302038007",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a hat in the picture?",
+      "question_id": 302038007,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 236162,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 491102,
+      "original_target": "yes",
+      "pair_id": "vqa:236162011:491102004",
+      "partner_canonical_answer": "no",
+      "question": "Is the animal's neck long?",
+      "question_id": 491102004,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 491102,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 236162,
+      "original_target": "no",
+      "pair_id": "vqa:236162011:491102004",
+      "partner_canonical_answer": "yes",
+      "question": "Is the animal's neck long?",
+      "question_id": 236162011,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 38630,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 50350,
+      "original_target": "yes",
+      "pair_id": "vqa:38630020:50350001",
+      "partner_canonical_answer": "no",
+      "question": "Is this room lit by natural light?",
+      "question_id": 50350001,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 50350,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 38630,
+      "original_target": "no",
+      "pair_id": "vqa:38630020:50350001",
+      "partner_canonical_answer": "yes",
+      "question": "Is this room lit by natural light?",
+      "question_id": 38630020,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 552289,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 201764,
+      "original_target": "yes",
+      "pair_id": "vqa:201764003:552289006",
+      "partner_canonical_answer": "no",
+      "question": "Is the person going on a trip?",
+      "question_id": 201764003,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 201764,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 552289,
+      "original_target": "no",
+      "pair_id": "vqa:201764003:552289006",
+      "partner_canonical_answer": "yes",
+      "question": "Is the person going on a trip?",
+      "question_id": 552289006,
+      "question_type": "yes/no",
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "unclear",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 302038,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 58364,
+      "original_target": "yes",
+      "pair_id": "vqa:58364002:302038007",
+      "partner_canonical_answer": "no",
+      "question": "Is there a hat in the picture?",
+      "question_id": 58364002,
+      "question_type": "yes/no",
+      "reference_nll": 3.6737656593322754,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 58364,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 302038,
+      "original_target": "no",
+      "pair_id": "vqa:58364002:302038007",
+      "partner_canonical_answer": "yes",
+      "question": "Is there a hat in the picture?",
+      "question_id": 302038007,
+      "question_type": "yes/no",
+      "reference_nll": 5.425359725952148,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 236162,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 491102,
+      "original_target": "yes",
+      "pair_id": "vqa:236162011:491102004",
+      "partner_canonical_answer": "no",
+      "question": "Is the animal's neck long?",
+      "question_id": 491102004,
+      "question_type": "yes/no",
+      "reference_nll": 4.051265716552734,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 491102,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 236162,
+      "original_target": "no",
+      "pair_id": "vqa:236162011:491102004",
+      "partner_canonical_answer": "yes",
+      "question": "Is the animal's neck long?",
+      "question_id": 236162011,
+      "question_type": "yes/no",
+      "reference_nll": 7.13241720199585,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 38630,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 50350,
+      "original_target": "yes",
+      "pair_id": "vqa:38630020:50350001",
+      "partner_canonical_answer": "no",
+      "question": "Is this room lit by natural light?",
+      "question_id": 50350001,
+      "question_type": "yes/no",
+      "reference_nll": 3.7788453102111816,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 50350,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 38630,
+      "original_target": "no",
+      "pair_id": "vqa:38630020:50350001",
+      "partner_canonical_answer": "yes",
+      "question": "Is this room lit by natural light?",
+      "question_id": 38630020,
+      "question_type": "yes/no",
+      "reference_nll": 4.776505470275879,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 552289,
+      "canonical_answer": "yes",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 201764,
+      "original_target": "yes",
+      "pair_id": "vqa:201764003:552289006",
+      "partner_canonical_answer": "no",
+      "question": "Is the person going on a trip?",
+      "question_id": 201764003,
+      "question_type": "yes/no",
+      "reference_nll": 3.9209704399108887,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 201764,
+      "canonical_answer": "no",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 552289,
+      "original_target": "no",
+      "pair_id": "vqa:201764003:552289006",
+      "partner_canonical_answer": "yes",
+      "question": "Is the person going on a trip?",
+      "question_id": 552289006,
+      "question_type": "yes/no",
+      "reference_nll": 4.933996200561523,
+      "reference_seconds": 0.03229006249966915,
+      "references": [
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "unclear",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "9c2975528645b3429728ba6a3bb6348c7d90aa49a4d515d94cb3acd6df57fca8"
+}

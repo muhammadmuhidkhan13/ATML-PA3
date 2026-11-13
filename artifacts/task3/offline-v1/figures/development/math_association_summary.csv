@@ -1,0 +1,7 @@
+signals,mean_within_question_spearman,defined_questions
+length__correctness,-0.17105829741358458,116
+length__mean_logp,0.1914039131120375,200
+length__self_certainty,-0.1394204048187541,200
+mean_logp__correctness,0.0654539572881982,116
+mean_logp__self_certainty,0.48796572631479707,200
+self_certainty__correctness,0.1748079933821698,116

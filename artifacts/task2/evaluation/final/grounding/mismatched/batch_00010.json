@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 203460,
+      "canonical_answer": "4",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 387082,
+      "original_target": "4",
+      "pair_id": "ground:test:40",
+      "partner_canonical_answer": "3",
+      "question": "How many potted plants can you see?",
+      "question_id": "ground:test:40:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 530013,
+      "canonical_answer": "3",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 199641,
+      "original_target": "3",
+      "pair_id": "ground:test:40",
+      "partner_canonical_answer": "4",
+      "question": "How many potted plants can you see?",
+      "question_id": "ground:test:40:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 224138,
+      "canonical_answer": "4",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 241319,
+      "original_target": "4",
+      "pair_id": "ground:test:41",
+      "partner_canonical_answer": "1",
+      "question": "How many toothbrushes can you see?",
+      "question_id": "ground:test:41:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 491689,
+      "canonical_answer": "1",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 191691,
+      "original_target": "1",
+      "pair_id": "ground:test:41",
+      "partner_canonical_answer": "4",
+      "question": "How many toothbrushes can you see?",
+      "question_id": "ground:test:41:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 434583,
+      "canonical_answer": "3",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 441473,
+      "original_target": "3",
+      "pair_id": "ground:test:42",
+      "partner_canonical_answer": "4",
+      "question": "How many bottles can you see?",
+      "question_id": "ground:test:42:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 36414,
+      "canonical_answer": "4",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 40414,
+      "original_target": "4",
+      "pair_id": "ground:test:42",
+      "partner_canonical_answer": "3",
+      "question": "How many bottles can you see?",
+      "question_id": "ground:test:42:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 305713,
+      "canonical_answer": "1",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 85556,
+      "original_target": "1",
+      "pair_id": "ground:test:43",
+      "partner_canonical_answer": "2",
+      "question": "How many forks can you see?",
+      "question_id": "ground:test:43:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 153520,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 327590,
+      "original_target": "2",
+      "pair_id": "ground:test:43",
+      "partner_canonical_answer": "1",
+      "question": "How many forks can you see?",
+      "question_id": "ground:test:43:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 203460,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 387082,
+      "original_target": "4",
+      "pair_id": "ground:test:40",
+      "partner_canonical_answer": "3",
+      "prediction_text": "1",
+      "question": "How many potted plants can you see?",
+      "question_id": "ground:test:40:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.756495952606201,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 530013,
+      "canonical_answer": "3",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 199641,
+      "original_target": "3",
+      "pair_id": "ground:test:40",
+      "partner_canonical_answer": "4",
+      "prediction_text": "1",
+      "question": "How many potted plants can you see?",
+      "question_id": "ground:test:40:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.4833991527557373,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 224138,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 241319,
+      "original_target": "4",
+      "pair_id": "ground:test:41",
+      "partner_canonical_answer": "1",
+      "prediction_text": "1",
+      "question": "How many toothbrushes can you see?",
+      "question_id": "ground:test:41:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.8669190406799316,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 491689,
+      "canonical_answer": "1",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 191691,
+      "original_target": "1",
+      "pair_id": "ground:test:41",
+      "partner_canonical_answer": "4",
+      "prediction_text": "1",
+      "question": "How many toothbrushes can you see?",
+      "question_id": "ground:test:41:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.8551299571990967,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 434583,
+      "canonical_answer": "3",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        15,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "0",
+      "original_image_id": 441473,
+      "original_target": "3",
+      "pair_id": "ground:test:42",
+      "partner_canonical_answer": "4",
+      "prediction_text": "0",
+      "question": "How many bottles can you see?",
+      "question_id": "ground:test:42:0",
+      "question_type": "counting",
+      "raw_response": "0<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.474254608154297,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 36414,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 40414,
+      "original_target": "4",
+      "pair_id": "ground:test:42",
+      "partner_canonical_answer": "3",
+      "prediction_text": "1",
+      "question": "How many bottles can you see?",
+      "question_id": "ground:test:42:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.8590946197509766,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 305713,
+      "canonical_answer": "1",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 85556,
+      "original_target": "1",
+      "pair_id": "ground:test:43",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many forks can you see?",
+      "question_id": "ground:test:43:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.1453773975372314,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 153520,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.020531902264337987,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 327590,
+      "original_target": "2",
+      "pair_id": "ground:test:43",
+      "partner_canonical_answer": "1",
+      "prediction_text": "1",
+      "question": "How many forks can you see?",
+      "question_id": "ground:test:43:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.5830997228622437,
+      "reference_seconds": 0.01170221937354654,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "0ed719582675dedb6f1fa09d28a08c937b98e158d5b5164ceb4ae3beb567c55d"
+}

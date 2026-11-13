@@ -1,0 +1,5 @@
+{
+  "operation_wall_seconds": 5,
+  "protocol": "progress heartbeat after each operation; no total question wall cutoff",
+  "question_worker_inactivity_seconds": 120
+}

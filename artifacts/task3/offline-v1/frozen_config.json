@@ -1,0 +1,87 @@
+{
+  "bootstrap_resamples": 1000,
+  "bootstrap_unit": "question after ten-order mean",
+  "budgets": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "code": {
+    "__init__.py": "ca54f032ef8da07671dd35cda16f76442ef7802ef949e2010be36154b65ffc32",
+    "cache.py": "7544428d743e54c8dd2d5b701c1395074ee5ac1e4237d56c47a100a4c68ae7e6",
+    "data.py": "4cddd0ed71e8aa2cd729d0471dac8f73145c821ee611796565a7ab1259d13b4a",
+    "diagnostics.py": "aae6fcc2d659d689dbe18b8e8d3c78e06fe4b7c7a824b1cf0a4e376e96dea51f",
+    "equivalence.py": "f7152bf258f17c93f314d47ea86b255c7027c73a94c27786751c8b96a2beb182",
+    "equivalence_worker.py": "0a47472cad01d31b5794caad51fe57728ea7e3e5eafc91e90b5f35da219a9877",
+    "experiment.py": "b6f6cb0b5ba04550fc64ebadddbeb3b6af4b5a2ab5c73ff6f1928135d8ccde25",
+    "illustrations.py": "0947cfeb4c9da2bd7d1d280cc746daaf0574eba5ef385e557ed626e52cfb5c49",
+    "io.py": "ee6e88a1d43f4a985cdb2a5e066588461269d9cb29ec734c46444e43ed152f59",
+    "math_rpc.py": "6cf68b4dd3a76cfb4822e9c6cd44e9e49e3c5a85e7435765e674e4e3d210e5c8",
+    "plots.py": "28963e5654188e5e90a06a013fe344239e7e80f48095df5d9c155bbe2fc2f6a5",
+    "preparation.py": "ee1567023ca5e102d5eda3afe8e1ab8f5f71a606f2522e8c5fc2137d5c8a92f7",
+    "safe_math.py": "63f167184c9d103fbfc5be57852afcbaaef6ba647123465296806c15974d3d64",
+    "scoring.py": "62a304ff8ecb9cd97d6fca3b66b1afecef7bbe4139be1d5a425787086ad9a3f0",
+    "selection.py": "dffe0075dae218b2007d7587366afb3dd8b89f778882b285fd6e61eda8e3f46a",
+    "statistics.py": "453b83bea5f0c5f5810b3097f393bae6e56c8ec23a97367a8a9108466371ccbd",
+    "validation.py": "0f8497263d723c9d1ce82e79b54719e7ed83f4e013a6c23c6955eaf95064ad5c",
+    "visconf.py": "e36bafb3a338c27a97af4757d615c1966adfbdcf9861e0e29ad19c481d425c04"
+  },
+  "illustrations": "retrospective; first lexicographic question per category; first canonical rollout(s); no configuration changes",
+  "invalid_metrics": "unaligned=>unavailable; K/logp mean finite aligned entries or -inf; invalid vision ratio0; invalid calibrated KL0",
+  "metadata": "ab0148dca9d401c31cc47f29b3826eec28a76ff155a1c0878d81e8daf0413480",
+  "orders": 10,
+  "packages": {
+    "math-verify": "0.9.0",
+    "matplotlib": "3.11.2",
+    "numpy": "2.4.6",
+    "pyarrow": "26.0.0",
+    "sympy": "1.14.0"
+  },
+  "percentiles": "linear",
+  "quartile_ties": "stable ascending score then rollout_id; disjoint bottom8/top8; all-equal undefined",
+  "scorer": {
+    "equivalence_code_sha256": "f7152bf258f17c93f314d47ea86b255c7027c73a94c27786751c8b96a2beb182",
+    "external_operation_timeout_seconds": 5,
+    "external_question_timeout_seconds": 120,
+    "grouping": "prefix order complete-link, mutual equivalence, earliest compatible group",
+    "library_timeouts": null,
+    "math_parse": "boxed supplied extraction; LatexExtractionConfig; first_match; no_fallback",
+    "math_verify": "0.9.0",
+    "math_verify_options": {
+      "float_rounding": 6,
+      "numeric_precision": 15,
+      "strict": true
+    },
+    "mathvista_choices": "official edit-distance fallback; first tied choice; output option letter",
+    "mathvista_metadata_sha256": "ab0148dca9d401c31cc47f29b3826eec28a76ff155a1c0878d81e8daf0413480",
+    "mathvista_missing": "NO_ANSWER before official normalization; always incorrect",
+    "mathvista_source_revision": "c5acd37d75a8c8f9756cb66c78fe2e54fa2c31fb",
+    "source_manifest_sha256": "80f6e32e6de2141a747a0a2828e7d427dd7b546afe15b9fbd169ea8359941d79",
+    "version": "task3-scorer-v2"
+  },
+  "seed": 6304,
+  "semantics_manifest": "7ad319c9515f0a2910b68884bd996f682a24cacf42f24a04729af2989adfdaef",
+  "signal_correlations": "Spearman within question; undefined variance recorded",
+  "source_manifest": "80f6e32e6de2141a747a0a2828e7d427dd7b546afe15b9fbd169ea8359941d79",
+  "split_and_orders": {
+    "math": {
+      "orders.json": "a9f3efb31b6288de8a624b56f61ae003a4a62eb1e38eb2ba07f49aa9004f3f32",
+      "split.json": "66ca9f8ea1b04839c60664fe36d8d331187582415acbccebb7b10c2ffd843d01"
+    },
+    "mathvista": {
+      "orders.json": "5ed75b4512ce0a4ca78593ae4c17de91190597354314bf2ea3b19bddf56a165d",
+      "split.json": "db1dfd28b07d9f964dc0590bcad9d2d44e24c55846a93ee519a284f9589e2f19"
+    }
+  },
+  "steps": [
+    1,
+    2,
+    3
+  ],
+  "tie_break": "earliest supporting rollout in saved prefix; average tied RWC ranks",
+  "token_correlations": "Pearson per rollout; mean valid rollouts within question; mean questions",
+  "version": 1
+}

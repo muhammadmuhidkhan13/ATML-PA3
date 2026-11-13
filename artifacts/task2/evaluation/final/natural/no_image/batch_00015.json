@@ -1,0 +1,1545 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 165750,
+      "original_target": "red",
+      "pair_id": "vqa:165750001:384850007",
+      "partner_canonical_answer": "white",
+      "question": "What color is the shower curtain?",
+      "question_id": 165750001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 384850,
+      "original_target": "white",
+      "pair_id": "vqa:165750001:384850007",
+      "partner_canonical_answer": "red",
+      "question": "What color is the shower curtain?",
+      "question_id": 384850007,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "o'malley's",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 154884,
+      "original_target": "o'malley's",
+      "pair_id": "vqa:154884002:259640005",
+      "partner_canonical_answer": "tamales mi lupita",
+      "question": "What is the name of the store behind the man?",
+      "question_id": 154884002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "omelets",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tamales mi lupita",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 259640,
+      "original_target": "tamales mi lupita",
+      "pair_id": "vqa:154884002:259640005",
+      "partner_canonical_answer": "o'malley's",
+      "question": "What is the name of the store behind the man?",
+      "question_id": 259640005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tamales",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "restaurant and cafe",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 401244,
+      "original_target": "white",
+      "pair_id": "vqa:236189000:401244016",
+      "partner_canonical_answer": "red",
+      "question": "What color is the frisbee?",
+      "question_id": 401244016,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 236189,
+      "original_target": "red",
+      "pair_id": "vqa:236189000:401244016",
+      "partner_canonical_answer": "white",
+      "question": "What color is the frisbee?",
+      "question_id": 236189000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "pink",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "oranges",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 233311,
+      "original_target": "oranges",
+      "pair_id": "vqa:233311001:528738012",
+      "partner_canonical_answer": "carrots",
+      "question": "What are the orange objects?",
+      "question_id": 233311001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "orange",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "carrots",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 528738,
+      "original_target": "carrots",
+      "pair_id": "vqa:233311001:528738012",
+      "partner_canonical_answer": "oranges",
+      "question": "What are the orange objects?",
+      "question_id": 528738012,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "carrots",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "carrot",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        17196,
+        45766,
+        374,
+        11136,
+        3070,
+        5782,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 13,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of shower curtain is typically **white**",
+      "original_image_id": 165750,
+      "original_target": "red",
+      "pair_id": "vqa:165750001:384850007",
+      "partner_canonical_answer": "white",
+      "prediction_text": "The color of the shower curtain is typically **white**.",
+      "question": "What color is the shower curtain?",
+      "question_id": 165750001,
+      "question_type": "other",
+      "raw_response": "The color of the shower curtain is typically **white**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 9.463386535644531,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        17196,
+        45766,
+        374,
+        11136,
+        3070,
+        5782,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 13,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of shower curtain is typically **white**",
+      "original_image_id": 384850,
+      "original_target": "white",
+      "pair_id": "vqa:165750001:384850007",
+      "partner_canonical_answer": "red",
+      "prediction_text": "The color of the shower curtain is typically **white**.",
+      "question": "What color is the shower curtain?",
+      "question_id": 384850007,
+      "question_type": "other",
+      "raw_response": "The color of the shower curtain is typically **white**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 8.861824035644531,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "o'malley's",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        829,
+        315,
+        279,
+        3553,
+        4815,
+        279,
+        883,
+        374,
+        3070,
+        785,
+        2363,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 15,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "name of store behind man is **the man**",
+      "original_image_id": 154884,
+      "original_target": "o'malley's",
+      "pair_id": "vqa:154884002:259640005",
+      "partner_canonical_answer": "tamales mi lupita",
+      "prediction_text": "The name of the store behind the man is **The Man**.",
+      "question": "What is the name of the store behind the man?",
+      "question_id": 154884002,
+      "question_type": "other",
+      "raw_response": "The name of the store behind the man is **The Man**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 6.689807415008545,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "omelets",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "o'malley's",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tamales mi lupita",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        829,
+        315,
+        279,
+        3553,
+        4815,
+        279,
+        883,
+        374,
+        3070,
+        785,
+        2363,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 15,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "name of store behind man is **the man**",
+      "original_image_id": 259640,
+      "original_target": "tamales mi lupita",
+      "pair_id": "vqa:154884002:259640005",
+      "partner_canonical_answer": "o'malley's",
+      "prediction_text": "The name of the store behind the man is **The Man**.",
+      "question": "What is the name of the store behind the man?",
+      "question_id": 259640005,
+      "question_type": "other",
+      "raw_response": "The name of the store behind the man is **The Man**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 8.765318870544434,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tamales",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "restaurant and cafe",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tamales mi lupita",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1422,
+        285,
+        32031,
+        374,
+        11136,
+        4158,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "frisbee is typically white",
+      "original_image_id": 401244,
+      "original_target": "white",
+      "pair_id": "vqa:236189000:401244016",
+      "partner_canonical_answer": "red",
+      "prediction_text": "The frisbee is typically white.",
+      "question": "What color is the frisbee?",
+      "question_id": 401244016,
+      "question_type": "other",
+      "raw_response": "The frisbee is typically white.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 8.559327125549316,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1422,
+        285,
+        32031,
+        374,
+        11136,
+        4158,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "frisbee is typically white",
+      "original_image_id": 236189,
+      "original_target": "red",
+      "pair_id": "vqa:236189000:401244016",
+      "partner_canonical_answer": "white",
+      "prediction_text": "The frisbee is typically white.",
+      "question": "What color is the frisbee?",
+      "question_id": 236189000,
+      "question_type": "other",
+      "raw_response": "The frisbee is typically white.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 6.489014625549316,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "pink",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "oranges",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        54761,
+        323,
+        24416,
+        13,
+        1416,
+        498,
+        2299,
+        22023,
+        311,
+        264,
+        3151,
+        2266,
+        320
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is ambiguous and unclear if you're referring to specific context",
+      "original_image_id": 233311,
+      "original_target": "oranges",
+      "pair_id": "vqa:233311001:528738012",
+      "partner_canonical_answer": "carrots",
+      "prediction_text": "The question is ambiguous and unclear. If you're referring to a specific context (",
+      "question": "What are the orange objects?",
+      "question_id": 233311001,
+      "question_type": "other",
+      "raw_response": "The question is ambiguous and unclear. If you're referring to a specific context (",
+      "reached_token_cap": true,
+      "reference_nll": 6.484923362731934,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "oranges",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "orange",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "carrots",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        54761,
+        323,
+        24416,
+        13,
+        1416,
+        498,
+        2299,
+        22023,
+        311,
+        264,
+        3151,
+        2266,
+        320
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12851017838693224,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is ambiguous and unclear if you're referring to specific context",
+      "original_image_id": 528738,
+      "original_target": "carrots",
+      "pair_id": "vqa:233311001:528738012",
+      "partner_canonical_answer": "oranges",
+      "prediction_text": "The question is ambiguous and unclear. If you're referring to a specific context (",
+      "question": "What are the orange objects?",
+      "question_id": 528738012,
+      "question_type": "other",
+      "raw_response": "The question is ambiguous and unclear. If you're referring to a specific context (",
+      "reached_token_cap": true,
+      "reference_nll": 7.509978294372559,
+      "reference_seconds": 0.008235298737417907,
+      "references": [
+        {
+          "answer": "carrots",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "carrot",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "carrots",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

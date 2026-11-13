@@ -1,0 +1,27 @@
+{
+  "artifacts/task3/prepared-v1/source_manifest.json": {
+    "original_sha256": "80f6e32e6de2141a747a0a2828e7d427dd7b546afe15b9fbd169ea8359941d79",
+    "public_sha256": "05b13d0b672ac2cc871034f759c7fe030930e45e98b1bf15f61dc38ee822ddb1"
+  },
+  "artifacts/task3/prepared-v1/math/source_audit.json": {
+    "original_sha256": "8cd01e285606d2f50327236c23ece193b987b77e940d3b6c0cc10960a275c036",
+    "public_sha256": "7d7777c59539193a01ec6d8612d8c830744483574948d28931909cbe7b7dcd29"
+  },
+  "artifacts/task3/prepared-v1/mathvista/source_audit.json": {
+    "original_sha256": "f73a8ba26ab74b89c1c7e29a6692372bfd74ceeac698f1d0f196b672868ef9fd",
+    "public_sha256": "9d33dbf9730bc1e67e894f8e34d870d47d27f69d6a41fe14b3cb168df59bccac"
+  },
+  "artifacts/task2/models/siglip_snapshot.json": {
+    "original_sha256": "f3922ca6f2ce0aa006f030d96b5cad33bf6df0da1e505464efe6004fd199516e",
+    "public_sha256": "caf0f09c778dfa9460e819bdf3673f0f1a55e9168aeba8ac5fcd9ee5df2ceb96"
+  },
+  "task1-report-review/RQ2_lora_spectrum/overall_summary.json": {
+    "original_sha256": "ca3e1c50f867c64c82d36b8fb50042c4ad942de79dc16a20d42314571ed3306d",
+    "public_sha256": "c6d7a7a126f2d587680fc10e52f2207a766b5b646128a0eb6baa3d27c8c68183"
+  },
+  "task1-report-review/RQ5_qualitative_analysis/RQ5_Manual_Annotation.xlsx": {
+    "original_sha256": "18708aa38ae556b9907191eecad6b0dad75b8342c80e2373ed1099195c785927",
+    "public_sha256": "91a9a700912a46bdd517f45a9498a555fbfb938695c3a94e9be47d53f56ca37d",
+    "change": "Removed Excel workbook path from package metadata. Worksheet XML is byte-identical."
+  }
+}

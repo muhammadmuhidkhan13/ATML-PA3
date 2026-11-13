@@ -1,0 +1,55 @@
+{
+  "accuracy_tolerance": 0.01,
+  "bootstrap": {
+    "percentiles": "linear",
+    "resamples": 1000,
+    "seed": 6304,
+    "unit": "question after ten-order mean"
+  },
+  "checkpoints": [
+    4,
+    8,
+    16
+  ],
+  "controller_code": {
+    "adaptive.py": "6a14216b89321781fbad688645a525324eced3b47c97e731bfe3dcad8bce3e63",
+    "adaptive_run.py": "443ac411293da88087235ba36e17b35df6cfd19e8c38106f83a52db91c94e45b"
+  },
+  "fallback": 32,
+  "gamma_grid": [
+    0.0,
+    0.1,
+    0.25,
+    0.5
+  ],
+  "packages": {
+    "math-verify": "0.9.0",
+    "numpy": "2.4.6",
+    "pyarrow": "26.0.0",
+    "sympy": "1.14.0"
+  },
+  "part1_config_sha256": "4ec5c80ddcd5ea365a5f46b24b98aab408a776689fcb3544e103e080c016cb2a",
+  "scorer_sha256": "d54fca48e1eb208d8531931789ec14920e02ff74892a06831b65509b71b7b05e",
+  "seed": 6304,
+  "selection": "minimum tokens eligible; higher accuracy, smaller tau, smaller gamma; fallback last on exact tie",
+  "semantics_manifest_sha256": "7ad319c9515f0a2910b68884bd996f682a24cacf42f24a04729af2989adfdaef",
+  "source_manifest_sha256": "80f6e32e6de2141a747a0a2828e7d427dd7b546afe15b9fbd169ea8359941d79",
+  "splits_orders": {
+    "math": {
+      "orders.json": "a9f3efb31b6288de8a624b56f61ae003a4a62eb1e38eb2ba07f49aa9004f3f32",
+      "split.json": "66ca9f8ea1b04839c60664fe36d8d331187582415acbccebb7b10c2ffd843d01"
+    },
+    "mathvista": {
+      "orders.json": "5ed75b4512ce0a4ca78593ae4c17de91190597354314bf2ea3b19bddf56a165d",
+      "split.json": "db1dfd28b07d9f964dc0590bcad9d2d44e24c55846a93ee519a284f9589e2f19"
+    }
+  },
+  "tau_grid": [
+    0.5,
+    0.625,
+    0.75,
+    0.875,
+    1.0
+  ],
+  "version": "adaptive-v1"
+}

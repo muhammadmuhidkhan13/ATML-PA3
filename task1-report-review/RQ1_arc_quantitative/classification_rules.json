@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "flags": [
+    "IGNORECASE"
+  ],
+  "patterns": {
+    "calculation": "\\bcalculat(?:e|es|ed|ing|ion|ions)\\b",
+    "explicit_difference": "\\bhow (?:many|much) (?:more|less|fewer)\\b",
+    "multiplicative_comparison": "\\b(?:twice|half|\\d+ times) (?:as (?:much|many|large|long|fast|heavy)|the (?:amount|number|mass|distance|length|speed|size))\\b",
+    "arithmetic_expression": "(?<![\\w./-])\\d+(?:\\.\\d+)?\\s*(?:[+\u00d7\u00f7=\u2212]|\\s[-*/x]\\s)\\s*\\d+(?:\\.\\d+)?(?![\\w./-])",
+    "ratio_or_percent_request": "\\b(?:what|which)\\s+(?:is\\s+the\\s+)?(?:ratio|proportion|percentage|percent|fraction)\\s+(?:of|between|would|is|represents?)\\b",
+    "average_or_rate_request": "\\b(?:what|which)\\b[^?!.;]{0,75}\\b(?:average (?:speed|velocity|rate|distance|temperature|mass)|rate of (?:change|acceleration))\\b",
+    "rate_formula": "\\b(?:speed|velocity)\\s*(?:=|equals|is)\\s*distance\\s*(?:/|\u00f7|divided by|per)\\s*time\\b",
+    "numeric_measurement_comparison": "\\b(?:greater|less|longer|shorter|faster|slower|heavier|lighter) than\\s+\\d+(?:\\.\\d+)?\\s*(?:km/h|m/s|kg|km|cm|mm|mL|\u00b0[CF]|meters?|grams?|liters?|seconds?|minutes?|hours?)\\b"
+  },
+  "categories": {
+    "quantitative-indicator": "At least one rule matches",
+    "other": "No rules match"
+  },
+  "scope": "Search question text and each answer option separately",
+  "bootstrap": {
+    "seed": 6304,
+    "replicates": 10000,
+    "generator": "PCG64",
+    "numpy_version": "2.4.6"
+  },
+  "input_sha256": {
+    "artifacts/task1/evaluation/baseline/arc_easy/samples.jsonl": "d02e76cce454bf893259e4a66f3aa5fdf0bc1d7d95c57070bea933ce905781d5",
+    "artifacts/task1/evaluation/baseline/arc_easy/summary.json": "2855f022d2334f390d2630795c8ef270414442e89d08d794999f0f2ee8dc323c",
+    "artifacts/task1/evaluation/full_mid/arc_easy/samples.jsonl": "5a7d2b956fc9c1c8d87fd9978cfc2c78fb5cb61e75fd9aaf574686c1f20f2587",
+    "artifacts/task1/evaluation/full_mid/arc_easy/summary.json": "d9291471a1563703df094b96adb2237727175333de8b0d331c347cc6c87a0e94",
+    "artifacts/task1/evaluation/full_final/arc_easy/samples.jsonl": "37a67b9195094f736107dafa528b9474ccf1040a97162255bb60fd394ea95b43",
+    "artifacts/task1/evaluation/full_final/arc_easy/summary.json": "e39d0cfe01b2652be3ae66a52ca193f9f0901cd313f1074f9eafc6be910cffe1",
+    "artifacts/task1/evaluation/l2sp_final/arc_easy/samples.jsonl": "689a8017fb7b6888f00c91e6246eadcb0b005eec86b32f734d1775c72ccc9744",
+    "artifacts/task1/evaluation/l2sp_final/arc_easy/summary.json": "5fe93f01105c2f2dd2310b3a09dfa5e5f535dade14b50d099803fe5e36913877",
+    "artifacts/task1/evaluation/lora4_final/arc_easy/samples.jsonl": "132daf0c631159dbbbc419282dbea3813749d71048bc4b5579094370d3f4ec77",
+    "artifacts/task1/evaluation/lora4_final/arc_easy/summary.json": "08f9d6318790d7db55c7d78d66af2518eecddf6c7fea22fa89abf3ea3846c765",
+    "artifacts/task1/evaluation/lora16_final/arc_easy/samples.jsonl": "42564c3bd0bcab09be56c6f80170de9b5b88621cc698a99d66a2160d104fa498",
+    "artifacts/task1/evaluation/lora16_final/arc_easy/summary.json": "c6f48391b848a3b2336e2b9c383b5a6c66d42389c30ca27c186a0df98e948c5f",
+    "artifacts/task1/evaluation/oplora16_final/arc_easy/samples.jsonl": "c57832aa5becf5d92e1d4f467859b208355c419ab02b253f807ece0b36a50c50",
+    "artifacts/task1/evaluation/oplora16_final/arc_easy/summary.json": "a24e0ff419b746abe9a10968d68fe0af5db18b40c2e92d34be2156e4551fe322"
+  }
+}

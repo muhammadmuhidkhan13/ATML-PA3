@@ -1,0 +1,1557 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "11",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 15846,
+      "original_target": "11",
+      "pair_id": "vqa:15846000:314880003",
+      "partner_canonical_answer": "7",
+      "question": "What is the number on the back of the man's shirt?",
+      "question_id": 15846000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "11",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "7",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 314880,
+      "original_target": "7",
+      "pair_id": "vqa:15846000:314880003",
+      "partner_canonical_answer": "11",
+      "question": "What is the number on the back of the man's shirt?",
+      "question_id": 314880003,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 375440,
+      "original_target": "2",
+      "pair_id": "vqa:375440014:551966010",
+      "partner_canonical_answer": "1",
+      "question": "How many people are on the bench?",
+      "question_id": 375440014,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "6",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "1",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 551966,
+      "original_target": "1",
+      "pair_id": "vqa:375440014:551966010",
+      "partner_canonical_answer": "2",
+      "question": "How many people are on the bench?",
+      "question_id": 551966010,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "21",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 30992,
+      "original_target": "21",
+      "pair_id": "vqa:8119002:30992004",
+      "partner_canonical_answer": "10",
+      "question": "What is the batters number?",
+      "question_id": 30992004,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "10",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 8119,
+      "original_target": "10",
+      "pair_id": "vqa:8119002:30992004",
+      "partner_canonical_answer": "21",
+      "question": "What is the batters number?",
+      "question_id": 8119002,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "16",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "18",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 16193,
+      "original_target": "2",
+      "pair_id": "vqa:12179002:16193003",
+      "partner_canonical_answer": "1",
+      "question": "How many giraffe are in this field?",
+      "question_id": 16193003,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "1",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 12179,
+      "original_target": "1",
+      "pair_id": "vqa:12179002:16193003",
+      "partner_canonical_answer": "2",
+      "question": "How many giraffe are in this field?",
+      "question_id": 12179002,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "11",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1372,
+        389,
+        279,
+        1182,
+        315,
+        279,
+        883,
+        594,
+        15478,
+        374,
+        3070,
+        16,
+        17,
+        334,
+        13
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "number on back of man's shirt is **12**",
+      "original_image_id": 15846,
+      "original_target": "11",
+      "pair_id": "vqa:15846000:314880003",
+      "partner_canonical_answer": "7",
+      "prediction_text": "The number on the back of the man's shirt is **12**.",
+      "question": "What is the number on the back of the man's shirt?",
+      "question_id": 15846000,
+      "question_type": "number",
+      "raw_response": "The number on the back of the man's shirt is **12**.",
+      "reached_token_cap": true,
+      "reference_nll": 4.926671981811523,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "11",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "11",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "7",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1372,
+        389,
+        279,
+        1182,
+        315,
+        279,
+        883,
+        594,
+        15478,
+        374,
+        3070,
+        16,
+        17,
+        334,
+        13
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "number on back of man's shirt is **12**",
+      "original_image_id": 314880,
+      "original_target": "7",
+      "pair_id": "vqa:15846000:314880003",
+      "partner_canonical_answer": "11",
+      "prediction_text": "The number on the back of the man's shirt is **12**.",
+      "question": "What is the number on the back of the man's shirt?",
+      "question_id": 314880003,
+      "question_type": "number",
+      "raw_response": "The number on the back of the man's shirt is **12**.",
+      "reached_token_cap": true,
+      "reference_nll": 11.61601448059082,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "7",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        54761,
+        323,
+        24416,
+        13,
+        1416,
+        498,
+        3076,
+        279,
+        1372,
+        315,
+        1251,
+        389,
+        279
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is ambiguous and unclear if you mean number of people on",
+      "original_image_id": 375440,
+      "original_target": "2",
+      "pair_id": "vqa:375440014:551966010",
+      "partner_canonical_answer": "1",
+      "prediction_text": "The question is ambiguous and unclear. If you mean the number of people on the",
+      "question": "How many people are on the bench?",
+      "question_id": 375440014,
+      "question_type": "number",
+      "raw_response": "The question is ambiguous and unclear. If you mean the number of people on the",
+      "reached_token_cap": true,
+      "reference_nll": 3.6346778869628906,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "6",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        54761,
+        323,
+        24416,
+        13,
+        1416,
+        498,
+        3076,
+        279,
+        1372,
+        315,
+        1251,
+        389,
+        279
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is ambiguous and unclear if you mean number of people on",
+      "original_image_id": 551966,
+      "original_target": "1",
+      "pair_id": "vqa:375440014:551966010",
+      "partner_canonical_answer": "2",
+      "prediction_text": "The question is ambiguous and unclear. If you mean the number of people on the",
+      "question": "How many people are on the bench?",
+      "question_id": 551966010,
+      "question_type": "number",
+      "raw_response": "The question is ambiguous and unclear. If you mean the number of people on the",
+      "reached_token_cap": true,
+      "reference_nll": 2.9159278869628906,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "21",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        4647,
+        330,
+        65,
+        10175,
+        1372,
+        1,
+        374,
+        537,
+        264,
+        5297,
+        476,
+        13570,
+        14975,
+        4647,
+        304
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "term batters number is not standard or widely recognized term in",
+      "original_image_id": 30992,
+      "original_target": "21",
+      "pair_id": "vqa:8119002:30992004",
+      "partner_canonical_answer": "10",
+      "prediction_text": "The term \"batters number\" is not a standard or widely recognized term in",
+      "question": "What is the batters number?",
+      "question_id": 30992004,
+      "question_type": "number",
+      "raw_response": "The term \"batters number\" is not a standard or widely recognized term in",
+      "reached_token_cap": true,
+      "reference_nll": 5.959814071655273,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "21",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "10",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        4647,
+        330,
+        65,
+        10175,
+        1372,
+        1,
+        374,
+        537,
+        264,
+        5297,
+        476,
+        13570,
+        14975,
+        4647,
+        304
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "term batters number is not standard or widely recognized term in",
+      "original_image_id": 8119,
+      "original_target": "10",
+      "pair_id": "vqa:8119002:30992004",
+      "partner_canonical_answer": "21",
+      "prediction_text": "The term \"batters number\" is not a standard or widely recognized term in",
+      "question": "What is the batters number?",
+      "question_id": 8119002,
+      "question_type": "number",
+      "raw_response": "The term \"batters number\" is not a standard or widely recognized term in",
+      "reached_token_cap": true,
+      "reference_nll": 4.826774597167969,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "16",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "18",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "10",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        3862,
+        525,
+        902,
+        40289,
+        2649,
+        288,
+        304,
+        419,
+        2070,
+        13,
+        151645
+      ],
+      "generated_tokens": 11,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "there are no giraffes in this field",
+      "original_image_id": 16193,
+      "original_target": "2",
+      "pair_id": "vqa:12179002:16193003",
+      "partner_canonical_answer": "1",
+      "prediction_text": "There are no giraffes in this field.",
+      "question": "How many giraffe are in this field?",
+      "question_id": 16193003,
+      "question_type": "number",
+      "raw_response": "There are no giraffes in this field.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.825445175170898,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        3862,
+        525,
+        902,
+        40289,
+        2649,
+        288,
+        304,
+        419,
+        2070,
+        13,
+        151645
+      ],
+      "generated_tokens": 11,
+      "generation_seconds": 0.12903856224147603,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "there are no giraffes in this field",
+      "original_image_id": 12179,
+      "original_target": "1",
+      "pair_id": "vqa:12179002:16193003",
+      "partner_canonical_answer": "2",
+      "prediction_text": "There are no giraffes in this field.",
+      "question": "How many giraffe are in this field?",
+      "question_id": 12179002,
+      "question_type": "number",
+      "raw_response": "There are no giraffes in this field.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.966070175170898,
+      "reference_seconds": 0.008699184603756294,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

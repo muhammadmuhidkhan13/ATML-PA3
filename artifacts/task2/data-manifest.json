@@ -1,0 +1,37 @@
+{
+  "caption_examples": {
+    "dev": 96,
+    "train": 18000
+  },
+  "files": {
+    "captions_dev.jsonl": "43d1ff2aae5a26c13bd04e2a705ee7c69f2e4309e7be758f4dff030c7fa14a3d",
+    "captions_train.jsonl": "37148094bfe5b8cf1d240274ec5a93a827a77b81f89790f13dbbd090b0250a3a",
+    "grounding_annotations_train.json": "8715baae1fa2cd5f3d897b5fdf38ef45908b8ee0c1f967f8fba302cc29ec289a",
+    "grounding_annotations_val.json": "5e8f28c625fbd2e0e2b503fb4d8bb860fc4e764c44a28e3ce5542e5dd12b6af9",
+    "grounding_dev.jsonl": "ec9d3680e1e5ece2b2594fbb8c505dee6b99c7b887ea92e5fab6b1ca50bc02d7",
+    "grounding_test.jsonl": "4baf467efd833c0d551a4ef5f2a2f0e200c40a6eb9fdf02400852de4baed66ba",
+    "grounding_train_pools.json": "1b8411d0c442473a7c87ee14a0bf5d6207df30cf8bc9c92eea3362022e2e4133",
+    "images.json": "a0194fd7ced7bb1ed95f339af3c2bda23707764aaead48e17e782f53e6c33f87",
+    "vqa_dev.jsonl": "6ee4f598db70ac1d7dc269bed0b9213f29ae69d578e2be98f95f276ac7edd779",
+    "vqa_test.jsonl": "c2e05330dfa741d01422e727b1ebce77aa4797f14e208e13f117977167f0caff",
+    "vqa_train.jsonl": "f79a4fb3c30f0cfb4433f87e40d645bbaa21e6e9dc0f9aa6f492beab83c67dce"
+  },
+  "grounding_pairs": {
+    "dev": 24,
+    "test": 64
+  },
+  "natural_pairs": {
+    "dev": 32,
+    "test": 96,
+    "train": 1536
+  },
+  "seed": 6304,
+  "selection_decisions": {
+    "caption_train": "all natural training images plus seeded fill to 6000",
+    "counting": "1..4 instances, exclude image/category containing crowd annotations",
+    "grounding_eval": "equal presence/count pairs; no repeated images",
+    "grounding_train": "category pools over the 6000 caption training images"
+  },
+  "source_manifest_sha256": "481dbc08b3c66766bf12d99f4e22d20cafada405b1419b82abb3451d19f3b7c8",
+  "unique_images": 6528
+}

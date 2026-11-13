@@ -1,0 +1,367 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 387551,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 387551,
+      "original_target": "yes",
+      "pair_id": "ground:dev:0",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain boat?",
+      "question_id": "ground:dev:0:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 177889,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 177889,
+      "original_target": "no",
+      "pair_id": "ground:dev:0",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain boat?",
+      "question_id": "ground:dev:0:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 554348,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 554348,
+      "original_target": "yes",
+      "pair_id": "ground:dev:1",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain backpack?",
+      "question_id": "ground:dev:1:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 375760,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 375760,
+      "original_target": "no",
+      "pair_id": "ground:dev:1",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain backpack?",
+      "question_id": "ground:dev:1:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 198550,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 198550,
+      "original_target": "yes",
+      "pair_id": "ground:dev:2",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain bench?",
+      "question_id": "ground:dev:2:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 453020,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 453020,
+      "original_target": "no",
+      "pair_id": "ground:dev:2",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain bench?",
+      "question_id": "ground:dev:2:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 311392,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 311392,
+      "original_target": "yes",
+      "pair_id": "ground:dev:3",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain cow?",
+      "question_id": "ground:dev:3:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 836,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 836,
+      "original_target": "no",
+      "pair_id": "ground:dev:3",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain cow?",
+      "question_id": "ground:dev:3:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 387551,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 387551,
+      "original_target": "yes",
+      "pair_id": "ground:dev:0",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain boat?",
+      "question_id": "ground:dev:0:0",
+      "question_type": "presence",
+      "reference_nll": 2.9961676597595215,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 177889,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 177889,
+      "original_target": "no",
+      "pair_id": "ground:dev:0",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain boat?",
+      "question_id": "ground:dev:0:1",
+      "question_type": "presence",
+      "reference_nll": 4.592803001403809,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 554348,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 554348,
+      "original_target": "yes",
+      "pair_id": "ground:dev:1",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain backpack?",
+      "question_id": "ground:dev:1:0",
+      "question_type": "presence",
+      "reference_nll": 2.71415376663208,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 375760,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 375760,
+      "original_target": "no",
+      "pair_id": "ground:dev:1",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain backpack?",
+      "question_id": "ground:dev:1:1",
+      "question_type": "presence",
+      "reference_nll": 4.47959566116333,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 198550,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 198550,
+      "original_target": "yes",
+      "pair_id": "ground:dev:2",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain bench?",
+      "question_id": "ground:dev:2:0",
+      "question_type": "presence",
+      "reference_nll": 2.7120361328125,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 453020,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 453020,
+      "original_target": "no",
+      "pair_id": "ground:dev:2",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain bench?",
+      "question_id": "ground:dev:2:1",
+      "question_type": "presence",
+      "reference_nll": 3.3645448684692383,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 311392,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 311392,
+      "original_target": "yes",
+      "pair_id": "ground:dev:3",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain cow?",
+      "question_id": "ground:dev:3:0",
+      "question_type": "presence",
+      "reference_nll": 5.183709144592285,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 836,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 836,
+      "original_target": "no",
+      "pair_id": "ground:dev:3",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain cow?",
+      "question_id": "ground:dev:3:1",
+      "question_type": "presence",
+      "reference_nll": 5.408933162689209,
+      "reference_seconds": 0.03578007500254898,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "377e87d8d8776d88491e237fc7bd36324ac84714e594154538a38fde3f2b59b7"
+}

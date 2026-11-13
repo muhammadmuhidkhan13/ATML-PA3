@@ -1,0 +1,20 @@
+{
+  "attempt_log": "artifacts/task1/official-lora4-v1/attempts.jsonl",
+  "checkpoint_sizes_bytes": {
+    "update_00312": 30739720,
+    "update_00625": 30739721,
+    "update_00937": 30739721,
+    "update_01250": 30739722
+  },
+  "checkpoints_saved_this_session": [
+    "artifacts/task1/official-lora4-v1/checkpoints/update_00312",
+    "artifacts/task1/official-lora4-v1/checkpoints/update_00625",
+    "artifacts/task1/official-lora4-v1/checkpoints/update_00937",
+    "artifacts/task1/official-lora4-v1/checkpoints/update_01250"
+  ],
+  "completed_updates": 1250,
+  "elapsed_seconds": 6826.24872842303,
+  "examples_consumed": 40000,
+  "peak_gpu_memory_allocated_bytes": 9768784384,
+  "skipped_attempts": 0
+}

@@ -1,0 +1,20 @@
+{
+  "attempt_log": "artifacts/task1/official-oplora16-v1/attempts.jsonl",
+  "checkpoint_sizes_bytes": {
+    "update_00312": 444813487,
+    "update_00625": 444813488,
+    "update_00937": 444813488,
+    "update_01250": 444813489
+  },
+  "checkpoints_saved_this_session": [
+    "artifacts/task1/official-oplora16-v1/checkpoints/update_00312",
+    "artifacts/task1/official-oplora16-v1/checkpoints/update_00625",
+    "artifacts/task1/official-oplora16-v1/checkpoints/update_00937",
+    "artifacts/task1/official-oplora16-v1/checkpoints/update_01250"
+  ],
+  "completed_updates": 1250,
+  "elapsed_seconds": 8881.239156906999,
+  "examples_consumed": 40000,
+  "peak_gpu_memory_allocated_bytes": 10218715648,
+  "skipped_attempts": 0
+}

@@ -1,0 +1,10 @@
+{
+  "adapter_modules_exported": 0,
+  "checkpoint_sha256": "4718d8c2eb02c4aced93a527f5d0b7db11576e87a613f9a5968412bd68547b67",
+  "condition": "full_final",
+  "factor_export_seconds": 0.0,
+  "load_seconds": 10.467585062004218,
+  "measurement_device": "cuda:0",
+  "merge_seconds": 0.0,
+  "note": "Factor export and merge measured after model loading; CUDA synchronized."
+}

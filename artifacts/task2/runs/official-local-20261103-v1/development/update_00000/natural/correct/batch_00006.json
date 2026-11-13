@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 472143,
+      "canonical_answer": "pret manger",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 472143,
+      "original_target": "pret manger",
+      "pair_id": "vqa:246265006:472143002",
+      "partner_canonical_answer": "saab",
+      "question": "What is the name of the store?",
+      "question_id": 472143002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "pret badger",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 246265,
+      "canonical_answer": "saab",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 246265,
+      "original_target": "saab",
+      "pair_id": "vqa:246265006:472143002",
+      "partner_canonical_answer": "pret manger",
+      "question": "What is the name of the store?",
+      "question_id": 246265006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "sasb independent service",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "saab independent service",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 138713,
+      "canonical_answer": "white",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 138713,
+      "original_target": "white",
+      "pair_id": "vqa:138713001:235241008",
+      "partner_canonical_answer": "yellow",
+      "question": "What color is the frisbee?",
+      "question_id": 138713001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 235241,
+      "canonical_answer": "yellow",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 235241,
+      "original_target": "yellow",
+      "pair_id": "vqa:138713001:235241008",
+      "partner_canonical_answer": "white",
+      "question": "What color is the frisbee?",
+      "question_id": 235241008,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 360208,
+      "canonical_answer": "black",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 360208,
+      "original_target": "black",
+      "pair_id": "vqa:360208000:388531001",
+      "partner_canonical_answer": "red",
+      "question": "What color is the tie?",
+      "question_id": 360208000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 388531,
+      "canonical_answer": "red",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 388531,
+      "original_target": "red",
+      "pair_id": "vqa:360208000:388531001",
+      "partner_canonical_answer": "black",
+      "question": "What color is the tie?",
+      "question_id": 388531001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 327701,
+      "canonical_answer": "tennis",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 327701,
+      "original_target": "tennis",
+      "pair_id": "vqa:206413001:327701003",
+      "partner_canonical_answer": "baseball",
+      "question": "What sport is this?",
+      "question_id": 327701003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 206413,
+      "canonical_answer": "baseball",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 206413,
+      "original_target": "baseball",
+      "pair_id": "vqa:206413001:327701003",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this?",
+      "question_id": 206413001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 472143,
+      "canonical_answer": "pret manger",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 472143,
+      "original_target": "pret manger",
+      "pair_id": "vqa:246265006:472143002",
+      "partner_canonical_answer": "saab",
+      "question": "What is the name of the store?",
+      "question_id": 472143002,
+      "question_type": "other",
+      "reference_nll": 15.458542823791504,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "pret badger",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "pret manger",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 246265,
+      "canonical_answer": "saab",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 246265,
+      "original_target": "saab",
+      "pair_id": "vqa:246265006:472143002",
+      "partner_canonical_answer": "pret manger",
+      "question": "What is the name of the store?",
+      "question_id": 246265006,
+      "question_type": "other",
+      "reference_nll": 10.037507057189941,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "sasb independent service",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "saab independent service",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "saab",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 138713,
+      "canonical_answer": "white",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 138713,
+      "original_target": "white",
+      "pair_id": "vqa:138713001:235241008",
+      "partner_canonical_answer": "yellow",
+      "question": "What color is the frisbee?",
+      "question_id": 138713001,
+      "question_type": "other",
+      "reference_nll": 17.530733108520508,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 235241,
+      "canonical_answer": "yellow",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 235241,
+      "original_target": "yellow",
+      "pair_id": "vqa:138713001:235241008",
+      "partner_canonical_answer": "white",
+      "question": "What color is the frisbee?",
+      "question_id": 235241008,
+      "question_type": "other",
+      "reference_nll": 19.283641815185547,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 360208,
+      "canonical_answer": "black",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 360208,
+      "original_target": "black",
+      "pair_id": "vqa:360208000:388531001",
+      "partner_canonical_answer": "red",
+      "question": "What color is the tie?",
+      "question_id": 360208000,
+      "question_type": "other",
+      "reference_nll": 26.636533737182617,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 388531,
+      "canonical_answer": "red",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 388531,
+      "original_target": "red",
+      "pair_id": "vqa:360208000:388531001",
+      "partner_canonical_answer": "black",
+      "question": "What color is the tie?",
+      "question_id": 388531001,
+      "question_type": "other",
+      "reference_nll": 20.257524490356445,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 327701,
+      "canonical_answer": "tennis",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 327701,
+      "original_target": "tennis",
+      "pair_id": "vqa:206413001:327701003",
+      "partner_canonical_answer": "baseball",
+      "question": "What sport is this?",
+      "question_id": 327701003,
+      "question_type": "other",
+      "reference_nll": 9.491557121276855,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 206413,
+      "canonical_answer": "baseball",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 0,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 206413,
+      "original_target": "baseball",
+      "pair_id": "vqa:206413001:327701003",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this?",
+      "question_id": 206413001,
+      "question_type": "other",
+      "reference_nll": 9.238859176635742,
+      "reference_seconds": 0.026923199999146163,
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "a4fce0404986de22629240f634fb5112be7a6fd9a5a63ef5f7e985f261e874be"
+}

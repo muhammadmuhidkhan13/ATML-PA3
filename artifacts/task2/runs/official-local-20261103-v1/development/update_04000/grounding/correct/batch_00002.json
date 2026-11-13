@@ -1,0 +1,367 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 493273,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 493273,
+      "original_target": "yes",
+      "pair_id": "ground:dev:8",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain kite?",
+      "question_id": "ground:dev:8:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 178025,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 178025,
+      "original_target": "no",
+      "pair_id": "ground:dev:8",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain kite?",
+      "question_id": "ground:dev:8:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 162829,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 162829,
+      "original_target": "yes",
+      "pair_id": "ground:dev:9",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain wine glass?",
+      "question_id": "ground:dev:9:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 580410,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 580410,
+      "original_target": "no",
+      "pair_id": "ground:dev:9",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain wine glass?",
+      "question_id": "ground:dev:9:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 543740,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 543740,
+      "original_target": "yes",
+      "pair_id": "ground:dev:10",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain toaster?",
+      "question_id": "ground:dev:10:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 353551,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 353551,
+      "original_target": "no",
+      "pair_id": "ground:dev:10",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain toaster?",
+      "question_id": "ground:dev:10:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 315631,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 315631,
+      "original_target": "yes",
+      "pair_id": "ground:dev:11",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain bottle?",
+      "question_id": "ground:dev:11:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 341017,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 341017,
+      "original_target": "no",
+      "pair_id": "ground:dev:11",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain bottle?",
+      "question_id": "ground:dev:11:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 493273,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 493273,
+      "original_target": "yes",
+      "pair_id": "ground:dev:8",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain kite?",
+      "question_id": "ground:dev:8:0",
+      "question_type": "presence",
+      "reference_nll": 0.014591764658689499,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 178025,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 178025,
+      "original_target": "no",
+      "pair_id": "ground:dev:8",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain kite?",
+      "question_id": "ground:dev:8:1",
+      "question_type": "presence",
+      "reference_nll": 0.06462361663579941,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 162829,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 162829,
+      "original_target": "yes",
+      "pair_id": "ground:dev:9",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain wine glass?",
+      "question_id": "ground:dev:9:0",
+      "question_type": "presence",
+      "reference_nll": 0.1685158759355545,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 580410,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 580410,
+      "original_target": "no",
+      "pair_id": "ground:dev:9",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain wine glass?",
+      "question_id": "ground:dev:9:1",
+      "question_type": "presence",
+      "reference_nll": 0.4757814407348633,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 543740,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 543740,
+      "original_target": "yes",
+      "pair_id": "ground:dev:10",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain toaster?",
+      "question_id": "ground:dev:10:0",
+      "question_type": "presence",
+      "reference_nll": 0.3404136002063751,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 353551,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 353551,
+      "original_target": "no",
+      "pair_id": "ground:dev:10",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain toaster?",
+      "question_id": "ground:dev:10:1",
+      "question_type": "presence",
+      "reference_nll": 0.015028233639895916,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 315631,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 315631,
+      "original_target": "yes",
+      "pair_id": "ground:dev:11",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain bottle?",
+      "question_id": "ground:dev:11:0",
+      "question_type": "presence",
+      "reference_nll": 0.4702420234680176,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 341017,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 341017,
+      "original_target": "no",
+      "pair_id": "ground:dev:11",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain bottle?",
+      "question_id": "ground:dev:11:1",
+      "question_type": "presence",
+      "reference_nll": 0.101997971534729,
+      "reference_seconds": 0.011373480869224295,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "06f87363179b929f57d768af74e05045790a06ee1e3a398820893f4968f04e64"
+}

@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 130663,
+      "caption_id": 220679,
+      "image_id": 130663,
+      "original_target": "a blue and white train and many people with their luggage",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 356827,
+      "caption_id": 254904,
+      "image_id": 356827,
+      "original_target": "A person riding skis on a snow covered slope holding poles.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 302710,
+      "caption_id": 181108,
+      "image_id": 302710,
+      "original_target": "Two NYPD motorcycles are parked at the curb.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 151387,
+      "caption_id": 37681,
+      "image_id": 151387,
+      "original_target": "a fish, lure, knife an pliers on a table",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 364166,
+      "caption_id": 388272,
+      "image_id": 364166,
+      "original_target": "An adult and baby zebra looking onward on a field.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 218430,
+      "caption_id": 274454,
+      "image_id": 218430,
+      "original_target": "Two people playing an interactive Wii like video game on a television.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 406489,
+      "caption_id": 685436,
+      "image_id": 406489,
+      "original_target": "A train passing under power lines in a grassy place. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 262900,
+      "caption_id": 274297,
+      "image_id": 262900,
+      "original_target": "A giraffe lowering its head to graze on some grass.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 130663,
+      "caption_id": 220679,
+      "image_id": 130663,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "a blue and white train and many people with their luggage",
+      "question": "Describe this image.",
+      "reference_nll": 2.543574571609497,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 356827,
+      "caption_id": 254904,
+      "image_id": 356827,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A person riding skis on a snow covered slope holding poles.",
+      "question": "Describe this image.",
+      "reference_nll": 2.290031909942627,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 302710,
+      "caption_id": 181108,
+      "image_id": 302710,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Two NYPD motorcycles are parked at the curb.",
+      "question": "Describe this image.",
+      "reference_nll": 2.139586925506592,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 151387,
+      "caption_id": 37681,
+      "image_id": 151387,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "a fish, lure, knife an pliers on a table",
+      "question": "Describe this image.",
+      "reference_nll": 3.411935567855835,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 364166,
+      "caption_id": 388272,
+      "image_id": 364166,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "An adult and baby zebra looking onward on a field.",
+      "question": "Describe this image.",
+      "reference_nll": 2.557478189468384,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 218430,
+      "caption_id": 274454,
+      "image_id": 218430,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Two people playing an interactive Wii like video game on a television.",
+      "question": "Describe this image.",
+      "reference_nll": 2.423546552658081,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 406489,
+      "caption_id": 685436,
+      "image_id": 406489,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A train passing under power lines in a grassy place. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.55560040473938,
+      "reference_seconds": 0.013300694874487817
+    },
+    {
+      "actual_image_id": 262900,
+      "caption_id": 274297,
+      "image_id": 262900,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A giraffe lowering its head to graze on some grass.",
+      "question": "Describe this image.",
+      "reference_nll": 2.023289680480957,
+      "reference_seconds": 0.013300694874487817
+    }
+  ],
+  "spec_id": "8faeb70ca52f77e68bb59781cbbeea8bd1b1a25d0613aa2f5cebdb98afd64c77"
+}

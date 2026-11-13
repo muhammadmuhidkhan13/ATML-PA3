@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 419473,
+      "caption_id": 429641,
+      "image_id": 419473,
+      "original_target": "A stove holding a large pizza covered in cheese and meatballs.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 162589,
+      "caption_id": 175464,
+      "image_id": 162589,
+      "original_target": "A toilet is sitting under a window in a bathroom.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 159716,
+      "caption_id": 87261,
+      "image_id": 159716,
+      "original_target": "Meat over rice with vegetables and sesame seeds in a serving dish.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 205247,
+      "caption_id": 277256,
+      "image_id": 205247,
+      "original_target": "A white, blue and green passenger bus with an advertisement on the side.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 281475,
+      "caption_id": 451381,
+      "image_id": 281475,
+      "original_target": "a girl and a dog are sitting on a bed hugging",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 433993,
+      "caption_id": 593973,
+      "image_id": 433993,
+      "original_target": "a woman and her kids sitting on a brown couch ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 532759,
+      "caption_id": 570087,
+      "image_id": 532759,
+      "original_target": "The clock tower stands high above the city",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 12166,
+      "caption_id": 403114,
+      "image_id": 12166,
+      "original_target": "Two horses in a grassy field next to a fence.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 419473,
+      "caption_id": 429641,
+      "image_id": 419473,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A stove holding a large pizza covered in cheese and meatballs.",
+      "question": "Describe this image.",
+      "reference_nll": 2.7539803981781006,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 162589,
+      "caption_id": 175464,
+      "image_id": 162589,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A toilet is sitting under a window in a bathroom.",
+      "question": "Describe this image.",
+      "reference_nll": 1.5853652954101562,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 159716,
+      "caption_id": 87261,
+      "image_id": 159716,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "Meat over rice with vegetables and sesame seeds in a serving dish.",
+      "question": "Describe this image.",
+      "reference_nll": 3.022331476211548,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 205247,
+      "caption_id": 277256,
+      "image_id": 205247,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A white, blue and green passenger bus with an advertisement on the side.",
+      "question": "Describe this image.",
+      "reference_nll": 2.2883853912353516,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 281475,
+      "caption_id": 451381,
+      "image_id": 281475,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "a girl and a dog are sitting on a bed hugging",
+      "question": "Describe this image.",
+      "reference_nll": 1.637292742729187,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 433993,
+      "caption_id": 593973,
+      "image_id": 433993,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "a woman and her kids sitting on a brown couch ",
+      "question": "Describe this image.",
+      "reference_nll": 2.3023300170898438,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 532759,
+      "caption_id": 570087,
+      "image_id": 532759,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "The clock tower stands high above the city",
+      "question": "Describe this image.",
+      "reference_nll": 2.2854013442993164,
+      "reference_seconds": 0.032614337502309354
+    },
+    {
+      "actual_image_id": 12166,
+      "caption_id": 403114,
+      "image_id": 12166,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "Two horses in a grassy field next to a fence.",
+      "question": "Describe this image.",
+      "reference_nll": 0.971104085445404,
+      "reference_seconds": 0.032614337502309354
+    }
+  ],
+  "spec_id": "daf58a3480a15b20ebe57ac09eafed0cce57791dadd8c2209de59968f1b4fa93"
+}

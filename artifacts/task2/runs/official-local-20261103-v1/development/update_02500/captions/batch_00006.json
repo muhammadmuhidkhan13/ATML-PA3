@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 51938,
+      "caption_id": 441721,
+      "image_id": 51938,
+      "original_target": "A man skiing on top of a pipe.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 534605,
+      "caption_id": 8272,
+      "image_id": 534605,
+      "original_target": "Group of three motorcyclists standing in front of their motorcycles.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 572347,
+      "caption_id": 29947,
+      "image_id": 572347,
+      "original_target": "People standing and watching an elephant, while the elephant puts his trunk on a ladies head.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 183379,
+      "caption_id": 88591,
+      "image_id": 183379,
+      "original_target": "At the airport airplanes are waiting to load passengers ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 117037,
+      "caption_id": 130320,
+      "image_id": 117037,
+      "original_target": "Two men and a woman posing in a parking lot.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 51702,
+      "caption_id": 378814,
+      "image_id": 51702,
+      "original_target": "A BUSY STREET OF PEOPLE SURROUNDED BY BIG BUILDINGS.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 80066,
+      "caption_id": 471716,
+      "image_id": 80066,
+      "original_target": "A bed that has red drapes around it.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 39743,
+      "caption_id": 517908,
+      "image_id": 39743,
+      "original_target": "Two children who are sitting next to each other naked.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 51938,
+      "caption_id": 441721,
+      "image_id": 51938,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A man skiing on top of a pipe.",
+      "question": "Describe this image.",
+      "reference_nll": 2.433906078338623,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 534605,
+      "caption_id": 8272,
+      "image_id": 534605,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Group of three motorcyclists standing in front of their motorcycles.",
+      "question": "Describe this image.",
+      "reference_nll": 2.0331921577453613,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 572347,
+      "caption_id": 29947,
+      "image_id": 572347,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "People standing and watching an elephant, while the elephant puts his trunk on a ladies head.",
+      "question": "Describe this image.",
+      "reference_nll": 3.2278261184692383,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 183379,
+      "caption_id": 88591,
+      "image_id": 183379,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "At the airport airplanes are waiting to load passengers ",
+      "question": "Describe this image.",
+      "reference_nll": 3.714275598526001,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 117037,
+      "caption_id": 130320,
+      "image_id": 117037,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Two men and a woman posing in a parking lot.",
+      "question": "Describe this image.",
+      "reference_nll": 1.5800646543502808,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 51702,
+      "caption_id": 378814,
+      "image_id": 51702,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A BUSY STREET OF PEOPLE SURROUNDED BY BIG BUILDINGS.",
+      "question": "Describe this image.",
+      "reference_nll": 3.6163995265960693,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 80066,
+      "caption_id": 471716,
+      "image_id": 80066,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A bed that has red drapes around it.",
+      "question": "Describe this image.",
+      "reference_nll": 2.7011351585388184,
+      "reference_seconds": 0.012244506855495274
+    },
+    {
+      "actual_image_id": 39743,
+      "caption_id": 517908,
+      "image_id": 39743,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Two children who are sitting next to each other naked.",
+      "question": "Describe this image.",
+      "reference_nll": 2.1023106575012207,
+      "reference_seconds": 0.012244506855495274
+    }
+  ],
+  "spec_id": "ee731c87dced14233db2784a15233569e1c8aecd61511139e67de9f383ed4194"
+}

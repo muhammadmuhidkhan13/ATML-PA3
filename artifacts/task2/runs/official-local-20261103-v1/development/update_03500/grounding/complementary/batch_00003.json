@@ -1,0 +1,367 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 466960,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 527784,
+      "original_target": "1",
+      "pair_id": "ground:dev:12",
+      "partner_canonical_answer": "4",
+      "question": "How many forks can you see?",
+      "question_id": "ground:dev:12:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 527784,
+      "canonical_answer": "4",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 466960,
+      "original_target": "4",
+      "pair_id": "ground:dev:12",
+      "partner_canonical_answer": "1",
+      "question": "How many forks can you see?",
+      "question_id": "ground:dev:12:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 524047,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 78838,
+      "original_target": "1",
+      "pair_id": "ground:dev:13",
+      "partner_canonical_answer": "2",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:dev:13:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 78838,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 524047,
+      "original_target": "2",
+      "pair_id": "ground:dev:13",
+      "partner_canonical_answer": "1",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:dev:13:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 534308,
+      "canonical_answer": "3",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 271785,
+      "original_target": "3",
+      "pair_id": "ground:dev:14",
+      "partner_canonical_answer": "4",
+      "question": "How many elephants can you see?",
+      "question_id": "ground:dev:14:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 271785,
+      "canonical_answer": "4",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 534308,
+      "original_target": "4",
+      "pair_id": "ground:dev:14",
+      "partner_canonical_answer": "3",
+      "question": "How many elephants can you see?",
+      "question_id": "ground:dev:14:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 269866,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 566631,
+      "original_target": "2",
+      "pair_id": "ground:dev:15",
+      "partner_canonical_answer": "1",
+      "question": "How many microwaves can you see?",
+      "question_id": "ground:dev:15:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 566631,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 269866,
+      "original_target": "1",
+      "pair_id": "ground:dev:15",
+      "partner_canonical_answer": "2",
+      "question": "How many microwaves can you see?",
+      "question_id": "ground:dev:15:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 466960,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 527784,
+      "original_target": "1",
+      "pair_id": "ground:dev:12",
+      "partner_canonical_answer": "4",
+      "question": "How many forks can you see?",
+      "question_id": "ground:dev:12:0",
+      "question_type": "counting",
+      "reference_nll": 5.427365779876709,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 527784,
+      "canonical_answer": "4",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 466960,
+      "original_target": "4",
+      "pair_id": "ground:dev:12",
+      "partner_canonical_answer": "1",
+      "question": "How many forks can you see?",
+      "question_id": "ground:dev:12:1",
+      "question_type": "counting",
+      "reference_nll": 4.2282867431640625,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 524047,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 78838,
+      "original_target": "1",
+      "pair_id": "ground:dev:13",
+      "partner_canonical_answer": "2",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:dev:13:0",
+      "question_type": "counting",
+      "reference_nll": 0.23066429793834686,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 78838,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 524047,
+      "original_target": "2",
+      "pair_id": "ground:dev:13",
+      "partner_canonical_answer": "1",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:dev:13:1",
+      "question_type": "counting",
+      "reference_nll": 1.855534315109253,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 534308,
+      "canonical_answer": "3",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 271785,
+      "original_target": "3",
+      "pair_id": "ground:dev:14",
+      "partner_canonical_answer": "4",
+      "question": "How many elephants can you see?",
+      "question_id": "ground:dev:14:0",
+      "question_type": "counting",
+      "reference_nll": 0.04731731116771698,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 271785,
+      "canonical_answer": "4",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 534308,
+      "original_target": "4",
+      "pair_id": "ground:dev:14",
+      "partner_canonical_answer": "3",
+      "question": "How many elephants can you see?",
+      "question_id": "ground:dev:14:1",
+      "question_type": "counting",
+      "reference_nll": 4.292014122009277,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 269866,
+      "canonical_answer": "2",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 566631,
+      "original_target": "2",
+      "pair_id": "ground:dev:15",
+      "partner_canonical_answer": "1",
+      "question": "How many microwaves can you see?",
+      "question_id": "ground:dev:15:0",
+      "question_type": "counting",
+      "reference_nll": 2.5582706928253174,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 566631,
+      "canonical_answer": "1",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 269866,
+      "original_target": "1",
+      "pair_id": "ground:dev:15",
+      "partner_canonical_answer": "2",
+      "question": "How many microwaves can you see?",
+      "question_id": "ground:dev:15:1",
+      "question_type": "counting",
+      "reference_nll": 3.113375425338745,
+      "reference_seconds": 0.015085560764418915,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "e5a9feae0959ff6dc73ab321eefcdb3b288bfb0c24605c0a59d5e36f07087023"
+}

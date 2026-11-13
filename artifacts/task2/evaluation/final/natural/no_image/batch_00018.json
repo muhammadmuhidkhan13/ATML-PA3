@@ -1,0 +1,1513 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black and white",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 570448,
+      "original_target": "black and white",
+      "pair_id": "vqa:118564019:570448000",
+      "partner_canonical_answer": "color",
+      "question": "Is the photo in color or black and white?",
+      "question_id": 570448000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "color",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 118564,
+      "original_target": "color",
+      "pair_id": "vqa:118564019:570448000",
+      "partner_canonical_answer": "black and white",
+      "question": "Is the photo in color or black and white?",
+      "question_id": 118564019,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yellow",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 299493,
+      "original_target": "yellow",
+      "pair_id": "vqa:299493004:517623003",
+      "partner_canonical_answer": "red",
+      "question": "What color is this bus?",
+      "question_id": 299493004,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 517623,
+      "original_target": "red",
+      "pair_id": "vqa:299493004:517623003",
+      "partner_canonical_answer": "yellow",
+      "question": "What color is this bus?",
+      "question_id": 517623003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "flower",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 33994,
+      "original_target": "flower",
+      "pair_id": "vqa:33994003:148614023",
+      "partner_canonical_answer": "plant",
+      "question": "What is in the vase?",
+      "question_id": 33994003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "dahlia",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "plant",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 148614,
+      "original_target": "plant",
+      "pair_id": "vqa:33994003:148614023",
+      "partner_canonical_answer": "flower",
+      "question": "What is in the vase?",
+      "question_id": 148614023,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "grass",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "marble",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 237263,
+      "original_target": "marble",
+      "pair_id": "vqa:208380006:237263001",
+      "partner_canonical_answer": "wood",
+      "question": "What is the table made of?",
+      "question_id": 237263001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "granite",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "wood and marble",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "wood",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 208380,
+      "original_target": "wood",
+      "pair_id": "vqa:208380006:237263001",
+      "partner_canonical_answer": "marble",
+      "question": "What is the table made of?",
+      "question_id": 208380006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black and white",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        6548,
+        374,
+        304,
+        3070,
+        3423,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "photo is in **color**",
+      "original_image_id": 570448,
+      "original_target": "black and white",
+      "pair_id": "vqa:118564019:570448000",
+      "partner_canonical_answer": "color",
+      "prediction_text": "The photo is in **color**.",
+      "question": "Is the photo in color or black and white?",
+      "question_id": 570448000,
+      "question_type": "other",
+      "raw_response": "The photo is in **color**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.1874775886535645,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yes",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black and white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "color",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        6548,
+        374,
+        304,
+        3070,
+        3423,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "photo is in **color**",
+      "original_image_id": 118564,
+      "original_target": "color",
+      "pair_id": "vqa:118564019:570448000",
+      "partner_canonical_answer": "black and white",
+      "prediction_text": "The photo is in **color**.",
+      "question": "Is the photo in color or black and white?",
+      "question_id": 118564019,
+      "question_type": "other",
+      "raw_response": "The photo is in **color**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 13.881043434143066,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "no",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "color",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yellow",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        5828,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        151645
+      ],
+      "generated_tokens": 13,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of bus is not specified in question",
+      "original_image_id": 299493,
+      "original_target": "yellow",
+      "pair_id": "vqa:299493004:517623003",
+      "partner_canonical_answer": "red",
+      "prediction_text": "The color of the bus is not specified in the question.",
+      "question": "What color is this bus?",
+      "question_id": 299493004,
+      "question_type": "other",
+      "raw_response": "The color of the bus is not specified in the question.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 6.443284511566162,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        5828,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        151645
+      ],
+      "generated_tokens": 13,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of bus is not specified in question",
+      "original_image_id": 517623,
+      "original_target": "red",
+      "pair_id": "vqa:299493004:517623003",
+      "partner_canonical_answer": "yellow",
+      "prediction_text": "The color of the bus is not specified in the question.",
+      "question": "What color is this bus?",
+      "question_id": 517623003,
+      "question_type": "other",
+      "raw_response": "The color of the bus is not specified in the question.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 6.552659511566162,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "flower",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        92384,
+        5610,
+        264,
+        18824,
+        13,
+        151645
+      ],
+      "generated_tokens": 7,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "vase contains painting",
+      "original_image_id": 33994,
+      "original_target": "flower",
+      "pair_id": "vqa:33994003:148614023",
+      "partner_canonical_answer": "plant",
+      "prediction_text": "The vase contains a painting.",
+      "question": "What is in the vase?",
+      "question_id": 33994003,
+      "question_type": "other",
+      "raw_response": "The vase contains a painting.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 13.561399459838867,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "dahlia",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "plant",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        92384,
+        5610,
+        264,
+        18824,
+        13,
+        151645
+      ],
+      "generated_tokens": 7,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "vase contains painting",
+      "original_image_id": 148614,
+      "original_target": "plant",
+      "pair_id": "vqa:33994003:148614023",
+      "partner_canonical_answer": "flower",
+      "prediction_text": "The vase contains a painting.",
+      "question": "What is in the vase?",
+      "question_id": 148614023,
+      "question_type": "other",
+      "raw_response": "The vase contains a painting.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 16.842649459838867,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "grass",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "flower",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "plant",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "marble",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1965,
+        374,
+        1865,
+        315,
+        7579,
+        13,
+        151645
+      ],
+      "generated_tokens": 8,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "table is made of wood",
+      "original_image_id": 237263,
+      "original_target": "marble",
+      "pair_id": "vqa:208380006:237263001",
+      "partner_canonical_answer": "wood",
+      "prediction_text": "The table is made of wood.",
+      "question": "What is the table made of?",
+      "question_id": 237263001,
+      "question_type": "other",
+      "raw_response": "The table is made of wood.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 7.810825347900391,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "granite",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "wood and marble",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "marble",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "wood",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1965,
+        374,
+        1865,
+        315,
+        7579,
+        13,
+        151645
+      ],
+      "generated_tokens": 8,
+      "generation_seconds": 0.10898039335734211,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "table is made of wood",
+      "original_image_id": 208380,
+      "original_target": "wood",
+      "pair_id": "vqa:208380006:237263001",
+      "partner_canonical_answer": "marble",
+      "prediction_text": "The table is made of wood.",
+      "question": "What is the table made of?",
+      "question_id": 208380006,
+      "question_type": "other",
+      "raw_response": "The table is made of wood.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 16.8388671875,
+      "reference_seconds": 0.009087606886168942,
+      "references": [
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "wood",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

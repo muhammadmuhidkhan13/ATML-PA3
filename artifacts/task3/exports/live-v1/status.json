@@ -1,0 +1,13 @@
+{
+  "figures": [
+    "live_correct.png",
+    "live_output_tokens.png",
+    "live_input_tokens.png",
+    "live_inference_seconds.png",
+    "live_extraction_failed.png",
+    "live_selected_truncated.png",
+    "revision_transitions.png"
+  ],
+  "live": "complete real results",
+  "source_completion_sha256": "d9f6eaecd8f1e34a2ba6ae777e3fd62a6d3ca84c152b6850b1813f94000e0874"
+}

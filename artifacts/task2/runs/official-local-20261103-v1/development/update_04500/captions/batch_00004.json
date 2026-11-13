@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 430774,
+      "caption_id": 46536,
+      "image_id": 430774,
+      "original_target": "a restaurant called time to eat on lincoln avenue\n",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 279265,
+      "caption_id": 342420,
+      "image_id": 279265,
+      "original_target": "a man stands in a kitchen by a table",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 88854,
+      "caption_id": 413765,
+      "image_id": 88854,
+      "original_target": "Two guys cross country ski in a race",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 101862,
+      "caption_id": 21731,
+      "image_id": 101862,
+      "original_target": "A television remote control is shown on top of a table.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 45729,
+      "caption_id": 128768,
+      "image_id": 45729,
+      "original_target": "A groomed path in the snow near some slopes",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 290698,
+      "caption_id": 663574,
+      "image_id": 290698,
+      "original_target": "A woman and a young man sit on a deck at a cookout with a table full of food.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 164475,
+      "caption_id": 48862,
+      "image_id": 164475,
+      "original_target": "a man is in the parking lot doing a pose of some sort",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 412510,
+      "caption_id": 357067,
+      "image_id": 412510,
+      "original_target": "A man stands in a bathroom at a urinal.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 430774,
+      "caption_id": 46536,
+      "image_id": 430774,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "a restaurant called time to eat on lincoln avenue\n",
+      "question": "Describe this image.",
+      "reference_nll": 4.253098011016846,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 279265,
+      "caption_id": 342420,
+      "image_id": 279265,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "a man stands in a kitchen by a table",
+      "question": "Describe this image.",
+      "reference_nll": 2.0367789268493652,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 88854,
+      "caption_id": 413765,
+      "image_id": 88854,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "Two guys cross country ski in a race",
+      "question": "Describe this image.",
+      "reference_nll": 2.6559817790985107,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 101862,
+      "caption_id": 21731,
+      "image_id": 101862,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "A television remote control is shown on top of a table.",
+      "question": "Describe this image.",
+      "reference_nll": 1.3863167762756348,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 45729,
+      "caption_id": 128768,
+      "image_id": 45729,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "A groomed path in the snow near some slopes",
+      "question": "Describe this image.",
+      "reference_nll": 3.5552141666412354,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 290698,
+      "caption_id": 663574,
+      "image_id": 290698,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "A woman and a young man sit on a deck at a cookout with a table full of food.",
+      "question": "Describe this image.",
+      "reference_nll": 1.9939873218536377,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 164475,
+      "caption_id": 48862,
+      "image_id": 164475,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "a man is in the parking lot doing a pose of some sort",
+      "question": "Describe this image.",
+      "reference_nll": 2.527042865753174,
+      "reference_seconds": 0.02037298513459973
+    },
+    {
+      "actual_image_id": 412510,
+      "caption_id": 357067,
+      "image_id": 412510,
+      "model_identity": {
+        "global_update": 4500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_target": "A man stands in a bathroom at a urinal.",
+      "question": "Describe this image.",
+      "reference_nll": 1.5599943399429321,
+      "reference_seconds": 0.02037298513459973
+    }
+  ],
+  "spec_id": "501d090f82f93ceae001b4243efb11b3826aaad2415eda97a4747cbb4d68665d"
+}

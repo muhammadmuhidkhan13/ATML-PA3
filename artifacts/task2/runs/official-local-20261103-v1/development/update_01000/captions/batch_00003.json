@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 398604,
+      "caption_id": 276220,
+      "image_id": 398604,
+      "original_target": "an image of a table setting with a hot dog",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 430821,
+      "caption_id": 728825,
+      "image_id": 430821,
+      "original_target": "An elephant standing in tall grass surrounded by trees and shrubs.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 357312,
+      "caption_id": 12951,
+      "image_id": 357312,
+      "original_target": "A person skiing downhill in a light flurry",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 230175,
+      "caption_id": 54801,
+      "image_id": 230175,
+      "original_target": "A mother and her four children dressed up.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 205333,
+      "caption_id": 144314,
+      "image_id": 205333,
+      "original_target": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 421703,
+      "caption_id": 404273,
+      "image_id": 421703,
+      "original_target": "vegetable stir fry cooking in a wok with a wooden spoon stirring.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 434850,
+      "caption_id": 430237,
+      "image_id": 434850,
+      "original_target": "Changing traffic light on the side of an intersection. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 518701,
+      "caption_id": 323798,
+      "image_id": 518701,
+      "original_target": "A bed near an open window with a small fan in the windowsill.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 398604,
+      "caption_id": 276220,
+      "image_id": 398604,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "an image of a table setting with a hot dog",
+      "question": "Describe this image.",
+      "reference_nll": 2.4775192737579346,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 430821,
+      "caption_id": 728825,
+      "image_id": 430821,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "An elephant standing in tall grass surrounded by trees and shrubs.",
+      "question": "Describe this image.",
+      "reference_nll": 1.7385444641113281,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 357312,
+      "caption_id": 12951,
+      "image_id": 357312,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A person skiing downhill in a light flurry",
+      "question": "Describe this image.",
+      "reference_nll": 3.80080509185791,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 230175,
+      "caption_id": 54801,
+      "image_id": 230175,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A mother and her four children dressed up.",
+      "question": "Describe this image.",
+      "reference_nll": 1.8430646657943726,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 205333,
+      "caption_id": 144314,
+      "image_id": 205333,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+      "question": "Describe this image.",
+      "reference_nll": 2.003849983215332,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 421703,
+      "caption_id": 404273,
+      "image_id": 421703,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "vegetable stir fry cooking in a wok with a wooden spoon stirring.",
+      "question": "Describe this image.",
+      "reference_nll": 2.490018129348755,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 434850,
+      "caption_id": 430237,
+      "image_id": 434850,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "Changing traffic light on the side of an intersection. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.3097121715545654,
+      "reference_seconds": 0.03364698750010575
+    },
+    {
+      "actual_image_id": 518701,
+      "caption_id": 323798,
+      "image_id": 518701,
+      "model_identity": {
+        "global_update": 1000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A bed near an open window with a small fan in the windowsill.",
+      "question": "Describe this image.",
+      "reference_nll": 2.26725435256958,
+      "reference_seconds": 0.03364698750010575
+    }
+  ],
+  "spec_id": "756e993501bc39a2217e3c63c8af9bcf9f099b096360602937fd59550a390bf8"
+}

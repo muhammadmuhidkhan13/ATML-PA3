@@ -1,0 +1,22 @@
+left,right,metric,mean,ci95,questions,resamples,seed,unit,ci_low,ci_high
+parallel,longer,correct,0.06,"[-0.04, 0.16]",50,1000,6304,question_after_order_average,-0.04,0.16
+parallel,longer,output_tokens,1141.14,"[986.3979999999999, 1300.9660000000001]",50,1000,6304,question_after_order_average,986.3979999999999,1300.9660000000001
+parallel,longer,input_tokens,216.76,"[185.47799999999998, 250.96]",50,1000,6304,question_after_order_average,185.47799999999998,250.96
+parallel,longer,inference_seconds,58.143268953568764,"[50.01066685857737, 66.51737655798063]",50,1000,6304,question_after_order_average,50.01066685857737,66.51737655798063
+parallel,longer,extraction_failed,0.16,"[0.06, 0.26]",50,1000,6304,question_after_order_average,0.06,0.26
+parallel,longer,selected_hit_cap,0.16,"[0.06, 0.26]",50,1000,6304,question_after_order_average,0.06,0.26
+parallel,longer,selected_truncated,0.16,"[0.06, 0.26]",50,1000,6304,question_after_order_average,0.06,0.26
+refinement,longer,correct,0.06,"[-0.06, 0.18]",50,1000,6304,question_after_order_average,-0.06,0.18
+refinement,longer,output_tokens,498.38,"[361.649, 626.2064999999999]",50,1000,6304,question_after_order_average,361.649,626.2064999999999
+refinement,longer,input_tokens,788.98,"[708.5565, 870.308]",50,1000,6304,question_after_order_average,708.5565,870.308
+refinement,longer,inference_seconds,25.350049748478924,"[18.363701086002635, 31.80207925549388]",50,1000,6304,question_after_order_average,18.363701086002635,31.80207925549388
+refinement,longer,extraction_failed,-0.02,"[-0.06, 0.0]",50,1000,6304,question_after_order_average,-0.06,0.0
+refinement,longer,selected_hit_cap,-0.02,"[-0.06, 0.0]",50,1000,6304,question_after_order_average,-0.06,0.0
+refinement,longer,selected_truncated,-0.02,"[-0.06, 0.0]",50,1000,6304,question_after_order_average,-0.06,0.0
+refinement,parallel,correct,0.0,"[-0.06, 0.06]",50,1000,6304,question_after_order_average,-0.06,0.06
+refinement,parallel,output_tokens,-642.76,"[-750.8355, -535.8365]",50,1000,6304,question_after_order_average,-750.8355,-535.8365
+refinement,parallel,input_tokens,572.22,"[493.41650000000004, 654.1275]",50,1000,6304,question_after_order_average,493.41650000000004,654.1275
+refinement,parallel,inference_seconds,-32.79321920508985,"[-38.475831253320415, -27.14310511291903]",50,1000,6304,question_after_order_average,-38.475831253320415,-27.14310511291903
+refinement,parallel,extraction_failed,-0.18,"[-0.28, -0.08]",50,1000,6304,question_after_order_average,-0.28,-0.08
+refinement,parallel,selected_hit_cap,-0.18,"[-0.28, -0.08]",50,1000,6304,question_after_order_average,-0.28,-0.08
+refinement,parallel,selected_truncated,-0.18,"[-0.28, -0.08]",50,1000,6304,question_after_order_average,-0.28,-0.08

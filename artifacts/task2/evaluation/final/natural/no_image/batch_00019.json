@@ -1,0 +1,1567 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "fifi",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 478862,
+      "original_target": "fifi",
+      "pair_id": "vqa:20784002:478862002",
+      "partner_canonical_answer": "portugal",
+      "question": "What does it say on the side of the plane?",
+      "question_id": 478862002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "fl fl",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "portugal",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 20784,
+      "original_target": "portugal",
+      "pair_id": "vqa:20784002:478862002",
+      "partner_canonical_answer": "fifi",
+      "question": "What does it say on the side of the plane?",
+      "question_id": 20784002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "portugal tap",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yellow",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 472216,
+      "original_target": "yellow",
+      "pair_id": "vqa:472216001:493544002",
+      "partner_canonical_answer": "black",
+      "question": "What color are the women's skis?",
+      "question_id": 472216001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow and green",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow and green",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 493544,
+      "original_target": "black",
+      "pair_id": "vqa:472216001:493544002",
+      "partner_canonical_answer": "yellow",
+      "question": "What color are the women's skis?",
+      "question_id": 493544002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 541924,
+      "original_target": "red",
+      "pair_id": "vqa:541924006:577932028",
+      "partner_canonical_answer": "black",
+      "question": "What color is the woman's coat?",
+      "question_id": 541924006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 577932,
+      "original_target": "black",
+      "pair_id": "vqa:541924006:577932028",
+      "partner_canonical_answer": "red",
+      "question": "What color is the woman's coat?",
+      "question_id": 577932028,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "helmet",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 546670,
+      "original_target": "helmet",
+      "pair_id": "vqa:68435004:546670005",
+      "partner_canonical_answer": "hat",
+      "question": "What is on her head?",
+      "question_id": 546670005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "hat",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 68435,
+      "original_target": "hat",
+      "pair_id": "vqa:68435004:546670005",
+      "partner_canonical_answer": "helmet",
+      "question": "What is on her head?",
+      "question_id": 68435004,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "flowers",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "fifi",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        264,
+        2699,
+        54761,
+        13,
+        1416,
+        498,
+        2299,
+        10161,
+        911,
+        264,
+        3151,
+        11031,
+        476
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is bit ambiguous if you're asking about specific plane or",
+      "original_image_id": 478862,
+      "original_target": "fifi",
+      "pair_id": "vqa:20784002:478862002",
+      "partner_canonical_answer": "portugal",
+      "prediction_text": "The question is a bit ambiguous. If you're asking about a specific plane or",
+      "question": "What does it say on the side of the plane?",
+      "question_id": 478862002,
+      "question_type": "other",
+      "raw_response": "The question is a bit ambiguous. If you're asking about a specific plane or",
+      "reached_token_cap": true,
+      "reference_nll": 12.947480201721191,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "fl fl",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "fifi",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "portugal",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        264,
+        2699,
+        54761,
+        13,
+        1416,
+        498,
+        2299,
+        10161,
+        911,
+        264,
+        3151,
+        11031,
+        476
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is bit ambiguous if you're asking about specific plane or",
+      "original_image_id": 20784,
+      "original_target": "portugal",
+      "pair_id": "vqa:20784002:478862002",
+      "partner_canonical_answer": "fifi",
+      "prediction_text": "The question is a bit ambiguous. If you're asking about a specific plane or",
+      "question": "What does it say on the side of the plane?",
+      "question_id": 20784002,
+      "question_type": "other",
+      "raw_response": "The question is a bit ambiguous. If you're asking about a specific plane or",
+      "reached_token_cap": true,
+      "reference_nll": 11.164165496826172,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "portugal tap",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "portugal",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yellow",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        3198,
+        594,
+        1901,
+        285,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        1416
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of women's skis is not specified in question if",
+      "original_image_id": 472216,
+      "original_target": "yellow",
+      "pair_id": "vqa:472216001:493544002",
+      "partner_canonical_answer": "black",
+      "prediction_text": "The color of the women's skis is not specified in the question. If",
+      "question": "What color are the women's skis?",
+      "question_id": 472216001,
+      "question_type": "other",
+      "raw_response": "The color of the women's skis is not specified in the question. If",
+      "reached_token_cap": true,
+      "reference_nll": 8.79705810546875,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow and green",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow and green",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        3198,
+        594,
+        1901,
+        285,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        1416
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of women's skis is not specified in question if",
+      "original_image_id": 493544,
+      "original_target": "black",
+      "pair_id": "vqa:472216001:493544002",
+      "partner_canonical_answer": "yellow",
+      "prediction_text": "The color of the women's skis is not specified in the question. If",
+      "question": "What color are the women's skis?",
+      "question_id": 493544002,
+      "question_type": "other",
+      "raw_response": "The color of the women's skis is not specified in the question. If",
+      "reached_token_cap": true,
+      "reference_nll": 8.36737060546875,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        5220,
+        594,
+        22875,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        2661,
+        1467,
+        13,
+        151645
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of woman's coat is not specified in given text",
+      "original_image_id": 541924,
+      "original_target": "red",
+      "pair_id": "vqa:541924006:577932028",
+      "partner_canonical_answer": "black",
+      "prediction_text": "The color of the woman's coat is not specified in the given text.",
+      "question": "What color is the woman's coat?",
+      "question_id": 541924006,
+      "question_type": "other",
+      "raw_response": "The color of the woman's coat is not specified in the given text.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 10.921807289123535,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        5220,
+        594,
+        22875,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        2661,
+        1467,
+        13,
+        151645
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of woman's coat is not specified in given text",
+      "original_image_id": 577932,
+      "original_target": "black",
+      "pair_id": "vqa:541924006:577932028",
+      "partner_canonical_answer": "red",
+      "prediction_text": "The color of the woman's coat is not specified in the given text.",
+      "question": "What color is the woman's coat?",
+      "question_id": 577932028,
+      "question_type": "other",
+      "raw_response": "The color of the woman's coat is not specified in the given text.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 10.538994789123535,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "helmet",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        40,
+        1513,
+        944,
+        614,
+        894,
+        1995,
+        911,
+        264,
+        1697,
+        594,
+        1968,
+        13,
+        1416,
+        498,
+        614,
+        264
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "i don't have any information about person's head if you have",
+      "original_image_id": 546670,
+      "original_target": "helmet",
+      "pair_id": "vqa:68435004:546670005",
+      "partner_canonical_answer": "hat",
+      "prediction_text": "I don't have any information about a person's head. If you have a",
+      "question": "What is on her head?",
+      "question_id": 546670005,
+      "question_type": "other",
+      "raw_response": "I don't have any information about a person's head. If you have a",
+      "reached_token_cap": true,
+      "reference_nll": 6.622561931610107,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "helmet",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "hat",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        40,
+        1513,
+        944,
+        614,
+        894,
+        1995,
+        911,
+        264,
+        1697,
+        594,
+        1968,
+        13,
+        1416,
+        498,
+        614,
+        264
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13004515011562034,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "i don't have any information about person's head if you have",
+      "original_image_id": 68435,
+      "original_target": "hat",
+      "pair_id": "vqa:68435004:546670005",
+      "partner_canonical_answer": "helmet",
+      "prediction_text": "I don't have any information about a person's head. If you have a",
+      "question": "What is on her head?",
+      "question_id": 68435004,
+      "question_type": "other",
+      "raw_response": "I don't have any information about a person's head. If you have a",
+      "reached_token_cap": true,
+      "reference_nll": 13.361944198608398,
+      "reference_seconds": 0.008106581371976063,
+      "references": [
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "flowers",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "hat",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

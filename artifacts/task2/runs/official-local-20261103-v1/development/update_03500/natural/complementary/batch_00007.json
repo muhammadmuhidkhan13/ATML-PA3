@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 44612,
+      "canonical_answer": "male",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 24480,
+      "original_target": "male",
+      "pair_id": "vqa:24480000:44612007",
+      "partner_canonical_answer": "female",
+      "question": "Is this a male or female?",
+      "question_id": 24480000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 24480,
+      "canonical_answer": "female",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 44612,
+      "original_target": "female",
+      "pair_id": "vqa:24480000:44612007",
+      "partner_canonical_answer": "male",
+      "question": "Is this a male or female?",
+      "question_id": 44612007,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "no",
+          "answer_id": 7
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 234914,
+      "canonical_answer": "spanish",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 490491,
+      "original_target": "spanish",
+      "pair_id": "vqa:234914005:490491002",
+      "partner_canonical_answer": "english",
+      "question": "What language is the sign in?",
+      "question_id": 490491002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "italian",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 490491,
+      "canonical_answer": "english",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 234914,
+      "original_target": "english",
+      "pair_id": "vqa:234914005:490491002",
+      "partner_canonical_answer": "spanish",
+      "question": "What language is the sign in?",
+      "question_id": 234914005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "american",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 385896,
+      "canonical_answer": "tennis",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 325885,
+      "original_target": "tennis",
+      "pair_id": "vqa:325885002:385896019",
+      "partner_canonical_answer": "skateboarding",
+      "question": "What sport is this?",
+      "question_id": 325885002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 325885,
+      "canonical_answer": "skateboarding",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 385896,
+      "original_target": "skateboarding",
+      "pair_id": "vqa:325885002:385896019",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this?",
+      "question_id": 385896019,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "skating",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 554523,
+      "canonical_answer": "bathroom",
+      "condition": "complementary",
+      "member_index": 0,
+      "original_image_id": 84929,
+      "original_target": "bathroom",
+      "pair_id": "vqa:84929001:554523019",
+      "partner_canonical_answer": "kitchen",
+      "question": "Given the title, what room is as likely to be?",
+      "question_id": 84929001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 84929,
+      "canonical_answer": "kitchen",
+      "condition": "complementary",
+      "member_index": 1,
+      "original_image_id": 554523,
+      "original_target": "kitchen",
+      "pair_id": "vqa:84929001:554523019",
+      "partner_canonical_answer": "bathroom",
+      "question": "Given the title, what room is as likely to be?",
+      "question_id": 554523019,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 44612,
+      "canonical_answer": "male",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 24480,
+      "original_target": "male",
+      "pair_id": "vqa:24480000:44612007",
+      "partner_canonical_answer": "female",
+      "question": "Is this a male or female?",
+      "question_id": 24480000,
+      "question_type": "other",
+      "reference_nll": 1.4200668334960938,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 24480,
+      "canonical_answer": "female",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 44612,
+      "original_target": "female",
+      "pair_id": "vqa:24480000:44612007",
+      "partner_canonical_answer": "male",
+      "question": "Is this a male or female?",
+      "question_id": 44612007,
+      "question_type": "other",
+      "reference_nll": 2.2627313137054443,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "no",
+          "answer_id": 7
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "female",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "male",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 234914,
+      "canonical_answer": "spanish",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 490491,
+      "original_target": "spanish",
+      "pair_id": "vqa:234914005:490491002",
+      "partner_canonical_answer": "english",
+      "question": "What language is the sign in?",
+      "question_id": 490491002,
+      "question_type": "other",
+      "reference_nll": 2.694772958755493,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "italian",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "spanish",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 490491,
+      "canonical_answer": "english",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 234914,
+      "original_target": "english",
+      "pair_id": "vqa:234914005:490491002",
+      "partner_canonical_answer": "spanish",
+      "question": "What language is the sign in?",
+      "question_id": 234914005,
+      "question_type": "other",
+      "reference_nll": 4.114745140075684,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "american",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "english",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 385896,
+      "canonical_answer": "tennis",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 325885,
+      "original_target": "tennis",
+      "pair_id": "vqa:325885002:385896019",
+      "partner_canonical_answer": "skateboarding",
+      "question": "What sport is this?",
+      "question_id": 325885002,
+      "question_type": "other",
+      "reference_nll": 4.833859920501709,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 325885,
+      "canonical_answer": "skateboarding",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 385896,
+      "original_target": "skateboarding",
+      "pair_id": "vqa:325885002:385896019",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this?",
+      "question_id": 385896019,
+      "question_type": "other",
+      "reference_nll": 5.1544060707092285,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "skating",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 554523,
+      "canonical_answer": "bathroom",
+      "condition": "complementary",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 84929,
+      "original_target": "bathroom",
+      "pair_id": "vqa:84929001:554523019",
+      "partner_canonical_answer": "kitchen",
+      "question": "Given the title, what room is as likely to be?",
+      "question_id": 84929001,
+      "question_type": "other",
+      "reference_nll": 2.2036609649658203,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 84929,
+      "canonical_answer": "kitchen",
+      "condition": "complementary",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 554523,
+      "original_target": "kitchen",
+      "pair_id": "vqa:84929001:554523019",
+      "partner_canonical_answer": "bathroom",
+      "question": "Given the title, what room is as likely to be?",
+      "question_id": 554523019,
+      "question_type": "other",
+      "reference_nll": 2.9232959747314453,
+      "reference_seconds": 0.011465752497315407,
+      "references": [
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "kitchen",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "2bc813379d93f669e15cb48a3f9e108b002cbbb9f7053cb4db2d8c844fd0241d"
+}

@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 91643,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 91643,
+      "original_target": "yes",
+      "pair_id": "ground:test:24",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain chair?",
+      "question_id": "ground:test:24:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 301981,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 301981,
+      "original_target": "no",
+      "pair_id": "ground:test:24",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain chair?",
+      "question_id": "ground:test:24:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 495199,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 495199,
+      "original_target": "yes",
+      "pair_id": "ground:test:25",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:25:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 412879,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 412879,
+      "original_target": "no",
+      "pair_id": "ground:test:25",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:25:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 356358,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 356358,
+      "original_target": "yes",
+      "pair_id": "ground:test:26",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain suitcase?",
+      "question_id": "ground:test:26:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 105291,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 105291,
+      "original_target": "no",
+      "pair_id": "ground:test:26",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain suitcase?",
+      "question_id": "ground:test:26:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 9668,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 9668,
+      "original_target": "yes",
+      "pair_id": "ground:test:27",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain refrigerator?",
+      "question_id": "ground:test:27:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 459809,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 459809,
+      "original_target": "no",
+      "pair_id": "ground:test:27",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain refrigerator?",
+      "question_id": "ground:test:27:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 91643,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 91643,
+      "original_target": "yes",
+      "pair_id": "ground:test:24",
+      "partner_canonical_answer": "no",
+      "prediction_text": "no",
+      "question": "Does this image contain chair?",
+      "question_id": "ground:test:24:0",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.758432149887085,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 301981,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 301981,
+      "original_target": "no",
+      "pair_id": "ground:test:24",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain chair?",
+      "question_id": "ground:test:24:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.043013956397771835,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 495199,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 495199,
+      "original_target": "yes",
+      "pair_id": "ground:test:25",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:25:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.007394089829176664,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 412879,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 412879,
+      "original_target": "no",
+      "pair_id": "ground:test:25",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain bear?",
+      "question_id": "ground:test:25:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.003588904393836856,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 356358,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 356358,
+      "original_target": "yes",
+      "pair_id": "ground:test:26",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain suitcase?",
+      "question_id": "ground:test:26:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.1858394294977188,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 105291,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 105291,
+      "original_target": "no",
+      "pair_id": "ground:test:26",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain suitcase?",
+      "question_id": "ground:test:26:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.16366170346736908,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 9668,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 9668,
+      "original_target": "yes",
+      "pair_id": "ground:test:27",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain refrigerator?",
+      "question_id": "ground:test:27:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.06315863132476807,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 459809,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.02608749602222815,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 459809,
+      "original_target": "no",
+      "pair_id": "ground:test:27",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain refrigerator?",
+      "question_id": "ground:test:27:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.006129277404397726,
+      "reference_seconds": 0.022553387883817777,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "863818c935dc3c5db34bace548670564cc7b17f86dcc92490527b66645484782"
+}

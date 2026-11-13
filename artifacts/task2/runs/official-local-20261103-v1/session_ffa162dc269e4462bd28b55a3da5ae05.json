@@ -1,0 +1,23 @@
+{
+  "finished": false,
+  "progress": {
+    "completed_examples": 36000,
+    "evaluated": [
+      0,
+      500,
+      1000,
+      1500,
+      2000,
+      2250
+    ],
+    "global_update": 2250,
+    "mixture": {
+      "caption": 36000
+    },
+    "sft_loss_sum": 5788.748883187771,
+    "skipped_attempts": 0,
+    "stage": 1,
+    "stage_update": 2250,
+    "training_seconds": 3793.5618940525746
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 442582,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 442582,
+      "original_target": "2",
+      "pair_id": "ground:dev:16",
+      "partner_canonical_answer": "1",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:dev:16:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 190907,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 190907,
+      "original_target": "1",
+      "pair_id": "ground:dev:16",
+      "partner_canonical_answer": "2",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:dev:16:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 187045,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 187045,
+      "original_target": "2",
+      "pair_id": "ground:dev:17",
+      "partner_canonical_answer": "1",
+      "question": "How many cell phones can you see?",
+      "question_id": "ground:dev:17:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 340034,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 340034,
+      "original_target": "1",
+      "pair_id": "ground:dev:17",
+      "partner_canonical_answer": "2",
+      "question": "How many cell phones can you see?",
+      "question_id": "ground:dev:17:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 118546,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 118546,
+      "original_target": "4",
+      "pair_id": "ground:dev:18",
+      "partner_canonical_answer": "1",
+      "question": "How many cats can you see?",
+      "question_id": "ground:dev:18:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 89271,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 89271,
+      "original_target": "1",
+      "pair_id": "ground:dev:18",
+      "partner_canonical_answer": "4",
+      "question": "How many cats can you see?",
+      "question_id": "ground:dev:18:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 50355,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 50355,
+      "original_target": "3",
+      "pair_id": "ground:dev:19",
+      "partner_canonical_answer": "1",
+      "question": "How many stop signs can you see?",
+      "question_id": "ground:dev:19:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 488327,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 488327,
+      "original_target": "1",
+      "pair_id": "ground:dev:19",
+      "partner_canonical_answer": "3",
+      "question": "How many stop signs can you see?",
+      "question_id": "ground:dev:19:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 442582,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 442582,
+      "original_target": "2",
+      "pair_id": "ground:dev:16",
+      "partner_canonical_answer": "1",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:dev:16:0",
+      "question_type": "counting",
+      "reference_nll": 1.1275434494018555,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 190907,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 190907,
+      "original_target": "1",
+      "pair_id": "ground:dev:16",
+      "partner_canonical_answer": "2",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:dev:16:1",
+      "question_type": "counting",
+      "reference_nll": 2.0696065425872803,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 187045,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 187045,
+      "original_target": "2",
+      "pair_id": "ground:dev:17",
+      "partner_canonical_answer": "1",
+      "question": "How many cell phones can you see?",
+      "question_id": "ground:dev:17:0",
+      "question_type": "counting",
+      "reference_nll": 1.2904263734817505,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 340034,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 340034,
+      "original_target": "1",
+      "pair_id": "ground:dev:17",
+      "partner_canonical_answer": "2",
+      "question": "How many cell phones can you see?",
+      "question_id": "ground:dev:17:1",
+      "question_type": "counting",
+      "reference_nll": 0.21233321726322174,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 118546,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 118546,
+      "original_target": "4",
+      "pair_id": "ground:dev:18",
+      "partner_canonical_answer": "1",
+      "question": "How many cats can you see?",
+      "question_id": "ground:dev:18:0",
+      "question_type": "counting",
+      "reference_nll": 6.1425700187683105,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 89271,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 89271,
+      "original_target": "1",
+      "pair_id": "ground:dev:18",
+      "partner_canonical_answer": "4",
+      "question": "How many cats can you see?",
+      "question_id": "ground:dev:18:1",
+      "question_type": "counting",
+      "reference_nll": 0.026946648955345154,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 50355,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 50355,
+      "original_target": "3",
+      "pair_id": "ground:dev:19",
+      "partner_canonical_answer": "1",
+      "question": "How many stop signs can you see?",
+      "question_id": "ground:dev:19:0",
+      "question_type": "counting",
+      "reference_nll": 0.9628000259399414,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 488327,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 488327,
+      "original_target": "1",
+      "pair_id": "ground:dev:19",
+      "partner_canonical_answer": "3",
+      "question": "How many stop signs can you see?",
+      "question_id": "ground:dev:19:1",
+      "question_type": "counting",
+      "reference_nll": 1.0243840217590332,
+      "reference_seconds": 0.012022281618556008,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "778d4b351987335665ac591e1fcc41d8d81de75dad580ab74653b134e557a321"
+}

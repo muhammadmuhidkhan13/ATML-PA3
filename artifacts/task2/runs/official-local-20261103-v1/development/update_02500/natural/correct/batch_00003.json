@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 475184,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 475184,
+      "original_target": "2",
+      "pair_id": "vqa:407822024:475184001",
+      "partner_canonical_answer": "3",
+      "question": "How many people are in the image?",
+      "question_id": 475184001,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 407822,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 407822,
+      "original_target": "3",
+      "pair_id": "vqa:407822024:475184001",
+      "partner_canonical_answer": "2",
+      "question": "How many people are in the image?",
+      "question_id": 407822024,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 412757,
+      "canonical_answer": "23",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 412757,
+      "original_target": "23",
+      "pair_id": "vqa:32648003:412757006",
+      "partner_canonical_answer": "550",
+      "question": "What is the bus number?",
+      "question_id": 412757006,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 32648,
+      "canonical_answer": "550",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 32648,
+      "original_target": "550",
+      "pair_id": "vqa:32648003:412757006",
+      "partner_canonical_answer": "23",
+      "question": "What is the bus number?",
+      "question_id": 32648003,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 412204,
+      "canonical_answer": "0",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 412204,
+      "original_target": "0",
+      "pair_id": "vqa:219984009:412204006",
+      "partner_canonical_answer": "1",
+      "question": "How many women in the picture?",
+      "question_id": 412204006,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 219984,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 219984,
+      "original_target": "1",
+      "pair_id": "vqa:219984009:412204006",
+      "partner_canonical_answer": "0",
+      "question": "How many women in the picture?",
+      "question_id": 219984009,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 495881,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 495881,
+      "original_target": "4",
+      "pair_id": "vqa:104095006:495881000",
+      "partner_canonical_answer": "1",
+      "question": "How many of the cows faces can you see?",
+      "question_id": 495881000,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "5",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "high",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 104095,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 104095,
+      "original_target": "1",
+      "pair_id": "vqa:104095006:495881000",
+      "partner_canonical_answer": "4",
+      "question": "How many of the cows faces can you see?",
+      "question_id": 104095006,
+      "question_type": "number",
+      "references": [
+        {
+          "answer": "8",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "15",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 475184,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 475184,
+      "original_target": "2",
+      "pair_id": "vqa:407822024:475184001",
+      "partner_canonical_answer": "3",
+      "question": "How many people are in the image?",
+      "question_id": 475184001,
+      "question_type": "number",
+      "reference_nll": 0.6212239861488342,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 407822,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 407822,
+      "original_target": "3",
+      "pair_id": "vqa:407822024:475184001",
+      "partner_canonical_answer": "2",
+      "question": "How many people are in the image?",
+      "question_id": 407822024,
+      "question_type": "number",
+      "reference_nll": 0.3204306364059448,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "3",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 412757,
+      "canonical_answer": "23",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 412757,
+      "original_target": "23",
+      "pair_id": "vqa:32648003:412757006",
+      "partner_canonical_answer": "550",
+      "question": "What is the bus number?",
+      "question_id": 412757006,
+      "question_type": "number",
+      "reference_nll": 3.4914214611053467,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "23",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 32648,
+      "canonical_answer": "550",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 32648,
+      "original_target": "550",
+      "pair_id": "vqa:32648003:412757006",
+      "partner_canonical_answer": "23",
+      "question": "What is the bus number?",
+      "question_id": 32648003,
+      "question_type": "number",
+      "reference_nll": 2.5804712772369385,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "550",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 412204,
+      "canonical_answer": "0",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 412204,
+      "original_target": "0",
+      "pair_id": "vqa:219984009:412204006",
+      "partner_canonical_answer": "1",
+      "question": "How many women in the picture?",
+      "question_id": 412204006,
+      "question_type": "number",
+      "reference_nll": 7.914031028747559,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "0",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 219984,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 219984,
+      "original_target": "1",
+      "pair_id": "vqa:219984009:412204006",
+      "partner_canonical_answer": "0",
+      "question": "How many women in the picture?",
+      "question_id": 219984009,
+      "question_type": "number",
+      "reference_nll": 0.5736774802207947,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 495881,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 495881,
+      "original_target": "4",
+      "pair_id": "vqa:104095006:495881000",
+      "partner_canonical_answer": "1",
+      "question": "How many of the cows faces can you see?",
+      "question_id": 495881000,
+      "question_type": "number",
+      "reference_nll": 0.5017498731613159,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "5",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "high",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "4",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 104095,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 2500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 104095,
+      "original_target": "1",
+      "pair_id": "vqa:104095006:495881000",
+      "partner_canonical_answer": "4",
+      "question": "How many of the cows faces can you see?",
+      "question_id": 104095006,
+      "question_type": "number",
+      "reference_nll": 2.3162028789520264,
+      "reference_seconds": 0.012554323649965227,
+      "references": [
+        {
+          "answer": "8",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "15",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "5329494ea15374c53a29468f8c2860c4eaff58a3bb2e0606c0b628f40ce965e6"
+}

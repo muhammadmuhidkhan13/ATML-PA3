@@ -1,0 +1,25 @@
+{
+  "cost_units": "retained generated tokens; offline proxy",
+  "figures": [
+    "math_accuracy_budget.png",
+    "math_oracle_budget.png",
+    "math_achieved_vs_oracle.png",
+    "math_token_cost_accuracy.png",
+    "math_distinct_groups.png",
+    "math_selection_failure.png",
+    "math_quartiles.png",
+    "math_method_length_control.png",
+    "mathvista_accuracy_budget.png",
+    "mathvista_oracle_budget.png",
+    "mathvista_achieved_vs_oracle.png",
+    "mathvista_token_cost_accuracy.png",
+    "mathvista_distinct_groups.png",
+    "mathvista_selection_failure.png",
+    "mathvista_quartiles.png",
+    "mathvista_method_length_control.png",
+    "mathvista_confidence_vision.png",
+    "mathvista_fusion_ablation.png"
+  ],
+  "measured_gpu_cost": null,
+  "split": "development"
+}

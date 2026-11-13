@@ -1,0 +1,27 @@
+{
+  "batch_hashes": {
+    "batch_00000.json": "4995323ce46d86a4ef67b6ede2825c9c2f405be5d7d1c5dded63f3580b28b30b",
+    "batch_00001.json": "ebd8dbb0917a90e03a4117bc4fe8967e841aa53560ea70139607872c7db5dc84",
+    "batch_00002.json": "20239440c601bee2a5221b85084a23111916c6195c81f20dcc9ec4b42c452b35",
+    "batch_00003.json": "665a5d102dd88694c1aa5c2d0a7a5853c709652df1bfd2842abded6d6dcfdd81",
+    "batch_00004.json": "f961c3d26adb68d25b0684c51a8a0d9d9c523c18a8fffd3714df5c637b225c57",
+    "batch_00005.json": "16c1376cc7a0c0b5a7f4322a38ce503d8308fc71d73b2422420b59c9b531178f"
+  },
+  "batch_size": 8,
+  "complete": true,
+  "expected_examples": 48,
+  "inputs_id": "fb0884c4a723ec9e61fb70eecb950a3486a3cf474e0d2d899c12d4b91b61adf5",
+  "spec": {
+    "condition": "no_image",
+    "dataset": "46200aa0b1fe350021683bbaea897310703942d621a8c43b0f651bcc39fded57",
+    "kind": "development",
+    "model_identity": {
+      "global_update": 1500,
+      "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+      "stage": 1
+    },
+    "schema_version": 2,
+    "suite": "grounding"
+  },
+  "spec_id": "b31384e49b457561a88d98660da91f912a46fd95f6ca51ecf72e05ecf7b85712"
+}

@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 540006,
+      "caption_id": 350947,
+      "image_id": 540006,
+      "original_target": "A group of people standing around a bowl filled with bananas.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 389684,
+      "caption_id": 393045,
+      "image_id": 389684,
+      "original_target": "a man walks down a sidewalk as a vehicle passes ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 367579,
+      "caption_id": 31906,
+      "image_id": 367579,
+      "original_target": "Two horses, one black and one brown, graze in a green field.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 224368,
+      "caption_id": 527464,
+      "image_id": 224368,
+      "original_target": "A man on a snowboard grinding a rail. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 292033,
+      "caption_id": 725751,
+      "image_id": 292033,
+      "original_target": "A light tan bowl of broccoli and pasta with a fork.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 105647,
+      "caption_id": 159009,
+      "image_id": 105647,
+      "original_target": "People on a street with bikes, a covered scooter and a bus.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 26348,
+      "caption_id": 282605,
+      "image_id": 26348,
+      "original_target": "There is a refrigerator with any pictures on it",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 517832,
+      "caption_id": 77510,
+      "image_id": 517832,
+      "original_target": "a dog sitting in an orange chair looking at someone",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 540006,
+      "caption_id": 350947,
+      "image_id": 540006,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A group of people standing around a bowl filled with bananas.",
+      "question": "Describe this image.",
+      "reference_nll": 2.2796337604522705,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 389684,
+      "caption_id": 393045,
+      "image_id": 389684,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "a man walks down a sidewalk as a vehicle passes ",
+      "question": "Describe this image.",
+      "reference_nll": 2.710399627685547,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 367579,
+      "caption_id": 31906,
+      "image_id": 367579,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "Two horses, one black and one brown, graze in a green field.",
+      "question": "Describe this image.",
+      "reference_nll": 1.6482290029525757,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 224368,
+      "caption_id": 527464,
+      "image_id": 224368,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A man on a snowboard grinding a rail. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.570493459701538,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 292033,
+      "caption_id": 725751,
+      "image_id": 292033,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A light tan bowl of broccoli and pasta with a fork.",
+      "question": "Describe this image.",
+      "reference_nll": 2.724202871322632,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 105647,
+      "caption_id": 159009,
+      "image_id": 105647,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "People on a street with bikes, a covered scooter and a bus.",
+      "question": "Describe this image.",
+      "reference_nll": 2.9144866466522217,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 26348,
+      "caption_id": 282605,
+      "image_id": 26348,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "There is a refrigerator with any pictures on it",
+      "question": "Describe this image.",
+      "reference_nll": 2.7260963916778564,
+      "reference_seconds": 0.011842789390357211
+    },
+    {
+      "actual_image_id": 517832,
+      "caption_id": 77510,
+      "image_id": 517832,
+      "model_identity": {
+        "global_update": 3750,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "a dog sitting in an orange chair looking at someone",
+      "question": "Describe this image.",
+      "reference_nll": 2.2474708557128906,
+      "reference_seconds": 0.011842789390357211
+    }
+  ],
+  "spec_id": "8aeff4d1c7f39169cb9f7ffa50e1e9f9e6cc3e0d6ab559606dfe1b308e9b5b3b"
+}

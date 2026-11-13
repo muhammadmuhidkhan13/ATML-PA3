@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 537692,
+      "canonical_answer": "yes",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 32861,
+      "original_target": "yes",
+      "pair_id": "ground:test:4",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:4:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 204288,
+      "canonical_answer": "no",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 219170,
+      "original_target": "no",
+      "pair_id": "ground:test:4",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:4:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 550322,
+      "canonical_answer": "yes",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 153520,
+      "original_target": "yes",
+      "pair_id": "ground:test:5",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain frisbee?",
+      "question_id": "ground:test:5:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 305713,
+      "canonical_answer": "no",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 27611,
+      "original_target": "no",
+      "pair_id": "ground:test:5",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain frisbee?",
+      "question_id": "ground:test:5:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 495388,
+      "canonical_answer": "yes",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 504970,
+      "original_target": "yes",
+      "pair_id": "ground:test:6",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain parking meter?",
+      "question_id": "ground:test:6:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 23448,
+      "canonical_answer": "no",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 118598,
+      "original_target": "no",
+      "pair_id": "ground:test:6",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain parking meter?",
+      "question_id": "ground:test:6:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 9668,
+      "canonical_answer": "yes",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 198943,
+      "original_target": "yes",
+      "pair_id": "ground:test:7",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain fire hydrant?",
+      "question_id": "ground:test:7:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 454610,
+      "canonical_answer": "no",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 377620,
+      "original_target": "no",
+      "pair_id": "ground:test:7",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain fire hydrant?",
+      "question_id": "ground:test:7:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 537692,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 32861,
+      "original_target": "yes",
+      "pair_id": "ground:test:4",
+      "partner_canonical_answer": "no",
+      "prediction_text": "no",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:4:0",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.2132747173309326,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 204288,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 219170,
+      "original_target": "no",
+      "pair_id": "ground:test:4",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain umbrella?",
+      "question_id": "ground:test:4:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.08973901718854904,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 550322,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 153520,
+      "original_target": "yes",
+      "pair_id": "ground:test:5",
+      "partner_canonical_answer": "no",
+      "prediction_text": "no",
+      "question": "Does this image contain frisbee?",
+      "question_id": "ground:test:5:0",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.113870143890381,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 305713,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 27611,
+      "original_target": "no",
+      "pair_id": "ground:test:5",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain frisbee?",
+      "question_id": "ground:test:5:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.057154975831508636,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 495388,
+      "canonical_answer": "yes",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 504970,
+      "original_target": "yes",
+      "pair_id": "ground:test:6",
+      "partner_canonical_answer": "no",
+      "prediction_text": "no",
+      "question": "Does this image contain parking meter?",
+      "question_id": "ground:test:6:0",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.450554847717285,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 23448,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 118598,
+      "original_target": "no",
+      "pair_id": "ground:test:6",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain parking meter?",
+      "question_id": "ground:test:6:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.10107918828725815,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 9668,
+      "canonical_answer": "yes",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        9693,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "yes",
+      "original_image_id": 198943,
+      "original_target": "yes",
+      "pair_id": "ground:test:7",
+      "partner_canonical_answer": "no",
+      "prediction_text": "yes",
+      "question": "Does this image contain fire hydrant?",
+      "question_id": "ground:test:7:0",
+      "question_type": "presence",
+      "raw_response": "yes<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.1853920817375183,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 454610,
+      "canonical_answer": "no",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2152,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.026718930865172297,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "no",
+      "original_image_id": 377620,
+      "original_target": "no",
+      "pair_id": "ground:test:7",
+      "partner_canonical_answer": "yes",
+      "prediction_text": "no",
+      "question": "Does this image contain fire hydrant?",
+      "question_id": "ground:test:7:1",
+      "question_type": "presence",
+      "raw_response": "no<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.6123548746109009,
+      "reference_seconds": 0.021023898996645585,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "0ed719582675dedb6f1fa09d28a08c937b98e158d5b5164ceb4ae3beb567c55d"
+}

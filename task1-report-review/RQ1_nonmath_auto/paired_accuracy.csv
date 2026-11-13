@@ -1,0 +1,19 @@
+benchmark,comparison,n,delta_pp,ci95_low_pp,ci95_high_pp,baseline_wrong_model_right,baseline_right_model_wrong,permutation_p
+hellaswag,full_mid minus baseline,10042,-1.633,-2.22,-1.046,372,536,0.00025
+hellaswag,full_final minus baseline,10042,-1.314,-1.892,-0.737,372,504,0.00025
+hellaswag,l2sp_final minus baseline,10042,-0.836,-1.381,-0.292,347,431,0.003999
+hellaswag,lora4_final minus baseline,10042,0.189,-0.273,0.652,290,271,0.449888
+hellaswag,lora16_final minus baseline,10042,-0.169,-0.673,0.335,325,342,0.532117
+hellaswag,oplora16_final minus baseline,10042,-0.169,-0.67,0.331,320,337,0.532867
+boolq,full_mid minus baseline,3270,-10.887,-13.102,-8.672,524,880,0.00025
+boolq,full_final minus baseline,3270,-8.471,-10.642,-6.3,529,806,0.00025
+boolq,l2sp_final minus baseline,3270,2.263,0.322,4.204,562,488,0.027493
+boolq,lora4_final minus baseline,3270,5.535,3.791,7.28,519,338,0.00025
+boolq,lora16_final minus baseline,3270,6.911,5.147,8.676,554,328,0.00025
+boolq,oplora16_final minus baseline,3270,6.086,4.278,7.893,560,361,0.00025
+arc_easy,full_mid minus baseline,2376,6.481,4.933,8.03,258,104,0.00025
+arc_easy,full_final minus baseline,2376,7.997,6.412,9.581,287,97,0.00025
+arc_easy,l2sp_final minus baseline,2376,7.702,6.174,9.23,270,87,0.00025
+arc_easy,lora4_final minus baseline,2376,6.944,5.512,8.377,239,74,0.00025
+arc_easy,lora16_final minus baseline,2376,7.365,5.903,8.828,251,76,0.00025
+arc_easy,oplora16_final minus baseline,2376,6.145,4.666,7.623,238,92,0.00025

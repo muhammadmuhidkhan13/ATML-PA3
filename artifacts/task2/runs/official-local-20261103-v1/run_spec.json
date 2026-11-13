@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "calibrated_connector": "b704cc2925c1d6cd57c1ce6863b23783affd693725da66018ef42877a768dba0",
+    "calibration_metadata": "40da3931b76d9481c78320a77777cc7768be3a3c69ef0db0b7d1fb99a7c35adb",
+    "dataset_manifest": "46200aa0b1fe350021683bbaea897310703942d621a8c43b0f651bcc39fded57",
+    "feature_manifest": "1e7c1ce0d78f0805c6bdae88c2cfcb3781c352063c85aaf201de4b6f00fa8ddc",
+    "qwen_files": {
+      "config.json": "660db3b73d788119c04535e48cf9be5f55bc3100841a718637ae695b442f27dd",
+      "model.safetensors": "f47f71177f32bcd101b7573ec9171e6a57f4f4d31148d38e382306f42996874b",
+      "tokenizer.json": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+      "tokenizer_config.json": "d5d09f07b48c3086c508b30d1c9114bd1189145b74e982a265350c923acd8101"
+    },
+    "qwen_revision": "c1899de289a04d12100db370d81485cdf75e47ca"
+  },
+  "batch_sizing": {
+    "policy": "PDF microbatch8/accumulation2; startup certification only",
+    "request": {
+      "batch_size": "8",
+      "effective_batch_size": 16,
+      "max_batch_size": 64,
+      "memory_headroom_fraction": 0.1,
+      "preferred_batch_size": 32
+    },
+    "selected_microbatch": 8
+  },
+  "code_sha256": {
+    "adapters.py": "87997286c40b50f4ffb0bab2d66ed90d58f99c248720c4114a8a0671b7fc60e2",
+    "batching.py": "6cfec466dccf052c2a34090befe0f2a5cea6952c8625b59e7f5f8dd3dc21a0e0",
+    "curriculum.py": "f608ca1411065f8219eb0d6ab482276a0540902a78cb9158f86741ed46e5526e",
+    "data.py": "802cf8b16b98aac008daf7099609cfc81aa9dc31a0fc929d85cf0c3d97a3a103",
+    "evaluation.py": "d4fee2ddc03866de60db01af33859fb8f095b5ca0c42d3386d0200e0da594f4c",
+    "features.py": "a12628f5680b20e24378af787aaaf0a019a2051d62c27abe4c02c8166475aa12",
+    "io.py": "c0d54a1245a5ac61ec2f229f9fbf9ae5f34f2cae3ef5fa2f9149b20cb9e07c60",
+    "metrics.py": "a50edec553e5596a7b297dfd508dde8a9d22db27bc288ceea1333e0ef85e0eb6",
+    "model.py": "15843e346fa0f0684bd5b47783fcc2167ffd5ec5ba4d3db51c29b8a94f3f299b",
+    "normalization.py": "d88ba5129589e8296f70c4aa8bf4ac593bc4f29e969ef631547d19d4bcee0944",
+    "result_validation.py": "ca3ebca874745a48cefdc83b4987d428292b7387f1d600284f89d4ac86854fb9",
+    "runtime.py": "2b4d4db7dd3bc8b4ba4721ffb6eb341eef832a7f5b1f3b87018563aa66f339ee",
+    "sampling.py": "a8dc5e3688e3f6a9007604072658961f68095877cbfab299aa117ccf9a508811",
+    "state.py": "c6359f131550ea9125532a6e5240e2f251cf4f4560b70b88d772f1179a6f8a6d",
+    "training.py": "579c9fd9b91f429db90dc4e5a5ae8cc3785fb6678b1c5d289a5b9eb09c507137",
+    "validation.py": "e535e58be77bb40e1b7250d7abf350da626b79399cbb3aeda252278ace127319",
+    "vqa_tables.json": "a63f8f01d135ab289c1097f5ef89bcf9ee28644d509e0427d31f772db2acbeeb"
+  },
+  "lora": {
+    "alpha": 32,
+    "bias": false,
+    "dropout": 0.05,
+    "rank": 16,
+    "targets": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ]
+  },
+  "optimizer": {
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "name": "AdamW",
+    "stage_policy": "rebuild moments at every boundary"
+  },
+  "packages": {
+    "Pillow": "13.0.0",
+    "huggingface_hub": "2.4.0",
+    "numpy": "2.4.6",
+    "safetensors": "0.8.0",
+    "tokenizers": "0.23.3",
+    "torch": "2.14.1+cu130",
+    "transformers": "5.22.1"
+  },
+  "precision": "FP16 autocast, FP32 trainables/moments; no quantization",
+  "recipe": {
+    "accumulation": 2,
+    "adapter_lrs": [
+      0.0,
+      2e-05,
+      1e-05
+    ],
+    "budgets": [
+      2250,
+      1500,
+      750
+    ],
+    "checkpoint_interval": 250,
+    "clip_norm": 1.0,
+    "connector_lrs": [
+      0.001,
+      0.0001,
+      5e-05
+    ],
+    "max_skips": 8,
+    "microbatch": 8,
+    "seed": 6304,
+    "weight_decay": 0.01
+  },
+  "scaler": {
+    "backoff_factor": 0.5,
+    "growth_factor": 2.0,
+    "growth_interval": 2000,
+    "init_scale": 256.0
+  },
+  "task": "task2",
+  "warmup_rounding": "ceil(0.05 * stage_budget)"
+}

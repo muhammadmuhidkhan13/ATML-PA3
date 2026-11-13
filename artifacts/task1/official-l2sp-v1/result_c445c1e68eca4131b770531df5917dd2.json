@@ -1,0 +1,20 @@
+{
+  "attempt_log": "artifacts/task1/official-l2sp-v1/attempts.jsonl",
+  "checkpoint_sizes_bytes": {
+    "update_00312": 7153016230,
+    "update_00625": 7153016231,
+    "update_00937": 7153016231,
+    "update_01250": 7153016232
+  },
+  "checkpoints_saved_this_session": [
+    "artifacts/task1/official-l2sp-v1/checkpoints/update_00312",
+    "artifacts/task1/official-l2sp-v1/checkpoints/update_00625",
+    "artifacts/task1/official-l2sp-v1/checkpoints/update_00937",
+    "artifacts/task1/official-l2sp-v1/checkpoints/update_01250"
+  ],
+  "completed_updates": 1250,
+  "elapsed_seconds": 4453.312428590958,
+  "examples_consumed": 40000,
+  "peak_gpu_memory_allocated_bytes": 21043808256,
+  "skipped_attempts": 0
+}

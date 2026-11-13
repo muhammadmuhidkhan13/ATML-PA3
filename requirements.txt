@@ -1,0 +1,4 @@
+# Reference auxiliary versions. Provision the CUDA-enabled PyTorch build separately.
+-r environment/task2-requirements.txt
+-r environment/task3-live-requirements.txt
+-r environment/task1-requirements.txt

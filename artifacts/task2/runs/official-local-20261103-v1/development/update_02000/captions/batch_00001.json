@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 60677,
+      "caption_id": 305119,
+      "image_id": 60677,
+      "original_target": "The pickup truck is parked in the lot.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 59009,
+      "caption_id": 478338,
+      "image_id": 59009,
+      "original_target": "A green train driving on the railroad through cherry blossom trees. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 129544,
+      "caption_id": 695121,
+      "image_id": 129544,
+      "original_target": "A clock with a sign underneath it, that states its the finest street clock.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 508489,
+      "caption_id": 662916,
+      "image_id": 508489,
+      "original_target": "A bunch of vegetables and fruits in bins for sale",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 565085,
+      "caption_id": 678425,
+      "image_id": 565085,
+      "original_target": "Two old men sitting on a bench on the pathway. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 358923,
+      "caption_id": 514979,
+      "image_id": 358923,
+      "original_target": "the woman is wearing and umbrella hat and on her phone. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 192296,
+      "caption_id": 576891,
+      "image_id": 192296,
+      "original_target": "A COUPLE OF PEOPLE AT A TABLE NEAR A POOL OUTSIDE ON THEIR PHONES",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 53503,
+      "caption_id": 624282,
+      "image_id": 53503,
+      "original_target": "Flowers in different shades of pink are arranged in a green vase.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 60677,
+      "caption_id": 305119,
+      "image_id": 60677,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "The pickup truck is parked in the lot.",
+      "question": "Describe this image.",
+      "reference_nll": 1.6421407461166382,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 59009,
+      "caption_id": 478338,
+      "image_id": 59009,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A green train driving on the railroad through cherry blossom trees. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.775256872177124,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 129544,
+      "caption_id": 695121,
+      "image_id": 129544,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A clock with a sign underneath it, that states its the finest street clock.",
+      "question": "Describe this image.",
+      "reference_nll": 3.618543863296509,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 508489,
+      "caption_id": 662916,
+      "image_id": 508489,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A bunch of vegetables and fruits in bins for sale",
+      "question": "Describe this image.",
+      "reference_nll": 2.253655433654785,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 565085,
+      "caption_id": 678425,
+      "image_id": 565085,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "Two old men sitting on a bench on the pathway. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.148918628692627,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 358923,
+      "caption_id": 514979,
+      "image_id": 358923,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "the woman is wearing and umbrella hat and on her phone. ",
+      "question": "Describe this image.",
+      "reference_nll": 3.047269105911255,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 192296,
+      "caption_id": 576891,
+      "image_id": 192296,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A COUPLE OF PEOPLE AT A TABLE NEAR A POOL OUTSIDE ON THEIR PHONES",
+      "question": "Describe this image.",
+      "reference_nll": 3.6605801582336426,
+      "reference_seconds": 0.03189180000117631
+    },
+    {
+      "actual_image_id": 53503,
+      "caption_id": 624282,
+      "image_id": 53503,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "Flowers in different shades of pink are arranged in a green vase.",
+      "question": "Describe this image.",
+      "reference_nll": 2.2118330001831055,
+      "reference_seconds": 0.03189180000117631
+    }
+  ],
+  "spec_id": "daf58a3480a15b20ebe57ac09eafed0cce57791dadd8c2209de59968f1b4fa93"
+}

@@ -1,0 +1,68 @@
+{
+  "counts": {
+    "capped": 523,
+    "missing_extracted": 521,
+    "rows": 32000,
+    "tokens": 20742094
+  },
+  "dataset": "math",
+  "duplicate_keys": 0,
+  "files": {
+    "generations": {
+      "bytes": 26932880,
+      "metadata": {
+        "answer_extraction": "final literal boxed expression, balanced braces; no numeric fallback",
+        "config_sha256": "d3136d45726a3dbcea6b831046ae56e71b8e275794a4cd7b8881e41b910fa2f5",
+        "dataset_id": "DigitalLearningGmbH/MATH-lighteval",
+        "dataset_revision": "0530c78699ea5e8eb5530600900e1f328b48acad",
+        "format_version": "1",
+        "metric_definition": "full raw-logit vocabulary; logp=log_softmax(z)[y]; kl_u_p=-log(V)-mean(log_softmax(z)); natural logarithms",
+        "model_id": "Qwen/Qwen2.5-3B-Instruct",
+        "model_revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+        "pilot": "False",
+        "rollout_id": "zero-based 0..31 within each sample",
+        "row_count": "32000",
+        "run_config_json": "{\"answer_extraction\": \"final literal \\\\boxed{...}, balanced braces; preserve LaTeX; no numeric fallback\", \"attention_implementation\": \"flash_attention_2\", \"dataset\": \"math\", \"dataset_id\": \"DigitalLearningGmbH/MATH-lighteval\", \"dataset_revision\": \"0530c78699ea5e8eb5530600900e1f328b48acad\", \"dtype\": \"bfloat16\", \"max_new_tokens\": 2048, \"model_directory\": \"<rollout-export>/qwen25_3b_math/models/Qwen2.5-3B-Instruct\", \"model_id\": \"Qwen/Qwen2.5-3B-Instruct\", \"model_revision\": \"aa8e72537993ba99e69dfaafa59ed015b17504d1\", \"population\": 5000, \"question_suffix\": \"\\n\\nThink step by step inside <think> </think> tags, then give your final answer inside \\\\boxed{}.\", \"repetition_penalty\": 1.0, \"rollout_seed_algorithm\": \"SHA256 of UTF8 math|42|sample_id|rollout_id, first 8 bytes big-endian; NumPy PCG64\", \"rollout_seed_base\": 42, \"rollouts_per_sample\": 32, \"sample_count\": 1000, \"selection_algorithm\": \"numpy.default_rng(42).choice(5000,1000,replace=False); ascending source index\", \"selection_seed\": 42, \"selection_sha256\": \"35346720ba262f47fe76e8cb5f4760b8511c6dfdba06054b1bcc75c45a5c6f87\", \"source_sha256\": \"7dca8d6e41af88ecf82f2b5f36eb5530e083aaaa86ee325f62bd5c31535178c6\", \"split\": \"test\", \"system_message\": \"You are a helpful assistant.\", \"temperature\": 0.7, \"top_k\": 20, \"top_p\": 0.8}",
+        "sample_id": "test:<zero-based row index in the pinned full test split>",
+        "token_alignment": "one value per retained generated token, from its predicting forward pass; selected stop tokens excluded"
+      },
+      "path": "ATML-PA3-Data/qwen25-math/generations.parquet",
+      "schema": "dataset: string not null\nmodel: string not null\nsample_id: string not null\nrollout_id: int32 not null\nquestion_text: string not null\ngenerated_token_ids: list<element: int32 not null> not null\n  child 0, element: int32 not null\nn_generated_text_tokens: int32 not null\nhit_max_new_tokens: bool not null\ngenerated_text: string not null\ngold_answer: string not null\nextracted_answer: string\n-- schema metadata --\nconfig_sha256: 'd3136d45726a3dbcea6b831046ae56e71b8e275794a4cd7b8881e41b9' + 7\nformat_version: '1'\nmetric_definition: 'full raw-logit vocabulary; logp=log_softmax(z)[y]; kl' + 53\ntoken_alignment: 'one value per retained generated token, from its predic' + 48\nrollout_id: 'zero-based 0..31 within each sample'\nanswer_extraction: 'final literal boxed expression, balanced braces; no n' + 15\nmodel_id: 'Qwen/Qwen2.5-3B-Instruct'\nmodel_revision: 'aa8e72537993ba99e69dfaafa59ed015b17504d1'\ndataset_id: 'DigitalLearningGmbH/MATH-lighteval'\ndataset_revision: '0530c78699ea5e8eb5530600900e1f328b48acad'\nrun_config_json: '{\"answer_extraction\": \"final literal \\\\boxed{...}, bala' + 1239\nrow_count: '32000'\npilot: 'False'\nsample_id: 'test:<zero-based row index in the pinned full test split>'",
+      "sha256": "ffdecd753a2c0183b811d5679f3cf15e91bce46d1aacb196e28afb553d7e1c84"
+    },
+    "probability_metrics": {
+      "bytes": 155221097,
+      "metadata": {
+        "answer_extraction": "final literal boxed expression, balanced braces; no numeric fallback",
+        "config_sha256": "d3136d45726a3dbcea6b831046ae56e71b8e275794a4cd7b8881e41b910fa2f5",
+        "dataset_id": "DigitalLearningGmbH/MATH-lighteval",
+        "dataset_revision": "0530c78699ea5e8eb5530600900e1f328b48acad",
+        "format_version": "1",
+        "metric_definition": "full raw-logit vocabulary; logp=log_softmax(z)[y]; kl_u_p=-log(V)-mean(log_softmax(z)); natural logarithms",
+        "model_id": "Qwen/Qwen2.5-3B-Instruct",
+        "model_revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+        "pilot": "False",
+        "rollout_id": "zero-based 0..31 within each sample",
+        "row_count": "32000",
+        "run_config_json": "{\"answer_extraction\": \"final literal \\\\boxed{...}, balanced braces; preserve LaTeX; no numeric fallback\", \"attention_implementation\": \"flash_attention_2\", \"dataset\": \"math\", \"dataset_id\": \"DigitalLearningGmbH/MATH-lighteval\", \"dataset_revision\": \"0530c78699ea5e8eb5530600900e1f328b48acad\", \"dtype\": \"bfloat16\", \"max_new_tokens\": 2048, \"model_directory\": \"<rollout-export>/qwen25_3b_math/models/Qwen2.5-3B-Instruct\", \"model_id\": \"Qwen/Qwen2.5-3B-Instruct\", \"model_revision\": \"aa8e72537993ba99e69dfaafa59ed015b17504d1\", \"population\": 5000, \"question_suffix\": \"\\n\\nThink step by step inside <think> </think> tags, then give your final answer inside \\\\boxed{}.\", \"repetition_penalty\": 1.0, \"rollout_seed_algorithm\": \"SHA256 of UTF8 math|42|sample_id|rollout_id, first 8 bytes big-endian; NumPy PCG64\", \"rollout_seed_base\": 42, \"rollouts_per_sample\": 32, \"sample_count\": 1000, \"selection_algorithm\": \"numpy.default_rng(42).choice(5000,1000,replace=False); ascending source index\", \"selection_seed\": 42, \"selection_sha256\": \"35346720ba262f47fe76e8cb5f4760b8511c6dfdba06054b1bcc75c45a5c6f87\", \"source_sha256\": \"7dca8d6e41af88ecf82f2b5f36eb5530e083aaaa86ee325f62bd5c31535178c6\", \"split\": \"test\", \"system_message\": \"You are a helpful assistant.\", \"temperature\": 0.7, \"top_k\": 20, \"top_p\": 0.8}",
+        "sample_id": "test:<zero-based row index in the pinned full test split>",
+        "token_alignment": "one value per retained generated token, from its predicting forward pass; selected stop tokens excluded"
+      },
+      "path": "ATML-PA3-Data/qwen25-math/probability_metrics.parquet",
+      "schema": "dataset: string not null\nsample_id: string not null\nrollout_id: int32 not null\nlogp: list<element: float> not null\n  child 0, element: float\nkl_u_p: list<element: float> not null\n  child 0, element: float\n-- schema metadata --\nconfig_sha256: 'd3136d45726a3dbcea6b831046ae56e71b8e275794a4cd7b8881e41b9' + 7\nformat_version: '1'\nmetric_definition: 'full raw-logit vocabulary; logp=log_softmax(z)[y]; kl' + 53\ntoken_alignment: 'one value per retained generated token, from its predic' + 48\nrollout_id: 'zero-based 0..31 within each sample'\nanswer_extraction: 'final literal boxed expression, balanced braces; no n' + 15\nmodel_id: 'Qwen/Qwen2.5-3B-Instruct'\nmodel_revision: 'aa8e72537993ba99e69dfaafa59ed015b17504d1'\ndataset_id: 'DigitalLearningGmbH/MATH-lighteval'\ndataset_revision: '0530c78699ea5e8eb5530600900e1f328b48acad'\nrun_config_json: '{\"answer_extraction\": \"final literal \\\\boxed{...}, bala' + 1239\nrow_count: '32000'\npilot: 'False'\nsample_id: 'test:<zero-based row index in the pinned full test split>'",
+      "sha256": "48a492cd2c93bebfbd12b0b9df6a5783b611103e7a3cfefe010573ff6e200379"
+    }
+  },
+  "invalid_values": {
+    "kl_u_p": 0,
+    "logp": 0
+  },
+  "nonfinite_token_measurements": {
+    "kl_u_p": 0,
+    "logp": 0
+  },
+  "questions": 1000,
+  "rollouts_per_question": 32,
+  "token_alignment": "corresponding prediction; no shift; termination excluded",
+  "unmatched_keys": 0
+}

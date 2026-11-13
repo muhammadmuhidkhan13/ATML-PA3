@@ -1,0 +1,1119 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "blue",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 152962,
+      "original_target": "blue",
+      "pair_id": "vqa:93730001:152962001",
+      "partner_canonical_answer": "green",
+      "question": "What color is the court?",
+      "question_id": 152962001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "green",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 93730,
+      "original_target": "green",
+      "pair_id": "vqa:93730001:152962001",
+      "partner_canonical_answer": "blue",
+      "question": "What color is the court?",
+      "question_id": 93730001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 385514,
+      "original_target": "baseball",
+      "pair_id": "vqa:385514015:404373012",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this person playing?",
+      "question_id": 385514015,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 404373,
+      "original_target": "tennis",
+      "pair_id": "vqa:385514015:404373012",
+      "partner_canonical_answer": "baseball",
+      "question": "What sport is this person playing?",
+      "question_id": 404373012,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "blue",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 391415,
+      "original_target": "blue",
+      "pair_id": "vqa:391415000:539310003",
+      "partner_canonical_answer": "gray",
+      "question": "What color is the sky?",
+      "question_id": 391415000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "gray",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 539310,
+      "original_target": "gray",
+      "pair_id": "vqa:391415000:539310003",
+      "partner_canonical_answer": "blue",
+      "question": "What color is the sky?",
+      "question_id": 539310003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 106470,
+      "original_target": "red",
+      "pair_id": "vqa:32715004:106470003",
+      "partner_canonical_answer": "blue",
+      "question": "What color is the lady in front bathing suit?",
+      "question_id": 106470003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "blue",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 32715,
+      "original_target": "blue",
+      "pair_id": "vqa:32715004:106470003",
+      "partner_canonical_answer": "red",
+      "question": "What color is the lady in front bathing suit?",
+      "question_id": 32715004,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "blue",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 152962,
+      "original_target": "blue",
+      "pair_id": "vqa:93730001:152962001",
+      "partner_canonical_answer": "green",
+      "question": "What color is the court?",
+      "question_id": 152962001,
+      "question_type": "other",
+      "reference_nll": 16.952722549438477,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "green",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 93730,
+      "original_target": "green",
+      "pair_id": "vqa:93730001:152962001",
+      "partner_canonical_answer": "blue",
+      "question": "What color is the court?",
+      "question_id": 93730001,
+      "question_type": "other",
+      "reference_nll": 14.99959659576416,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 385514,
+      "original_target": "baseball",
+      "pair_id": "vqa:385514015:404373012",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this person playing?",
+      "question_id": 385514015,
+      "question_type": "other",
+      "reference_nll": 10.3397855758667,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 404373,
+      "original_target": "tennis",
+      "pair_id": "vqa:385514015:404373012",
+      "partner_canonical_answer": "baseball",
+      "question": "What sport is this person playing?",
+      "question_id": 404373012,
+      "question_type": "other",
+      "reference_nll": 10.45427417755127,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "blue",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 391415,
+      "original_target": "blue",
+      "pair_id": "vqa:391415000:539310003",
+      "partner_canonical_answer": "gray",
+      "question": "What color is the sky?",
+      "question_id": 391415000,
+      "question_type": "other",
+      "reference_nll": 19.465429306030273,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "gray",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 539310,
+      "original_target": "gray",
+      "pair_id": "vqa:391415000:539310003",
+      "partner_canonical_answer": "blue",
+      "question": "What color is the sky?",
+      "question_id": 539310003,
+      "question_type": "other",
+      "reference_nll": 22.383398056030273,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 106470,
+      "original_target": "red",
+      "pair_id": "vqa:32715004:106470003",
+      "partner_canonical_answer": "blue",
+      "question": "What color is the lady in front bathing suit?",
+      "question_id": 106470003,
+      "question_type": "other",
+      "reference_nll": 20.631507873535156,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "blue",
+      "condition": "no_image",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_image_id": 32715,
+      "original_target": "blue",
+      "pair_id": "vqa:32715004:106470003",
+      "partner_canonical_answer": "red",
+      "question": "What color is the lady in front bathing suit?",
+      "question_id": 32715004,
+      "question_type": "other",
+      "reference_nll": 18.998695373535156,
+      "reference_seconds": 0.017917049997777212,
+      "references": [
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "42cb62ab37c47d2dfb6de7e20040735508d6e2b50cffebc7d5c57251f16abfcf"
+}

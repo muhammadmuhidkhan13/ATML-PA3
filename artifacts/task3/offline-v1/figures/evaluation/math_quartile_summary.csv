@@ -1,0 +1,4 @@
+signal,defined_questions,undefined_questions,top_accuracy,bottom_accuracy,gap
+length,800,0,0.60328125,0.64828125,-0.045
+mean_logp,800,0,0.6771875,0.5984375,0.07875
+self_certainty,800,0,0.69515625,0.57546875,0.1196875

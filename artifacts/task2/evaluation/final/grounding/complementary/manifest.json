@@ -1,0 +1,72 @@
+{
+  "batch_hashes": {
+    "batch_00000.json": "37fffce76b4179352b259808464a30ecb2024b3f854b1ef5c7e5839305c7fef9",
+    "batch_00001.json": "edea0cd2bc2f0336e9b254bf05f60f74180e0f55ed547551af9505e13b0c578a",
+    "batch_00002.json": "8e634cfaccbe77defb3e3d1f7c41a4d0883e565071736bbc93a31d5bcefd7375",
+    "batch_00003.json": "41d65d5ef339a39a580ae45d59a5ee83359b6f5412c5634e40cb4bd28dab24b9",
+    "batch_00004.json": "8cd449d39b61f4971f6e7b8ed008a041fcc24e8a88a0d20702329d32a0b302cd",
+    "batch_00005.json": "6607ba4472591cf364b491ad38a99ca9b45af34b8f90481c7e52e5d6d281ece4",
+    "batch_00006.json": "b96b5ff720ed39e360757c0d508ae0ffce9a732318f33cb8a71e9272d696a058",
+    "batch_00007.json": "354fae6138418134ea5b99a03417d1f1f2ba2a079ba7f8727d0c787df4ffa627",
+    "batch_00008.json": "2b73eb448fa8ef0d509c144bdfd5a2834aa37d02031f3adc26cdc00d959c8d7c",
+    "batch_00009.json": "436154d8dc7b2594f4f578a5914ac25ca348ab728f6b85571d0225e8255a8401",
+    "batch_00010.json": "e8278764a2ee067e9dfac6e388bc50748e5eb9e28cf18e5744bb283751fdf202",
+    "batch_00011.json": "7fc93a54af263ad315c5cd89178f54b5f15ea96c8e983d604527beccdc0c70e1",
+    "batch_00012.json": "3f0b42d73304094d74eeaa7216292bf320d4b85fd627a25fa1b69474aa40988b",
+    "batch_00013.json": "9ed9e0e0b98b862bf132408236798e19f51a56faa09561dfa89dcbe1acf548a2",
+    "batch_00014.json": "0ac8eefde723004df65fc5016f0e3e70d9c3a776b2b5b215c1993a2f7e71713b",
+    "batch_00015.json": "cb7438ecb427c8ed0a9a1b09439835878524c859f8af37bc0312833450b40c81"
+  },
+  "batch_size": 8,
+  "complete": true,
+  "expected_examples": 128,
+  "inputs_id": "cef0b6470d48d46f9369445617daec7378852c0c7ececbeb255057e11ce2e719",
+  "spec": {
+    "batch_size": 8,
+    "bootstrap_resamples": 4000,
+    "bootstrap_seed": 6304,
+    "condition": "complementary",
+    "dataset": "46200aa0b1fe350021683bbaea897310703942d621a8c43b0f651bcc39fded57",
+    "greedy": true,
+    "kind": "final",
+    "mapping_sha256": "e1585d2081e70e0d2fe332be9da58d0b826ccb8a0e24f772abd5b362be505dd2",
+    "model_identity": {
+      "checkpoint": "stage_3",
+      "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+      "progress": {
+        "completed_examples": 72000,
+        "evaluated": [
+          0,
+          500,
+          1000,
+          1500,
+          2000,
+          2250,
+          2500,
+          3000,
+          3500,
+          3750,
+          4000
+        ],
+        "global_update": 4500,
+        "mixture": {
+          "caption": 43258,
+          "counting": 7084,
+          "natural": 8426,
+          "presence": 13232
+        },
+        "sft_loss_sum": 7651.382762450841,
+        "skipped_attempts": 0,
+        "stage": 3,
+        "stage_update": 750,
+        "training_seconds": 5574.409303687658
+      },
+      "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+    },
+    "new_token_cap": 16,
+    "schema_version": 2,
+    "suite": "grounding",
+    "suite_pairs_id": "ca6475470c1be7b5572419c19268c16e1a8938f6bd9b149edf48272729537f4a"
+  },
+  "spec_id": "3c8d052f8033a8c0dcd0f7fb1d215683be8c36be1f7f606cdaa1198bc1427473"
+}

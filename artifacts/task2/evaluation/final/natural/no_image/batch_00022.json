@@ -1,0 +1,1543 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "wedding",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 468784,
+      "original_target": "wedding",
+      "pair_id": "vqa:245026017:468784002",
+      "partner_canonical_answer": "birthday",
+      "question": "What occasion was this photo taken?",
+      "question_id": 468784002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "weeding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "birthday",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 245026,
+      "original_target": "birthday",
+      "pair_id": "vqa:245026017:468784002",
+      "partner_canonical_answer": "wedding",
+      "question": "What occasion was this photo taken?",
+      "question_id": 245026017,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "left",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 273825,
+      "original_target": "left",
+      "pair_id": "vqa:273825002:499705008",
+      "partner_canonical_answer": "right",
+      "question": "Is the man's right or left hand visible?",
+      "question_id": 273825002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "he's holding cell phone",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "right",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 499705,
+      "original_target": "right",
+      "pair_id": "vqa:273825002:499705008",
+      "partner_canonical_answer": "left",
+      "question": "Is the man's right or left hand visible?",
+      "question_id": 499705008,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "brown",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 553034,
+      "original_target": "brown",
+      "pair_id": "vqa:154584006:553034001",
+      "partner_canonical_answer": "gray",
+      "question": "What color is the rocks?",
+      "question_id": 553034001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "gray",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 154584,
+      "original_target": "gray",
+      "pair_id": "vqa:154584006:553034001",
+      "partner_canonical_answer": "brown",
+      "question": "What color is the rocks?",
+      "question_id": 154584006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "sunny",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 359676,
+      "original_target": "sunny",
+      "pair_id": "vqa:359676002:517612000",
+      "partner_canonical_answer": "overcast",
+      "question": "Are the weather conditions sunny or overcast?",
+      "question_id": 359676002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "overcast",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 517612,
+      "original_target": "overcast",
+      "pair_id": "vqa:359676002:517612000",
+      "partner_canonical_answer": "sunny",
+      "question": "Are the weather conditions sunny or overcast?",
+      "question_id": 517612000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "wedding",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        6548,
+        572,
+        4429,
+        369,
+        264,
+        13008,
+        21536,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "photo was taken for wedding ceremony",
+      "original_image_id": 468784,
+      "original_target": "wedding",
+      "pair_id": "vqa:245026017:468784002",
+      "partner_canonical_answer": "birthday",
+      "prediction_text": "The photo was taken for a wedding ceremony.",
+      "question": "What occasion was this photo taken?",
+      "question_id": 468784002,
+      "question_type": "other",
+      "raw_response": "The photo was taken for a wedding ceremony.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.067205905914307,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "weeding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "wedding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "birthday",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        6548,
+        572,
+        4429,
+        369,
+        264,
+        13008,
+        21536,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "photo was taken for wedding ceremony",
+      "original_image_id": 245026,
+      "original_target": "birthday",
+      "pair_id": "vqa:245026017:468784002",
+      "partner_canonical_answer": "wedding",
+      "prediction_text": "The photo was taken for a wedding ceremony.",
+      "question": "What occasion was this photo taken?",
+      "question_id": 245026017,
+      "question_type": "other",
+      "raw_response": "The photo was taken for a wedding ceremony.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 11.67509937286377,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "birthday",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "left",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        54761,
+        13,
+        1416,
+        279,
+        883,
+        374,
+        11259,
+        323,
+        806,
+        1424,
+        374,
+        9434,
+        11
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is ambiguous if man is standing and his hand is visible",
+      "original_image_id": 273825,
+      "original_target": "left",
+      "pair_id": "vqa:273825002:499705008",
+      "partner_canonical_answer": "right",
+      "prediction_text": "The question is ambiguous. If the man is standing and his hand is visible,",
+      "question": "Is the man's right or left hand visible?",
+      "question_id": 273825002,
+      "question_type": "other",
+      "raw_response": "The question is ambiguous. If the man is standing and his hand is visible,",
+      "reached_token_cap": true,
+      "reference_nll": 5.823384761810303,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "he's holding cell phone",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "left",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "right",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        3405,
+        374,
+        54761,
+        13,
+        1416,
+        279,
+        883,
+        374,
+        11259,
+        323,
+        806,
+        1424,
+        374,
+        9434,
+        11
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "question is ambiguous if man is standing and his hand is visible",
+      "original_image_id": 499705,
+      "original_target": "right",
+      "pair_id": "vqa:273825002:499705008",
+      "partner_canonical_answer": "left",
+      "prediction_text": "The question is ambiguous. If the man is standing and his hand is visible,",
+      "question": "Is the man's right or left hand visible?",
+      "question_id": 499705008,
+      "question_type": "other",
+      "raw_response": "The question is ambiguous. If the man is standing and his hand is visible,",
+      "reached_token_cap": true,
+      "reference_nll": 7.307759761810303,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "right",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "brown",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        23035,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        1416,
+        498,
+        614,
+        803
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of rocks is not specified in question if you have more",
+      "original_image_id": 553034,
+      "original_target": "brown",
+      "pair_id": "vqa:154584006:553034001",
+      "partner_canonical_answer": "gray",
+      "prediction_text": "The color of the rocks is not specified in the question. If you have more",
+      "question": "What color is the rocks?",
+      "question_id": 553034001,
+      "question_type": "other",
+      "raw_response": "The color of the rocks is not specified in the question. If you have more",
+      "reached_token_cap": true,
+      "reference_nll": 8.812126159667969,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "brown",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "gray",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        23035,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        1416,
+        498,
+        614,
+        803
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of rocks is not specified in question if you have more",
+      "original_image_id": 154584,
+      "original_target": "gray",
+      "pair_id": "vqa:154584006:553034001",
+      "partner_canonical_answer": "brown",
+      "prediction_text": "The color of the rocks is not specified in the question. If you have more",
+      "question": "What color is the rocks?",
+      "question_id": 154584006,
+      "question_type": "other",
+      "raw_response": "The color of the rocks is not specified in the question. If you have more",
+      "reached_token_cap": true,
+      "reference_nll": 9.374626159667969,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "sunny",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        9104,
+        4682,
+        525,
+        3070,
+        82,
+        27297,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "weather conditions are **sunny**",
+      "original_image_id": 359676,
+      "original_target": "sunny",
+      "pair_id": "vqa:359676002:517612000",
+      "partner_canonical_answer": "overcast",
+      "prediction_text": "The weather conditions are **sunny**.",
+      "question": "Are the weather conditions sunny or overcast?",
+      "question_id": 359676002,
+      "question_type": "other",
+      "raw_response": "The weather conditions are **sunny**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.149078607559204,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "sunny",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "overcast",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        9104,
+        4682,
+        525,
+        3070,
+        82,
+        27297,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 10,
+      "generation_seconds": 0.13616177914082073,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "weather conditions are **sunny**",
+      "original_image_id": 517612,
+      "original_target": "overcast",
+      "pair_id": "vqa:359676002:517612000",
+      "partner_canonical_answer": "sunny",
+      "prediction_text": "The weather conditions are **sunny**.",
+      "question": "Are the weather conditions sunny or overcast?",
+      "question_id": 517612000,
+      "question_type": "other",
+      "raw_response": "The weather conditions are **sunny**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.7933268547058105,
+      "reference_seconds": 0.008595435501774773,
+      "references": [
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "overcast",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

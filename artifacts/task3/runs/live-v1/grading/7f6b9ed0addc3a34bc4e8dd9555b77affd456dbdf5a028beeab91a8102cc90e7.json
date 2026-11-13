@@ -1,0 +1,90 @@
+{
+  "semantics": {
+    "correct": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "equivalent": [
+      [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    "missing": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "normalized": [
+      "-2, 1",
+      "-2, 1",
+      "-2, 1",
+      "-2, 1",
+      "-2, 1"
+    ],
+    "operation_timeouts": [],
+    "parsed": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "sha256": "cf57535ce295fa3bd82342c1eb88b5b4f83be1e0904398284545de5da0e94549",
+  "source": {
+    "call_order": [
+      "longer",
+      "parallel0",
+      "parallel1",
+      "parallel2",
+      "revision"
+    ],
+    "calls": {
+      "longer": "5b5873c4eb03d39b1cb4e77804ff2f2a466ddfbb75fbdbb3fe44625a31cb4e17",
+      "parallel0": "048af82cfa0c6af269802a4ee56cc292c3963949baa08ff5c18f34167ba83824",
+      "parallel1": "32fc6334aff832ef7147274ad21b04d26b2a6ba8275bb20fd740b6bb873673b6",
+      "parallel2": "bfece9c25912756ccfa6821fed8574dac7d66357999f7b8e9c99076951f17ee1",
+      "revision": "f5443a35e8d30500f84a66253f99e1fbd35da98940fc666ec8a1e534791952ec"
+    },
+    "config_id": "18867619bfdbc737e2a4df87e80d49edc50227dc27405a3faf0250cc471c6687",
+    "gold": "1",
+    "sample_id": "test:414"
+  }
+}

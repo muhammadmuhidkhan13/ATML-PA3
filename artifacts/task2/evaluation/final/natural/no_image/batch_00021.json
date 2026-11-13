@@ -1,0 +1,1559 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "costa",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 47720,
+      "original_target": "costa",
+      "pair_id": "vqa:47720001:527906002",
+      "partner_canonical_answer": "cat",
+      "question": "What is the logo on the cup?",
+      "question_id": 47720001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "cat",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 527906,
+      "original_target": "cat",
+      "pair_id": "vqa:47720001:527906002",
+      "partner_canonical_answer": "costa",
+      "question": "What is the logo on the cup?",
+      "question_id": 527906002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "here kitty",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 498807,
+      "original_target": "black",
+      "pair_id": "vqa:278973003:498807005",
+      "partner_canonical_answer": "red",
+      "question": "What color wetsuit is the surfer wearing?",
+      "question_id": 498807005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 278973,
+      "original_target": "red",
+      "pair_id": "vqa:278973003:498807005",
+      "partner_canonical_answer": "black",
+      "question": "What color wetsuit is the surfer wearing?",
+      "question_id": 278973003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "red, blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 6593,
+      "original_target": "black",
+      "pair_id": "vqa:6593000:178535000",
+      "partner_canonical_answer": "white",
+      "question": "What color are the tennis player's shorts?",
+      "question_id": 6593000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 178535,
+      "original_target": "white",
+      "pair_id": "vqa:6593000:178535000",
+      "partner_canonical_answer": "black",
+      "question": "What color are the tennis player's shorts?",
+      "question_id": 178535000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 251920,
+      "original_target": "white",
+      "pair_id": "vqa:251920003:265915002",
+      "partner_canonical_answer": "black",
+      "question": "What color is the oven?",
+      "question_id": 251920003,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 265915,
+      "original_target": "black",
+      "pair_id": "vqa:251920003:265915002",
+      "partner_canonical_answer": "white",
+      "question": "What color is the oven?",
+      "question_id": 265915002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "steel gray",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "costa",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        12426,
+        389,
+        279,
+        10525,
+        374,
+        264,
+        48204,
+        1506,
+        3070,
+        17735,
+        334,
+        7735,
+        11,
+        3545,
+        1483
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "logo on cup is stylized **heart** symbol often used",
+      "original_image_id": 47720,
+      "original_target": "costa",
+      "pair_id": "vqa:47720001:527906002",
+      "partner_canonical_answer": "cat",
+      "prediction_text": "The logo on the cup is a stylized **heart** symbol, often used",
+      "question": "What is the logo on the cup?",
+      "question_id": 47720001,
+      "question_type": "other",
+      "raw_response": "The logo on the cup is a stylized **heart** symbol, often used",
+      "reached_token_cap": true,
+      "reference_nll": 10.261999130249023,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "costa",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "cat",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        12426,
+        389,
+        279,
+        10525,
+        374,
+        264,
+        48204,
+        1506,
+        3070,
+        17735,
+        334,
+        7735,
+        11,
+        3545,
+        1483
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "logo on cup is stylized **heart** symbol often used",
+      "original_image_id": 527906,
+      "original_target": "cat",
+      "pair_id": "vqa:47720001:527906002",
+      "partner_canonical_answer": "costa",
+      "prediction_text": "The logo on the cup is a stylized **heart** symbol, often used",
+      "question": "What is the logo on the cup?",
+      "question_id": 527906002,
+      "question_type": "other",
+      "raw_response": "The logo on the cup is a stylized **heart** symbol, often used",
+      "reached_token_cap": true,
+      "reference_nll": 19.70421600341797,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "here kitty",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "cat",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        1729,
+        802,
+        594,
+        289,
+        1415,
+        3083,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of surfer's wetsuit is not specified in question",
+      "original_image_id": 498807,
+      "original_target": "black",
+      "pair_id": "vqa:278973003:498807005",
+      "partner_canonical_answer": "red",
+      "prediction_text": "The color of the surfer's wetsuit is not specified in the question",
+      "question": "What color wetsuit is the surfer wearing?",
+      "question_id": 498807005,
+      "question_type": "other",
+      "raw_response": "The color of the surfer's wetsuit is not specified in the question",
+      "reached_token_cap": true,
+      "reference_nll": 11.906115531921387,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "red",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        1729,
+        802,
+        594,
+        289,
+        1415,
+        3083,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of surfer's wetsuit is not specified in question",
+      "original_image_id": 278973,
+      "original_target": "red",
+      "pair_id": "vqa:278973003:498807005",
+      "partner_canonical_answer": "black",
+      "prediction_text": "The color of the surfer's wetsuit is not specified in the question",
+      "question": "What color wetsuit is the surfer wearing?",
+      "question_id": 278973003,
+      "question_type": "other",
+      "raw_response": "The color of the surfer's wetsuit is not specified in the question",
+      "reached_token_cap": true,
+      "reference_nll": 12.234240531921387,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "red, blue",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "red",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        31415,
+        2781,
+        594,
+        35776,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        1416
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of tennis player's shorts is not specified in question if",
+      "original_image_id": 6593,
+      "original_target": "black",
+      "pair_id": "vqa:6593000:178535000",
+      "partner_canonical_answer": "white",
+      "prediction_text": "The color of the tennis player's shorts is not specified in the question. If",
+      "question": "What color are the tennis player's shorts?",
+      "question_id": 6593000,
+      "question_type": "other",
+      "raw_response": "The color of the tennis player's shorts is not specified in the question. If",
+      "reached_token_cap": true,
+      "reference_nll": 9.218499183654785,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "blue",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        31415,
+        2781,
+        594,
+        35776,
+        374,
+        537,
+        5189,
+        304,
+        279,
+        3405,
+        13,
+        1416
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of tennis player's shorts is not specified in question if",
+      "original_image_id": 178535,
+      "original_target": "white",
+      "pair_id": "vqa:6593000:178535000",
+      "partner_canonical_answer": "black",
+      "prediction_text": "The color of the tennis player's shorts is not specified in the question. If",
+      "question": "What color are the tennis player's shorts?",
+      "question_id": 178535000,
+      "question_type": "other",
+      "raw_response": "The color of the tennis player's shorts is not specified in the question. If",
+      "reached_token_cap": true,
+      "reference_nll": 10.148186683654785,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "white",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        23387,
+        374,
+        11136,
+        3070,
+        5782,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 12,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of oven is typically **white**",
+      "original_image_id": 251920,
+      "original_target": "white",
+      "pair_id": "vqa:251920003:265915002",
+      "partner_canonical_answer": "black",
+      "prediction_text": "The color of the oven is typically **white**.",
+      "question": "What color is the oven?",
+      "question_id": 251920003,
+      "question_type": "other",
+      "raw_response": "The color of the oven is typically **white**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 9.88116455078125,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "black",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1894,
+        315,
+        279,
+        23387,
+        374,
+        11136,
+        3070,
+        5782,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 12,
+      "generation_seconds": 0.12597714050207287,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "color of oven is typically **white**",
+      "original_image_id": 265915,
+      "original_target": "black",
+      "pair_id": "vqa:251920003:265915002",
+      "partner_canonical_answer": "white",
+      "prediction_text": "The color of the oven is typically **white**.",
+      "question": "What color is the oven?",
+      "question_id": 265915002,
+      "question_type": "other",
+      "raw_response": "The color of the oven is typically **white**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 11.20147705078125,
+      "reference_seconds": 0.008317886240547523,
+      "references": [
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 3
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "steel gray",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "gray",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "black",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

@@ -1,0 +1,24 @@
+{
+  "basis_storage_bytes": 0,
+  "cuda_version": "13.0",
+  "device": "cuda:0",
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "model_info": {
+    "adapter_modules": 0,
+    "basis_preprocessing_seconds": 0.0,
+    "extra_state_keys": [],
+    "method": "l2sp",
+    "peak_lr": 2e-05,
+    "state_kind": "full",
+    "total_parameters": 596049920,
+    "trainable_parameters": 596049920
+  },
+  "model_setup_seconds": 4.033327318029478,
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39",
+  "reference_bytes": 2384199680,
+  "reference_creation_seconds": 0.02512072992976755,
+  "resume_from": null,
+  "session_id": "c445c1e68eca4131b770531df5917dd2",
+  "setup_peak_gpu_memory_allocated_bytes": 4769448960,
+  "stop_after_update": null
+}

@@ -1,0 +1,32 @@
+{
+  "finished": true,
+  "progress": {
+    "completed_examples": 72000,
+    "evaluated": [
+      0,
+      500,
+      1000,
+      1500,
+      2000,
+      2250,
+      2500,
+      3000,
+      3500,
+      3750,
+      4000,
+      4500
+    ],
+    "global_update": 4500,
+    "mixture": {
+      "caption": 43258,
+      "counting": 7084,
+      "natural": 8426,
+      "presence": 13232
+    },
+    "sft_loss_sum": 7651.382762450841,
+    "skipped_attempts": 0,
+    "stage": 3,
+    "stage_update": 750,
+    "training_seconds": 5574.409303687658
+  }
+}

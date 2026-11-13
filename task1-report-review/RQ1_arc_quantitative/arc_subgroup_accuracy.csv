@@ -1,0 +1,15 @@
+﻿condition,subgroup,n,correct,accuracy_percent,gain_pp
+baseline,quantitative-indicator,16,5,31.25,0.0
+baseline,other,2360,1325,56.144067796610166,0.0
+full_mid,quantitative-indicator,16,6,37.5,6.25
+full_mid,other,2360,1478,62.6271186440678,6.483050847457628
+full_final,quantitative-indicator,16,6,37.5,6.25
+full_final,other,2360,1514,64.15254237288136,8.008474576271187
+l2sp_final,quantitative-indicator,16,7,43.75,12.5
+l2sp_final,other,2360,1506,63.813559322033896,7.669491525423728
+lora4_final,quantitative-indicator,16,7,43.75,12.5
+lora4_final,other,2360,1488,63.05084745762712,6.906779661016948
+lora16_final,quantitative-indicator,16,6,37.5,6.25
+lora16_final,other,2360,1499,63.516949152542374,7.372881355932204
+oplora16_final,quantitative-indicator,16,6,37.5,6.25
+oplora16_final,other,2360,1470,62.28813559322034,6.1440677966101696

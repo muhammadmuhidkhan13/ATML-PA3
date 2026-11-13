@@ -1,0 +1,30 @@
+{
+  "apply_chat_template": false,
+  "batch_size": 1,
+  "benchmark": "boolq",
+  "condition": "full_final",
+  "device": "cuda:0",
+  "elapsed_seconds": 143.8053756190002,
+  "enable_thinking": false,
+  "examples": 3270,
+  "expected_full_split": 3270,
+  "gsm8k_max_new_tokens": null,
+  "lm_eval_version": "0.4.13",
+  "model": {
+    "adapters_merged": false,
+    "checkpoint_sha256": "4718d8c2eb02c4aced93a527f5d0b7db11576e87a613f9a5968412bd68547b67",
+    "condition": "full_final",
+    "model_id": "Qwen/Qwen3-0.6B",
+    "model_revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+    "training_checkpoint": "artifacts/task1/official-full-v1/checkpoints/update_01250"
+  },
+  "num_fewshot": 0,
+  "official_metric_key": "acc,none",
+  "peak_gpu_memory_allocated_bytes": 2029004288,
+  "primary_metric": 0.5574923547400612,
+  "python_version": "3.12.15",
+  "schema_version": 1,
+  "status": "COMPLETE_FULL_SPLIT",
+  "timestamp_utc": "2026-11-02T14:48:53.547741+00:00",
+  "torch_version": "2.14.1+cu130"
+}

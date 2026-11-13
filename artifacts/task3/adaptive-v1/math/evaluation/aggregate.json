@@ -1,0 +1,866 @@
+{
+  "cost_units": "retained generated tokens; offline proxy",
+  "differences": [
+    {
+      "ci95": [
+        -0.004999999999999999,
+        0.0015000000000000005
+      ],
+      "mean": -0.0014999999999999992,
+      "metric": "accuracy",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -11695.990203125,
+        -10689.92586875
+      ],
+      "mean": -11184.240375000001,
+      "metric": "token_cost",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -20.83755,
+        -19.326375
+      ],
+      "mean": -20.118,
+      "metric": "rollouts",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.012128124999999998,
+        -0.0009999999999999983
+      ],
+      "mean": -0.006249999999999998,
+      "metric": "accuracy",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -14146.470346874998,
+        -13152.259609374998
+      ],
+      "mean": -13660.652000000002,
+      "metric": "token_cost",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -23.469537499999998,
+        -22.329425
+      ],
+      "mean": -22.932500000000005,
+      "metric": "rollouts",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.059000000000000004,
+        -0.034121874999999996
+      ],
+      "mean": -0.04575,
+      "metric": "accuracy",
+      "policy": "Fixed4",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -19334.152409374998,
+        -18096.918884374998
+      ],
+      "mean": -18667.323375,
+      "metric": "token_cost",
+      "policy": "Fixed4",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -28.0,
+        -28.0
+      ],
+      "mean": -28.0,
+      "metric": "rollouts",
+      "policy": "Fixed4",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.030384374999999995,
+        -0.010374999999999999
+      ],
+      "mean": -0.02,
+      "metric": "accuracy",
+      "policy": "Fixed8",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -16570.506271875,
+        -15514.7943375
+      ],
+      "mean": -16002.909000000001,
+      "metric": "token_cost",
+      "policy": "Fixed8",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -24.0,
+        -24.0
+      ],
+      "mean": -24.0,
+      "metric": "rollouts",
+      "policy": "Fixed8",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.014499999999999999,
+        5.585809592645287e-19
+      ],
+      "mean": -0.006749999999999999,
+      "metric": "accuracy",
+      "policy": "Fixed16",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -11045.042240625002,
+        -10344.36265
+      ],
+      "mean": -10669.274749999999,
+      "metric": "token_cost",
+      "policy": "Fixed16",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -16.0,
+        -16.0
+      ],
+      "mean": -16.0,
+      "metric": "rollouts",
+      "policy": "Fixed16",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "mean": 0.0,
+      "metric": "accuracy",
+      "policy": "Fixed32",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "mean": 0.0,
+      "metric": "token_cost",
+      "policy": "Fixed32",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "mean": 0.0,
+      "metric": "rollouts",
+      "policy": "Fixed32",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.001249999999999999,
+        0.008624999999999999
+      ],
+      "mean": 0.004749999999999999,
+      "metric": "accuracy",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "quality",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.033746875,
+        0.056503125
+      ],
+      "mean": 0.04425,
+      "metric": "accuracy",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed4",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.010499999999999999,
+        0.02725
+      ],
+      "mean": 0.018500000000000003,
+      "metric": "accuracy",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed8",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.0006249999999999996,
+        0.011749999999999998
+      ],
+      "mean": 0.005250000000000001,
+      "metric": "accuracy",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed16",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.004999999999999999,
+        0.0015000000000000005
+      ],
+      "mean": -0.0014999999999999992,
+      "metric": "accuracy",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.008624999999999999,
+        -0.001249999999999999
+      ],
+      "mean": -0.004749999999999999,
+      "metric": "accuracy",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "agreement",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.030625,
+        0.049503125
+      ],
+      "mean": 0.03950000000000001,
+      "metric": "accuracy",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed4",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.007371875000000001,
+        0.021384374999999994
+      ],
+      "mean": 0.01375,
+      "metric": "accuracy",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed8",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.0052499999999999995,
+        0.006750000000000001
+      ],
+      "mean": 0.0005000000000000014,
+      "metric": "accuracy",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed16",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -0.012128124999999998,
+        -0.0009999999999999983
+      ],
+      "mean": -0.006249999999999998,
+      "metric": "accuracy",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        2201.3149937499998,
+        2777.676140625
+      ],
+      "mean": 2476.4116249999997,
+      "metric": "token_cost",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "quality",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        6708.103312500001,
+        8281.607159374998
+      ],
+      "mean": 7483.0830000000005,
+      "metric": "token_cost",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed4",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        4094.187090625,
+        5545.985703124999
+      ],
+      "mean": 4818.668625,
+      "metric": "token_cost",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed8",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -1137.546571875,
+        100.20983437499983
+      ],
+      "mean": -514.965625,
+      "metric": "token_cost",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed16",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -11695.990203125,
+        -10689.92586875
+      ],
+      "mean": -11184.240375000001,
+      "metric": "token_cost",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -2777.676140625,
+        -2201.3149937499998
+      ],
+      "mean": -2476.4116249999997,
+      "metric": "token_cost",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "agreement",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        4410.379353125,
+        5665.069106249999
+      ],
+      "mean": 5006.671375,
+      "metric": "token_cost",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed4",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        1795.9706093749999,
+        2951.1779874999997
+      ],
+      "mean": 2342.2569999999996,
+      "metric": "token_cost",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed8",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -3467.53325,
+        -2485.60206875
+      ],
+      "mean": -2991.3772499999995,
+      "metric": "token_cost",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed16",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -14146.470346874998,
+        -13152.259609374998
+      ],
+      "mean": -13660.652000000002,
+      "metric": "token_cost",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        2.496425,
+        3.1415499999999996
+      ],
+      "mean": 2.8145,
+      "metric": "rollouts",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "quality",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        7.16245,
+        8.673625
+      ],
+      "mean": 7.882000000000001,
+      "metric": "rollouts",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed4",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        3.1624499999999998,
+        4.673624999999999
+      ],
+      "mean": 3.8819999999999997,
+      "metric": "rollouts",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed8",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -4.83755,
+        -3.326375000000001
+      ],
+      "mean": -4.118,
+      "metric": "rollouts",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed16",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -20.83755,
+        -19.326375
+      ],
+      "mean": -20.118,
+      "metric": "rollouts",
+      "policy": "agreement",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -3.1415499999999996,
+        -2.496425
+      ],
+      "mean": -2.8145,
+      "metric": "rollouts",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "agreement",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        4.5304625,
+        5.6705749999999995
+      ],
+      "mean": 5.0675,
+      "metric": "rollouts",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed4",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        0.5304624999999998,
+        1.6705749999999995
+      ],
+      "mean": 1.0675,
+      "metric": "rollouts",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed8",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -7.4695375,
+        -6.3294250000000005
+      ],
+      "mean": -6.9325,
+      "metric": "rollouts",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed16",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    {
+      "ci95": [
+        -23.469537499999998,
+        -22.329425
+      ],
+      "mean": -22.932500000000005,
+      "metric": "rollouts",
+      "policy": "quality",
+      "questions": 800,
+      "reference": "Fixed32",
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    }
+  ],
+  "rows": [
+    {
+      "accuracy": 0.7347499999999999,
+      "accuracy_ci_high": 0.7647531249999999,
+      "accuracy_ci_low": 0.700996875,
+      "answer_changes_at32": 0.014749999999999984,
+      "correct_early": 0.6505000000000001,
+      "family": "agreement",
+      "fixed": null,
+      "gamma": null,
+      "incorrect_early": 0.0820000000000001,
+      "new_groups_same_winner": 0.35475,
+      "no_answer": 0.018625,
+      "oracle": 0.8807499999999996,
+      "policy": "agreement",
+      "policy_id": "agreement:tau=0.625",
+      "questions": 800,
+      "recoverable_early": 0.00625,
+      "relative_token_savings": 0.523925198215629,
+      "rollouts": 11.88199999999999,
+      "rollouts_ci_high": 12.673625000000001,
+      "rollouts_ci_low": 11.16245,
+      "stop16": 0.013249999999999986,
+      "stop32": 0.26750000000000024,
+      "stop4": 0.6610000000000003,
+      "stop8": 0.05825000000000018,
+      "tau": 0.625,
+      "token_cost": 10162.777125,
+      "token_cost_ci_high": 11032.550828125,
+      "token_cost_ci_low": 9344.689765625,
+      "unseen_correct": 0.7027500000000001
+    },
+    {
+      "accuracy": 0.7299999999999999,
+      "accuracy_ci_high": 0.75950625,
+      "accuracy_ci_low": 0.6964875,
+      "answer_changes_at32": 0.04587500000000008,
+      "correct_early": 0.6895000000000002,
+      "family": "quality",
+      "fixed": null,
+      "gamma": 0.0,
+      "incorrect_early": 0.14349999999999977,
+      "new_groups_same_winner": 0.4237500000000001,
+      "no_answer": 0.01675,
+      "oracle": 0.8579999999999997,
+      "policy": "quality",
+      "policy_id": "quality:tau=0.5:gamma=0",
+      "questions": 800,
+      "recoverable_early": 0.016249999999999983,
+      "relative_token_savings": 0.6399325807457645,
+      "rollouts": 9.067499999999987,
+      "rollouts_ci_high": 9.670575,
+      "rollouts_ci_low": 8.5304625,
+      "stop16": 0.01337499999999998,
+      "stop32": 0.16700000000000015,
+      "stop4": 0.7618750000000002,
+      "stop8": 0.05775000000000015,
+      "tau": 0.5,
+      "token_cost": 7686.365500000001,
+      "token_cost_ci_high": 8424.14401875,
+      "token_cost_ci_low": 7051.265140625,
+      "unseen_correct": 0.7852500000000002
+    },
+    {
+      "accuracy": 0.6904999999999998,
+      "accuracy_ci_high": 0.7176312499999998,
+      "accuracy_ci_low": 0.658121875,
+      "answer_changes_at32": 0.19299999999999964,
+      "correct_early": 0.6904999999999998,
+      "family": "fixed",
+      "fixed": 4,
+      "gamma": null,
+      "incorrect_early": 0.30949999999999994,
+      "new_groups_same_winner": 0.4494999999999997,
+      "no_answer": 0.016499999999999994,
+      "oracle": 0.7883749999999995,
+      "policy": "Fixed4",
+      "policy_id": "Fixed4",
+      "questions": 800,
+      "recoverable_early": 0.06487500000000011,
+      "relative_token_savings": 0.8744698586113963,
+      "rollouts": 4.0,
+      "rollouts_ci_high": 4.0,
+      "rollouts_ci_low": 4.0,
+      "stop16": 0.0,
+      "stop32": 0.0,
+      "stop4": 1.0,
+      "stop8": 0.0,
+      "tau": null,
+      "token_cost": 2679.694124999999,
+      "token_cost_ci_high": 2776.28095,
+      "token_cost_ci_low": 2595.65005,
+      "unseen_correct": 0.9054999999999999
+    },
+    {
+      "accuracy": 0.7162500000000003,
+      "accuracy_ci_high": 0.7457562499999999,
+      "accuracy_ci_low": 0.6833656250000001,
+      "answer_changes_at32": 0.12962500000000007,
+      "correct_early": 0.7162500000000003,
+      "family": "fixed",
+      "fixed": 8,
+      "gamma": null,
+      "incorrect_early": 0.28375000000000017,
+      "new_groups_same_winner": 0.4805000000000003,
+      "no_answer": 0.017750000000000002,
+      "oracle": 0.8409999999999996,
+      "policy": "Fixed8",
+      "policy_id": "Fixed8",
+      "questions": 800,
+      "recoverable_early": 0.035500000000000004,
+      "relative_token_savings": 0.7496554963708632,
+      "rollouts": 8.0,
+      "rollouts_ci_high": 8.0,
+      "rollouts_ci_low": 8.0,
+      "stop16": 0.0,
+      "stop32": 0.0,
+      "stop4": 0.0,
+      "stop8": 1.0,
+      "tau": null,
+      "token_cost": 5344.1084999999985,
+      "token_cost_ci_high": 5538.388006249998,
+      "token_cost_ci_low": 5177.880734374999,
+      "unseen_correct": 0.8987499999999996
+    },
+    {
+      "accuracy": 0.7294999999999999,
+      "accuracy_ci_high": 0.759,
+      "accuracy_ci_low": 0.6956187500000001,
+      "answer_changes_at32": 0.08100000000000003,
+      "correct_early": 0.7294999999999999,
+      "family": "fixed",
+      "fixed": 16,
+      "gamma": null,
+      "incorrect_early": 0.27049999999999996,
+      "new_groups_same_winner": 0.45450000000000024,
+      "no_answer": 0.020125,
+      "oracle": 0.8819999999999996,
+      "policy": "Fixed16",
+      "policy_id": "Fixed16",
+      "questions": 800,
+      "recoverable_early": 0.01825,
+      "relative_token_savings": 0.49980165847524205,
+      "rollouts": 16.0,
+      "rollouts_ci_high": 16.0,
+      "rollouts_ci_low": 16.0,
+      "stop16": 1.0,
+      "stop32": 0.0,
+      "stop4": 0.0,
+      "stop8": 0.0,
+      "tau": null,
+      "token_cost": 10677.742749999985,
+      "token_cost_ci_high": 11062.296243750001,
+      "token_cost_ci_low": 10348.133040625,
+      "unseen_correct": 0.8778749999999995
+    },
+    {
+      "accuracy": 0.73625,
+      "accuracy_ci_high": 0.766878125,
+      "accuracy_ci_low": 0.7020000000000001,
+      "answer_changes_at32": 0.0,
+      "correct_early": 0.0,
+      "family": "fixed",
+      "fixed": 32,
+      "gamma": null,
+      "incorrect_early": 0.0,
+      "new_groups_same_winner": 0.0,
+      "no_answer": 0.019,
+      "oracle": 0.91125,
+      "policy": "Fixed32",
+      "policy_id": "Fixed32",
+      "questions": 800,
+      "recoverable_early": 0.0,
+      "relative_token_savings": 0.0,
+      "rollouts": 32.0,
+      "rollouts_ci_high": 32.0,
+      "rollouts_ci_low": 32.0,
+      "stop16": 0.0,
+      "stop32": 1.0,
+      "stop4": 0.0,
+      "stop8": 0.0,
+      "tau": null,
+      "token_cost": 21347.0175,
+      "token_cost_ci_high": 22110.4300625,
+      "token_cost_ci_low": 20695.07271875,
+      "unseen_correct": 0.0
+    }
+  ],
+  "unit": "question after ten-order mean"
+}

@@ -1,0 +1,1458 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 259640,
+      "canonical_answer": "bathroom",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 151670,
+      "original_target": "bathroom",
+      "pair_id": "vqa:44950008:151670001",
+      "partner_canonical_answer": "bedroom",
+      "question": "What kind of room is this?",
+      "question_id": 151670001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "toilet",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "toilet",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 160351,
+      "canonical_answer": "bedroom",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 44950,
+      "original_target": "bedroom",
+      "pair_id": "vqa:44950008:151670001",
+      "partner_canonical_answer": "bathroom",
+      "question": "What kind of room is this?",
+      "question_id": 44950008,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 299493,
+      "canonical_answer": "white",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 476514,
+      "original_target": "white",
+      "pair_id": "vqa:441511048:476514001",
+      "partner_canonical_answer": "yellow",
+      "question": "What color is the woman's dress?",
+      "question_id": 476514001,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 381037,
+      "canonical_answer": "yellow",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 441511,
+      "original_target": "yellow",
+      "pair_id": "vqa:441511048:476514001",
+      "partner_canonical_answer": "white",
+      "question": "What color is the woman's dress?",
+      "question_id": 441511048,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 120747,
+      "canonical_answer": "hospital",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 373034,
+      "original_target": "hospital",
+      "pair_id": "vqa:270883004:373034002",
+      "partner_canonical_answer": "bedroom",
+      "question": "Where was this photo taken?",
+      "question_id": 373034002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "hospital bed",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "at hospital",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 463498,
+      "canonical_answer": "bedroom",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 270883,
+      "original_target": "bedroom",
+      "pair_id": "vqa:270883004:373034002",
+      "partner_canonical_answer": "hospital",
+      "question": "Where was this photo taken?",
+      "question_id": 270883004,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "bed",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 440106,
+      "canonical_answer": "kite",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 204324,
+      "original_target": "kite",
+      "pair_id": "vqa:204324008:312720005",
+      "partner_canonical_answer": "clouds",
+      "question": "What is in the sky?",
+      "question_id": 204324008,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "kite",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bird",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "lite",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 34930,
+      "canonical_answer": "clouds",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 312720,
+      "original_target": "clouds",
+      "pair_id": "vqa:204324008:312720005",
+      "partner_canonical_answer": "kite",
+      "question": "What is in the sky?",
+      "question_id": 312720005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "person",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skier",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 259640,
+      "canonical_answer": "bathroom",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        12164,
+        424,
+        151645
+      ],
+      "generated_tokens": 3,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "garage",
+      "original_image_id": 151670,
+      "original_target": "bathroom",
+      "pair_id": "vqa:44950008:151670001",
+      "partner_canonical_answer": "bedroom",
+      "prediction_text": "garage",
+      "question": "What kind of room is this?",
+      "question_id": 151670001,
+      "question_type": "other",
+      "raw_response": "garage<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.536684036254883,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "toilet",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "toilet",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "bathroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 160351,
+      "canonical_answer": "bedroom",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2721,
+        2966,
+        151645
+      ],
+      "generated_tokens": 3,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "bedroom",
+      "original_image_id": 44950,
+      "original_target": "bedroom",
+      "pair_id": "vqa:44950008:151670001",
+      "partner_canonical_answer": "bathroom",
+      "prediction_text": "bedroom",
+      "question": "What kind of room is this?",
+      "question_id": 44950008,
+      "question_type": "other",
+      "raw_response": "bedroom<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.1461951732635498,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 299493,
+      "canonical_answer": "white",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        5782,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "white",
+      "original_image_id": 476514,
+      "original_target": "white",
+      "pair_id": "vqa:441511048:476514001",
+      "partner_canonical_answer": "yellow",
+      "prediction_text": "white",
+      "question": "What color is the woman's dress?",
+      "question_id": 476514001,
+      "question_type": "other",
+      "raw_response": "white<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.4754165410995483,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "white",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 1.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 381037,
+      "canonical_answer": "yellow",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        5782,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "white",
+      "original_image_id": 441511,
+      "original_target": "yellow",
+      "pair_id": "vqa:441511048:476514001",
+      "partner_canonical_answer": "white",
+      "prediction_text": "white",
+      "question": "What color is the woman's dress?",
+      "question_id": 441511048,
+      "question_type": "other",
+      "raw_response": "white<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.007094383239746,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 120747,
+      "canonical_answer": "hospital",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        66484,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "south",
+      "original_image_id": 373034,
+      "original_target": "hospital",
+      "pair_id": "vqa:270883004:373034002",
+      "partner_canonical_answer": "bedroom",
+      "prediction_text": "south",
+      "question": "Where was this photo taken?",
+      "question_id": 373034002,
+      "question_type": "other",
+      "raw_response": "south<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 7.012862205505371,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "hospital bed",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "at hospital",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "hospital",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 463498,
+      "canonical_answer": "bedroom",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        61895,
+        42001,
+        151645
+      ],
+      "generated_tokens": 3,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "northampton",
+      "original_image_id": 270883,
+      "original_target": "bedroom",
+      "pair_id": "vqa:270883004:373034002",
+      "partner_canonical_answer": "hospital",
+      "prediction_text": "northampton",
+      "question": "Where was this photo taken?",
+      "question_id": 270883004,
+      "question_type": "other",
+      "raw_response": "northampton<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.6695616245269775,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "bed",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "bedroom",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 440106,
+      "canonical_answer": "kite",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        5782,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "white",
+      "original_image_id": 204324,
+      "original_target": "kite",
+      "pair_id": "vqa:204324008:312720005",
+      "partner_canonical_answer": "clouds",
+      "prediction_text": "white",
+      "question": "What is in the sky?",
+      "question_id": 204324008,
+      "question_type": "other",
+      "raw_response": "white<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.91487193107605,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "kite",
+          "answer_confidence": "maybe",
+          "answer_id": 1
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "bird",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "lite",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "kite",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": 34930,
+      "canonical_answer": "clouds",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        50708,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.040758179617114365,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "cars",
+      "original_image_id": 312720,
+      "original_target": "clouds",
+      "pair_id": "vqa:204324008:312720005",
+      "partner_canonical_answer": "kite",
+      "prediction_text": "cars",
+      "question": "What is in the sky?",
+      "question_id": 312720005,
+      "question_type": "other",
+      "raw_response": "cars<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.483707904815674,
+      "reference_seconds": 0.011779813270550221,
+      "references": [
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "person",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skier",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "clouds",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "4cb7857d43de6cc0c03a641caed005b2b758b225f8168ce8614516052be82f1e"
+}

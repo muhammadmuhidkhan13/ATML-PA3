@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 193442,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 219201,
+      "original_target": "2",
+      "pair_id": "ground:test:52",
+      "partner_canonical_answer": "4",
+      "question": "How many sports balls can you see?",
+      "question_id": "ground:test:52:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 293259,
+      "canonical_answer": "4",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 243946,
+      "original_target": "4",
+      "pair_id": "ground:test:52",
+      "partner_canonical_answer": "2",
+      "question": "How many sports balls can you see?",
+      "question_id": "ground:test:52:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 405007,
+      "canonical_answer": "2",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 437231,
+      "original_target": "2",
+      "pair_id": "ground:test:53",
+      "partner_canonical_answer": "4",
+      "question": "How many dogs can you see?",
+      "question_id": "ground:test:53:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 20177,
+      "canonical_answer": "4",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 265677,
+      "original_target": "4",
+      "pair_id": "ground:test:53",
+      "partner_canonical_answer": "2",
+      "question": "How many dogs can you see?",
+      "question_id": "ground:test:53:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 443065,
+      "canonical_answer": "4",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 217760,
+      "original_target": "4",
+      "pair_id": "ground:test:54",
+      "partner_canonical_answer": "3",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:54:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 249506,
+      "canonical_answer": "3",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 305713,
+      "original_target": "3",
+      "pair_id": "ground:test:54",
+      "partner_canonical_answer": "4",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:54:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 76026,
+      "canonical_answer": "1",
+      "condition": "mismatched",
+      "member_index": 0,
+      "original_image_id": 575428,
+      "original_target": "1",
+      "pair_id": "ground:test:55",
+      "partner_canonical_answer": "3",
+      "question": "How many ties can you see?",
+      "question_id": "ground:test:55:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 504248,
+      "canonical_answer": "3",
+      "condition": "mismatched",
+      "member_index": 1,
+      "original_image_id": 513096,
+      "original_target": "3",
+      "pair_id": "ground:test:55",
+      "partner_canonical_answer": "1",
+      "question": "How many ties can you see?",
+      "question_id": "ground:test:55:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 193442,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 219201,
+      "original_target": "2",
+      "pair_id": "ground:test:52",
+      "partner_canonical_answer": "4",
+      "prediction_text": "1",
+      "question": "How many sports balls can you see?",
+      "question_id": "ground:test:52:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.7175451517105103,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 293259,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 243946,
+      "original_target": "4",
+      "pair_id": "ground:test:52",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many sports balls can you see?",
+      "question_id": "ground:test:52:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.039231777191162,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 405007,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 437231,
+      "original_target": "2",
+      "pair_id": "ground:test:53",
+      "partner_canonical_answer": "4",
+      "prediction_text": "3",
+      "question": "How many dogs can you see?",
+      "question_id": "ground:test:53:0",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.4272489547729492,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 20177,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 265677,
+      "original_target": "4",
+      "pair_id": "ground:test:53",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many dogs can you see?",
+      "question_id": "ground:test:53:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.3385820388793945,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 443065,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 217760,
+      "original_target": "4",
+      "pair_id": "ground:test:54",
+      "partner_canonical_answer": "3",
+      "prediction_text": "1",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:54:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.099609375,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 249506,
+      "canonical_answer": "3",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 305713,
+      "original_target": "3",
+      "pair_id": "ground:test:54",
+      "partner_canonical_answer": "4",
+      "prediction_text": "1",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:54:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.4059202671051025,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 76026,
+      "canonical_answer": "1",
+      "canonical_correct": true,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 575428,
+      "original_target": "1",
+      "pair_id": "ground:test:55",
+      "partner_canonical_answer": "3",
+      "prediction_text": "1",
+      "question": "How many ties can you see?",
+      "question_id": "ground:test:55:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.7418932318687439,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 504248,
+      "canonical_answer": "3",
+      "canonical_correct": false,
+      "condition": "mismatched",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.0323918582580518,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 513096,
+      "original_target": "3",
+      "pair_id": "ground:test:55",
+      "partner_canonical_answer": "1",
+      "prediction_text": "2",
+      "question": "How many ties can you see?",
+      "question_id": "ground:test:55:1",
+      "question_type": "counting",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.3733134269714355,
+      "reference_seconds": 0.01740580701152794,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "0ed719582675dedb6f1fa09d28a08c937b98e158d5b5164ceb4ae3beb567c55d"
+}

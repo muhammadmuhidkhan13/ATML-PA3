@@ -1,0 +1,10 @@
+{
+  "adapter_modules_exported": 196,
+  "checkpoint_sha256": "ec24c4d92006a8bc70371d028b0cdb0f1e3dbd50548aba812a22891e80241e5a",
+  "condition": "lora16_final",
+  "factor_export_seconds": 0.004327376002038363,
+  "load_seconds": 2.023199092000141,
+  "measurement_device": "cuda:0",
+  "merge_seconds": 0.024744158996327315,
+  "note": "Factor export and merge measured after model loading; CUDA synchronized."
+}

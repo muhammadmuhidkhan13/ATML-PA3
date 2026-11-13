@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 109797,
+      "caption_id": 340862,
+      "image_id": 109797,
+      "original_target": "A living room with lavishly decorated furniture and a stone fire place.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 416271,
+      "caption_id": 532664,
+      "image_id": 416271,
+      "original_target": "People make their way off a plane towards the airport.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 172843,
+      "caption_id": 44192,
+      "image_id": 172843,
+      "original_target": "An old toilet is re purposed as a planter",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 139971,
+      "caption_id": 752583,
+      "image_id": 139971,
+      "original_target": "The four urinals are mounted on the brick wall. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 195559,
+      "caption_id": 582631,
+      "image_id": 195559,
+      "original_target": "a couple of sandwiches are sitting on a plate",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 494608,
+      "caption_id": 103135,
+      "image_id": 494608,
+      "original_target": "A man and woman take a skiing break.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 479334,
+      "caption_id": 17295,
+      "image_id": 479334,
+      "original_target": "president G. Bush superimposed on a stop sign",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 350961,
+      "caption_id": 417563,
+      "image_id": 350961,
+      "original_target": "The living room has many books on the shelves. ",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 109797,
+      "caption_id": 340862,
+      "image_id": 109797,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A living room with lavishly decorated furniture and a stone fire place.",
+      "question": "Describe this image.",
+      "reference_nll": 2.1751067638397217,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 416271,
+      "caption_id": 532664,
+      "image_id": 416271,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "People make their way off a plane towards the airport.",
+      "question": "Describe this image.",
+      "reference_nll": 2.800184488296509,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 172843,
+      "caption_id": 44192,
+      "image_id": 172843,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "An old toilet is re purposed as a planter",
+      "question": "Describe this image.",
+      "reference_nll": 4.4965314865112305,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 139971,
+      "caption_id": 752583,
+      "image_id": 139971,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "The four urinals are mounted on the brick wall. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.5985352993011475,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 195559,
+      "caption_id": 582631,
+      "image_id": 195559,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "a couple of sandwiches are sitting on a plate",
+      "question": "Describe this image.",
+      "reference_nll": 1.8681615591049194,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 494608,
+      "caption_id": 103135,
+      "image_id": 494608,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A man and woman take a skiing break.",
+      "question": "Describe this image.",
+      "reference_nll": 2.2703919410705566,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 479334,
+      "caption_id": 17295,
+      "image_id": 479334,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "president G. Bush superimposed on a stop sign",
+      "question": "Describe this image.",
+      "reference_nll": 3.9711952209472656,
+      "reference_seconds": 0.032317274999513756
+    },
+    {
+      "actual_image_id": 350961,
+      "caption_id": 417563,
+      "image_id": 350961,
+      "model_identity": {
+        "global_update": 1500,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "The living room has many books on the shelves. ",
+      "question": "Describe this image.",
+      "reference_nll": 1.2830557823181152,
+      "reference_seconds": 0.032317274999513756
+    }
+  ],
+  "spec_id": "8d38ec5da186c08a5745e3fdaa95ba251ce09486c031756553ef511e0f07716a"
+}

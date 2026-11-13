@@ -1,0 +1,1521 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 314729,
+      "original_target": "baseball",
+      "pair_id": "vqa:314729002:370813000",
+      "partner_canonical_answer": "skateboarding",
+      "question": "What's the sport?",
+      "question_id": 314729002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "skateboarding",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 370813,
+      "original_target": "skateboarding",
+      "pair_id": "vqa:314729002:370813000",
+      "partner_canonical_answer": "baseball",
+      "question": "What's the sport?",
+      "question_id": 370813000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "green",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 93068,
+      "original_target": "green",
+      "pair_id": "vqa:76994006:93068002",
+      "partner_canonical_answer": "yellow",
+      "question": "What color are the bananas?",
+      "question_id": 93068002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yellow",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 76994,
+      "original_target": "yellow",
+      "pair_id": "vqa:76994006:93068002",
+      "partner_canonical_answer": "green",
+      "question": "What color are the bananas?",
+      "question_id": 76994006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 512776,
+      "original_target": "baseball",
+      "pair_id": "vqa:377385014:512776000",
+      "partner_canonical_answer": "tennis",
+      "question": "What game is being played?",
+      "question_id": 512776000,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 377385,
+      "original_target": "tennis",
+      "pair_id": "vqa:377385014:512776000",
+      "partner_canonical_answer": "baseball",
+      "question": "What game is being played?",
+      "question_id": 377385014,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 157592,
+      "original_target": "tennis",
+      "pair_id": "vqa:157592005:479953005",
+      "partner_canonical_answer": "soccer",
+      "question": "What sport is this?",
+      "question_id": 157592005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "soccer",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 479953,
+      "original_target": "soccer",
+      "pair_id": "vqa:157592005:479953005",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this?",
+      "question_id": 479953005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        10552,
+        374,
+        3070,
+        59764,
+        3959,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "sport is **basketball**",
+      "original_image_id": 314729,
+      "original_target": "baseball",
+      "pair_id": "vqa:314729002:370813000",
+      "partner_canonical_answer": "skateboarding",
+      "prediction_text": "The sport is **basketball**.",
+      "question": "What's the sport?",
+      "question_id": 314729002,
+      "question_type": "other",
+      "raw_response": "The sport is **basketball**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.1392693519592285,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "skateboarding",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        10552,
+        374,
+        3070,
+        59764,
+        3959,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "sport is **basketball**",
+      "original_image_id": 370813,
+      "original_target": "skateboarding",
+      "pair_id": "vqa:314729002:370813000",
+      "partner_canonical_answer": "baseball",
+      "prediction_text": "The sport is **basketball**.",
+      "question": "What's the sport?",
+      "question_id": 370813000,
+      "question_type": "other",
+      "raw_response": "The sport is **basketball**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.4647514820098877,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "skateboarding",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "green",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        50241,
+        25908,
+        525,
+        11136,
+        13753,
+        13,
+        151645
+      ],
+      "generated_tokens": 7,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "bananas are typically yellow",
+      "original_image_id": 93068,
+      "original_target": "green",
+      "pair_id": "vqa:76994006:93068002",
+      "partner_canonical_answer": "yellow",
+      "prediction_text": "Bananas are typically yellow.",
+      "question": "What color are the bananas?",
+      "question_id": 93068002,
+      "question_type": "other",
+      "raw_response": "Bananas are typically yellow.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.529943466186523,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "green",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "yellow",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        50241,
+        25908,
+        525,
+        11136,
+        13753,
+        13,
+        151645
+      ],
+      "generated_tokens": 7,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "bananas are typically yellow",
+      "original_image_id": 76994,
+      "original_target": "yellow",
+      "pair_id": "vqa:76994006:93068002",
+      "partner_canonical_answer": "green",
+      "prediction_text": "Bananas are typically yellow.",
+      "question": "What color are the bananas?",
+      "question_id": 76994006,
+      "question_type": "other",
+      "raw_response": "Bananas are typically yellow.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.904943466186523,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "yellow",
+          "answer_confidence": "maybe",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        40,
+        1513,
+        944,
+        614,
+        2615,
+        311,
+        1931,
+        7246,
+        1995,
+        911,
+        279,
+        1809,
+        1660,
+        6342,
+        13,
+        16503
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "i don't have access to real time information about game being played could",
+      "original_image_id": 512776,
+      "original_target": "baseball",
+      "pair_id": "vqa:377385014:512776000",
+      "partner_canonical_answer": "tennis",
+      "prediction_text": "I don't have access to real-time information about the game being played. Could",
+      "question": "What game is being played?",
+      "question_id": 512776000,
+      "question_type": "other",
+      "raw_response": "I don't have access to real-time information about the game being played. Could",
+      "reached_token_cap": true,
+      "reference_nll": 7.822251796722412,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "maybe",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        40,
+        1513,
+        944,
+        614,
+        2615,
+        311,
+        1931,
+        7246,
+        1995,
+        911,
+        279,
+        1809,
+        1660,
+        6342,
+        13,
+        16503
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "i don't have access to real time information about game being played could",
+      "original_image_id": 377385,
+      "original_target": "tennis",
+      "pair_id": "vqa:377385014:512776000",
+      "partner_canonical_answer": "baseball",
+      "prediction_text": "I don't have access to real-time information about the game being played. Could",
+      "question": "What game is being played?",
+      "question_id": 377385014,
+      "question_type": "other",
+      "raw_response": "I don't have access to real-time information about the game being played. Could",
+      "reached_token_cap": true,
+      "reference_nll": 10.305203437805176,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        10552,
+        374,
+        3070,
+        59764,
+        3959,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "sport is **basketball**",
+      "original_image_id": 157592,
+      "original_target": "tennis",
+      "pair_id": "vqa:157592005:479953005",
+      "partner_canonical_answer": "soccer",
+      "prediction_text": "The sport is **basketball**.",
+      "question": "What sport is this?",
+      "question_id": 157592005,
+      "question_type": "other",
+      "raw_response": "The sport is **basketball**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.696152210235596,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "soccer",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        10552,
+        374,
+        3070,
+        59764,
+        3959,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13477871238137595,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "sport is **basketball**",
+      "original_image_id": 479953,
+      "original_target": "soccer",
+      "pair_id": "vqa:157592005:479953005",
+      "partner_canonical_answer": "tennis",
+      "prediction_text": "The sport is **basketball**.",
+      "question": "What sport is this?",
+      "question_id": 479953005,
+      "question_type": "other",
+      "raw_response": "The sport is **basketball**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.2236955165863037,
+      "reference_seconds": 0.008977816381957382,
+      "references": [
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "maybe",
+          "answer_id": 4
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "soccer",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

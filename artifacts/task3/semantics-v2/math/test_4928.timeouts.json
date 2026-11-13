@@ -1,0 +1,212 @@
+[
+  {
+    "a": "2^{100}",
+    "b": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "2^{100}",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "2^{100}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5050}",
+    "b": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5050}",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5050}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "1",
+    "b": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "1",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "1",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5050} (2 + \\sqrt{2 + \\sqrt{2}})",
+    "b": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5050} (2 + \\sqrt{2 + \\sqrt{2}})",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5050} (2 + \\sqrt{2 + \\sqrt{2}})",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "a^{5050}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "3^{5100} \\cdot 2^{50}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "a^{3^{101}} - 3a^{3^{100}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "2^{5150}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "a^{3^{100}} - 3a^{3^{99}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "2",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "6^{50} \\cdot 3^{5050}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "3^{2575.5}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{5050}",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{5050}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5100} \\cdot 2^{50}",
+    "b": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "3^{5100} \\cdot 2^{50}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "a^{3^{101}} - 3a^{3^{100}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "2^{5150}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "a^{3^{100}} - 3a^{3^{99}}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "2",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "6^{50} \\cdot 3^{5050}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "3^{2575.5}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{3^{101}} - 3a^{3^{100}}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "2^{5150}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{3^{100}} - 3a^{3^{99}}",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "2",
+    "b": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "op": "equivalent"
+  },
+  {
+    "a": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "b": "6^{50} \\cdot 3^{5050}",
+    "op": "equivalent"
+  },
+  {
+    "a": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "b": "3^{2575.5}",
+    "op": "equivalent"
+  },
+  {
+    "a": "\\left( \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}} \\right)^{\\frac{3^{101} - 3}{2}}",
+    "b": "4096 \\sqrt{2}",
+    "op": "equivalent"
+  },
+  {
+    "a": "a^{100} 2^{\\frac{3^{100} - 1}{2}}",
+    "b": "4096 \\sqrt{2}",
+    "op": "equivalent"
+  },
+  {
+    "a": "(2 + \\sqrt{2 + \\sqrt{2}})^{2525}",
+    "b": "4096 \\sqrt{2}",
+    "op": "equivalent"
+  }
+]

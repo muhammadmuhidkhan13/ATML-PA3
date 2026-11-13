@@ -1,0 +1,367 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 400401,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 400401,
+      "original_target": "yes",
+      "pair_id": "ground:dev:4",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain skis?",
+      "question_id": "ground:dev:4:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 27564,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 27564,
+      "original_target": "no",
+      "pair_id": "ground:dev:4",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain skis?",
+      "question_id": "ground:dev:4:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 43737,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 43737,
+      "original_target": "yes",
+      "pair_id": "ground:dev:5",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:5:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 234697,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 234697,
+      "original_target": "no",
+      "pair_id": "ground:dev:5",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:5:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 58057,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 58057,
+      "original_target": "yes",
+      "pair_id": "ground:dev:6",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:6:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 152749,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 152749,
+      "original_target": "no",
+      "pair_id": "ground:dev:6",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:6:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 105951,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 105951,
+      "original_target": "yes",
+      "pair_id": "ground:dev:7",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain sandwich?",
+      "question_id": "ground:dev:7:0",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 570471,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 570471,
+      "original_target": "no",
+      "pair_id": "ground:dev:7",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain sandwich?",
+      "question_id": "ground:dev:7:1",
+      "question_type": "presence",
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 400401,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 400401,
+      "original_target": "yes",
+      "pair_id": "ground:dev:4",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain skis?",
+      "question_id": "ground:dev:4:0",
+      "question_type": "presence",
+      "reference_nll": 0.0035554072819650173,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 27564,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 27564,
+      "original_target": "no",
+      "pair_id": "ground:dev:4",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain skis?",
+      "question_id": "ground:dev:4:1",
+      "question_type": "presence",
+      "reference_nll": 0.012256661430001259,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 43737,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 43737,
+      "original_target": "yes",
+      "pair_id": "ground:dev:5",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:5:0",
+      "question_type": "presence",
+      "reference_nll": 1.6766802072525024,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 234697,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 234697,
+      "original_target": "no",
+      "pair_id": "ground:dev:5",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:5:1",
+      "question_type": "presence",
+      "reference_nll": 0.6798651218414307,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 58057,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 58057,
+      "original_target": "yes",
+      "pair_id": "ground:dev:6",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:6:0",
+      "question_type": "presence",
+      "reference_nll": 0.007545778527855873,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 152749,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 152749,
+      "original_target": "no",
+      "pair_id": "ground:dev:6",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain car?",
+      "question_id": "ground:dev:6:1",
+      "question_type": "presence",
+      "reference_nll": 0.004003605805337429,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 105951,
+      "canonical_answer": "yes",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 105951,
+      "original_target": "yes",
+      "pair_id": "ground:dev:7",
+      "partner_canonical_answer": "no",
+      "question": "Does this image contain sandwich?",
+      "question_id": "ground:dev:7:0",
+      "question_type": "presence",
+      "reference_nll": 0.036209896206855774,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "yes"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 570471,
+      "canonical_answer": "no",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_image_id": 570471,
+      "original_target": "no",
+      "pair_id": "ground:dev:7",
+      "partner_canonical_answer": "yes",
+      "question": "Does this image contain sandwich?",
+      "question_id": "ground:dev:7:1",
+      "question_type": "presence",
+      "reference_nll": 0.7028963565826416,
+      "reference_seconds": 0.012229998887050897,
+      "references": [
+        {
+          "answer": "no"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "7be6de6bd857944acdbbe04e43310b7252662e4f523b96d71aee82813ff59667"
+}

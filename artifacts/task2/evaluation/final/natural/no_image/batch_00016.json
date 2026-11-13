@@ -1,0 +1,1533 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 222332,
+      "original_target": "tennis",
+      "pair_id": "vqa:102532005:222332002",
+      "partner_canonical_answer": "baseball",
+      "question": "What sport is this?",
+      "question_id": 222332002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 102532,
+      "original_target": "baseball",
+      "pair_id": "vqa:102532005:222332002",
+      "partner_canonical_answer": "tennis",
+      "question": "What sport is this?",
+      "question_id": 102532005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "giraffe",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 502752,
+      "original_target": "giraffe",
+      "pair_id": "vqa:195862005:502752002",
+      "partner_canonical_answer": "horse",
+      "question": "What animal is shown in this picture?",
+      "question_id": 502752002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "horse",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 195862,
+      "original_target": "horse",
+      "pair_id": "vqa:195862005:502752002",
+      "partner_canonical_answer": "giraffe",
+      "question": "What animal is shown in this picture?",
+      "question_id": 195862005,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "trenitalia",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 53606,
+      "original_target": "trenitalia",
+      "pair_id": "vqa:53606002:159260004",
+      "partner_canonical_answer": "metra",
+      "question": "What company name is written on the train's side?",
+      "question_id": 53606002,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "metra",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 159260,
+      "original_target": "metra",
+      "pair_id": "vqa:53606002:159260004",
+      "partner_canonical_answer": "trenitalia",
+      "question": "What company name is written on the train's side?",
+      "question_id": 159260004,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "metro",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "wheelchair",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 269172,
+      "original_target": "wheelchair",
+      "pair_id": "vqa:269172006:507154004",
+      "partner_canonical_answer": "chair",
+      "question": "What is the man sitting on?",
+      "question_id": 269172006,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "chair",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 507154,
+      "original_target": "chair",
+      "pair_id": "vqa:269172006:507154004",
+      "partner_canonical_answer": "wheelchair",
+      "question": "What is the man sitting on?",
+      "question_id": 507154004,
+      "question_type": "other",
+      "references": [
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "suite": "natural"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "tennis",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        10552,
+        374,
+        3070,
+        59764,
+        3959,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "sport is **basketball**",
+      "original_image_id": 222332,
+      "original_target": "tennis",
+      "pair_id": "vqa:102532005:222332002",
+      "partner_canonical_answer": "baseball",
+      "prediction_text": "The sport is **basketball**.",
+      "question": "What sport is this?",
+      "question_id": 222332002,
+      "question_type": "other",
+      "raw_response": "The sport is **basketball**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 5.696152210235596,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "tennis",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "baseball",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        10552,
+        374,
+        3070,
+        59764,
+        3959,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "sport is **basketball**",
+      "original_image_id": 102532,
+      "original_target": "baseball",
+      "pair_id": "vqa:102532005:222332002",
+      "partner_canonical_answer": "tennis",
+      "prediction_text": "The sport is **basketball**.",
+      "question": "What sport is this?",
+      "question_id": 102532005,
+      "question_type": "other",
+      "raw_response": "The sport is **basketball**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.132857084274292,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "baseball",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "giraffe",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        9864,
+        6839,
+        304,
+        279,
+        6802,
+        374,
+        264,
+        3070,
+        78151,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 13,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "animal shown in picture is **lion**",
+      "original_image_id": 502752,
+      "original_target": "giraffe",
+      "pair_id": "vqa:195862005:502752002",
+      "partner_canonical_answer": "horse",
+      "prediction_text": "The animal shown in the picture is a **lion**.",
+      "question": "What animal is shown in this picture?",
+      "question_id": 502752002,
+      "question_type": "other",
+      "raw_response": "The animal shown in the picture is a **lion**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 4.713808536529541,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "giraffe",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "horse",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        9864,
+        6839,
+        304,
+        279,
+        6802,
+        374,
+        264,
+        3070,
+        78151,
+        334,
+        13,
+        151645
+      ],
+      "generated_tokens": 13,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "animal shown in picture is **lion**",
+      "original_image_id": 195862,
+      "original_target": "horse",
+      "pair_id": "vqa:195862005:502752002",
+      "partner_canonical_answer": "giraffe",
+      "prediction_text": "The animal shown in the picture is a **lion**.",
+      "question": "What animal is shown in this picture?",
+      "question_id": 195862005,
+      "question_type": "other",
+      "raw_response": "The animal shown in the picture is a **lion**.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 11.242151260375977,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "horse",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "trenitalia",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        2813,
+        829,
+        389,
+        279,
+        5426,
+        594,
+        3108,
+        374,
+        3070,
+        1,
+        51,
+        7184,
+        1,
+        334,
+        13
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "company name on train's side is ** taxis **",
+      "original_image_id": 53606,
+      "original_target": "trenitalia",
+      "pair_id": "vqa:53606002:159260004",
+      "partner_canonical_answer": "metra",
+      "prediction_text": "The company name on the train's side is **\"Taxis\"**.",
+      "question": "What company name is written on the train's side?",
+      "question_id": 53606002,
+      "question_type": "other",
+      "raw_response": "The company name on the train's side is **\"Taxis\"**.",
+      "reached_token_cap": true,
+      "reference_nll": 6.063549995422363,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "trenitalia",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "metra",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        2813,
+        829,
+        389,
+        279,
+        5426,
+        594,
+        3108,
+        374,
+        3070,
+        1,
+        51,
+        7184,
+        1,
+        334,
+        13
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "company name on train's side is ** taxis **",
+      "original_image_id": 159260,
+      "original_target": "metra",
+      "pair_id": "vqa:53606002:159260004",
+      "partner_canonical_answer": "trenitalia",
+      "prediction_text": "The company name on the train's side is **\"Taxis\"**.",
+      "question": "What company name is written on the train's side?",
+      "question_id": 159260004,
+      "question_type": "other",
+      "raw_response": "The company name on the train's side is **\"Taxis\"**.",
+      "reached_token_cap": true,
+      "reference_nll": 8.901775360107422,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "metro",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "metra",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "wheelchair",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        883,
+        374,
+        11699,
+        389,
+        264,
+        10496,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "man is sitting on chair",
+      "original_image_id": 269172,
+      "original_target": "wheelchair",
+      "pair_id": "vqa:269172006:507154004",
+      "partner_canonical_answer": "chair",
+      "prediction_text": "The man is sitting on a chair.",
+      "question": "What is the man sitting on?",
+      "question_id": 269172006,
+      "question_type": "other",
+      "raw_response": "The man is sitting on a chair.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 8.52883529663086,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "wheelchair",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "chair",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        883,
+        374,
+        11699,
+        389,
+        264,
+        10496,
+        13,
+        151645
+      ],
+      "generated_tokens": 9,
+      "generation_seconds": 0.13463326773489825,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "man is sitting on chair",
+      "original_image_id": 507154,
+      "original_target": "chair",
+      "pair_id": "vqa:269172006:507154004",
+      "partner_canonical_answer": "wheelchair",
+      "prediction_text": "The man is sitting on a chair.",
+      "question": "What is the man sitting on?",
+      "question_id": 507154004,
+      "question_type": "other",
+      "raw_response": "The man is sitting on a chair.<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 10.447331428527832,
+      "reference_seconds": 0.008856571890646592,
+      "references": [
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "maybe",
+          "answer_id": 5
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 6
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "maybe",
+          "answer_id": 9
+        },
+        {
+          "answer": "chair",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "score": 0.0,
+      "suite": "natural"
+    }
+  ],
+  "spec_id": "28559690f33f8deb7d93b7b795603b16c4dce7ccfd2245033e5a7f8b8e77e283"
+}

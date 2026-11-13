@@ -1,0 +1,35 @@
+{
+  "all_artifact_hashes_verified": true,
+  "all_pair_constraints_verified": true,
+  "captions_dev_examples": 96,
+  "captions_train_examples": 18000,
+  "cross_suite_image_isolation": true,
+  "grounding_dev_pairs": 24,
+  "grounding_pool_categories": 80,
+  "grounding_test_pairs": 64,
+  "split_unique_images": {
+    "dev": 208,
+    "test": 320,
+    "train": 6000
+  },
+  "status": "passed",
+  "unique_images": 6528,
+  "vqa_dev_categories": {
+    "number": 8,
+    "other": 12,
+    "yes/no": 12
+  },
+  "vqa_dev_pairs": 32,
+  "vqa_test_categories": {
+    "number": 24,
+    "other": 36,
+    "yes/no": 36
+  },
+  "vqa_test_pairs": 96,
+  "vqa_train_categories": {
+    "number": 256,
+    "other": 640,
+    "yes/no": 640
+  },
+  "vqa_train_pairs": 1536
+}

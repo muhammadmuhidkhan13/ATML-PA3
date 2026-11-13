@@ -1,0 +1,27 @@
+{
+  "caption_reference_loss": 2.53504919881622,
+  "complete": true,
+  "model_identity": {
+    "global_update": 3000,
+    "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+    "stage": 2
+  },
+  "suites": {
+    "grounding": {
+      "reference_nll": {
+        "complementary": 2.531034603714943,
+        "correct": 0.7566205510277845,
+        "no_image": 6.009032065669696
+      },
+      "swap_penalty": 1.7744140526871583
+    },
+    "natural": {
+      "reference_nll": {
+        "complementary": 2.501961190951988,
+        "correct": 1.7210857419704553,
+        "no_image": 8.925773337483406
+      },
+      "swap_penalty": 0.7808754489815328
+    }
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 283520,
+      "original_target": "2",
+      "pair_id": "ground:test:32",
+      "partner_canonical_answer": "3",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:test:32:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "3",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 220367,
+      "original_target": "3",
+      "pair_id": "ground:test:32",
+      "partner_canonical_answer": "2",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:test:32:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "4",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 83573,
+      "original_target": "4",
+      "pair_id": "ground:test:33",
+      "partner_canonical_answer": "2",
+      "question": "How many skis can you see?",
+      "question_id": "ground:test:33:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 443065,
+      "original_target": "2",
+      "pair_id": "ground:test:33",
+      "partner_canonical_answer": "4",
+      "question": "How many skis can you see?",
+      "question_id": "ground:test:33:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 325328,
+      "original_target": "2",
+      "pair_id": "ground:test:34",
+      "partner_canonical_answer": "4",
+      "question": "How many wine glasses can you see?",
+      "question_id": "ground:test:34:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "4",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 118811,
+      "original_target": "4",
+      "pair_id": "ground:test:34",
+      "partner_canonical_answer": "2",
+      "question": "How many wine glasses can you see?",
+      "question_id": "ground:test:34:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "4",
+      "condition": "no_image",
+      "member_index": 0,
+      "original_image_id": 278570,
+      "original_target": "4",
+      "pair_id": "ground:test:35",
+      "partner_canonical_answer": "2",
+      "question": "How many fire hydrants can you see?",
+      "question_id": "ground:test:35:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "condition": "no_image",
+      "member_index": 1,
+      "original_image_id": 306893,
+      "original_target": "2",
+      "pair_id": "ground:test:35",
+      "partner_canonical_answer": "4",
+      "question": "How many fire hydrants can you see?",
+      "question_id": "ground:test:35:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2132,
+        13798,
+        389,
+        279,
+        2266,
+        13,
+        758,
+        1045,
+        37597,
+        11,
+        1075,
+        304,
+        264,
+        24017,
+        476,
+        264
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "it depends on context in some contexts like in classroom or",
+      "original_image_id": 283520,
+      "original_target": "2",
+      "pair_id": "ground:test:32",
+      "partner_canonical_answer": "3",
+      "prediction_text": "It depends on the context. In some contexts, like in a classroom or a",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:test:32:0",
+      "question_type": "counting",
+      "raw_response": "It depends on the context. In some contexts, like in a classroom or a",
+      "reached_token_cap": true,
+      "reference_nll": 2.9302003383636475,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "3",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        2132,
+        13798,
+        389,
+        279,
+        2266,
+        13,
+        758,
+        1045,
+        37597,
+        11,
+        1075,
+        304,
+        264,
+        24017,
+        476,
+        264
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "it depends on context in some contexts like in classroom or",
+      "original_image_id": 220367,
+      "original_target": "3",
+      "pair_id": "ground:test:32",
+      "partner_canonical_answer": "2",
+      "prediction_text": "It depends on the context. In some contexts, like in a classroom or a",
+      "question": "How many frisbees can you see?",
+      "question_id": "ground:test:32:1",
+      "question_type": "counting",
+      "raw_response": "It depends on the context. In some contexts, like in a classroom or a",
+      "reached_token_cap": true,
+      "reference_nll": 3.4458253383636475,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 83573,
+      "original_target": "4",
+      "pair_id": "ground:test:33",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many skis can you see?",
+      "question_id": "ground:test:33:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 2.7861034870147705,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 443065,
+      "original_target": "2",
+      "pair_id": "ground:test:33",
+      "partner_canonical_answer": "4",
+      "prediction_text": "1",
+      "question": "How many skis can you see?",
+      "question_id": "ground:test:33:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.9423534870147705,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 325328,
+      "original_target": "2",
+      "pair_id": "ground:test:34",
+      "partner_canonical_answer": "4",
+      "prediction_text": "1",
+      "question": "How many wine glasses can you see?",
+      "question_id": "ground:test:34:0",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.0375492572784424,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 118811,
+      "original_target": "4",
+      "pair_id": "ground:test:34",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many wine glasses can you see?",
+      "question_id": "ground:test:34:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 3.3500492572784424,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1372,
+        315,
+        3940,
+        44605,
+        1783,
+        9434,
+        13798,
+        389,
+        279,
+        3151,
+        3728,
+        11,
+        279,
+        943,
+        315
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "number of fire hydrants visible depends on specific location type of",
+      "original_image_id": 278570,
+      "original_target": "4",
+      "pair_id": "ground:test:35",
+      "partner_canonical_answer": "2",
+      "prediction_text": "The number of fire hydrants visible depends on the specific location, the type of",
+      "question": "How many fire hydrants can you see?",
+      "question_id": "ground:test:35:0",
+      "question_type": "counting",
+      "raw_response": "The number of fire hydrants visible depends on the specific location, the type of",
+      "reached_token_cap": true,
+      "reference_nll": 4.499673843383789,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": null,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "no_image",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        785,
+        1372,
+        315,
+        3940,
+        44605,
+        1783,
+        9434,
+        13798,
+        389,
+        279,
+        3151,
+        3728,
+        11,
+        279,
+        943,
+        315
+      ],
+      "generated_tokens": 16,
+      "generation_seconds": 0.12574683624552563,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "number of fire hydrants visible depends on specific location type of",
+      "original_image_id": 306893,
+      "original_target": "2",
+      "pair_id": "ground:test:35",
+      "partner_canonical_answer": "4",
+      "prediction_text": "The number of fire hydrants visible depends on the specific location, the type of",
+      "question": "How many fire hydrants can you see?",
+      "question_id": "ground:test:35:1",
+      "question_type": "counting",
+      "raw_response": "The number of fire hydrants visible depends on the specific location, the type of",
+      "reached_token_cap": true,
+      "reference_nll": 4.046548843383789,
+      "reference_seconds": 0.00847646064357832,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "277091069a3348fbf32d70aacabba6a81fa689e7cfb154536cf2abb39ac0797a"
+}

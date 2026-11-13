@@ -1,0 +1,367 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 121210,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 121210,
+      "original_target": "3",
+      "pair_id": "ground:dev:20",
+      "partner_canonical_answer": "1",
+      "question": "How many carrots can you see?",
+      "question_id": "ground:dev:20:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 251537,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 251537,
+      "original_target": "1",
+      "pair_id": "ground:dev:20",
+      "partner_canonical_answer": "3",
+      "question": "How many carrots can you see?",
+      "question_id": "ground:dev:20:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 195211,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 195211,
+      "original_target": "2",
+      "pair_id": "ground:dev:21",
+      "partner_canonical_answer": "3",
+      "question": "How many remotes can you see?",
+      "question_id": "ground:dev:21:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 299640,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 299640,
+      "original_target": "3",
+      "pair_id": "ground:dev:21",
+      "partner_canonical_answer": "2",
+      "question": "How many remotes can you see?",
+      "question_id": "ground:dev:21:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 91520,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 91520,
+      "original_target": "2",
+      "pair_id": "ground:dev:22",
+      "partner_canonical_answer": "4",
+      "question": "How many giraffes can you see?",
+      "question_id": "ground:dev:22:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 389721,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 389721,
+      "original_target": "4",
+      "pair_id": "ground:dev:22",
+      "partner_canonical_answer": "2",
+      "question": "How many giraffes can you see?",
+      "question_id": "ground:dev:22:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 287387,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 287387,
+      "original_target": "1",
+      "pair_id": "ground:dev:23",
+      "partner_canonical_answer": "2",
+      "question": "How many teddy bears can you see?",
+      "question_id": "ground:dev:23:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 132992,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 132992,
+      "original_target": "2",
+      "pair_id": "ground:dev:23",
+      "partner_canonical_answer": "1",
+      "question": "How many teddy bears can you see?",
+      "question_id": "ground:dev:23:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 121210,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 121210,
+      "original_target": "3",
+      "pair_id": "ground:dev:20",
+      "partner_canonical_answer": "1",
+      "question": "How many carrots can you see?",
+      "question_id": "ground:dev:20:0",
+      "question_type": "counting",
+      "reference_nll": 1.32013738155365,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 251537,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 251537,
+      "original_target": "1",
+      "pair_id": "ground:dev:20",
+      "partner_canonical_answer": "3",
+      "question": "How many carrots can you see?",
+      "question_id": "ground:dev:20:1",
+      "question_type": "counting",
+      "reference_nll": 1.594440221786499,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 195211,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 195211,
+      "original_target": "2",
+      "pair_id": "ground:dev:21",
+      "partner_canonical_answer": "3",
+      "question": "How many remotes can you see?",
+      "question_id": "ground:dev:21:0",
+      "question_type": "counting",
+      "reference_nll": 1.2426080703735352,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 299640,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 299640,
+      "original_target": "3",
+      "pair_id": "ground:dev:21",
+      "partner_canonical_answer": "2",
+      "question": "How many remotes can you see?",
+      "question_id": "ground:dev:21:1",
+      "question_type": "counting",
+      "reference_nll": 0.7193443775177002,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 91520,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 91520,
+      "original_target": "2",
+      "pair_id": "ground:dev:22",
+      "partner_canonical_answer": "4",
+      "question": "How many giraffes can you see?",
+      "question_id": "ground:dev:22:0",
+      "question_type": "counting",
+      "reference_nll": 0.7118401527404785,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 389721,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 389721,
+      "original_target": "4",
+      "pair_id": "ground:dev:22",
+      "partner_canonical_answer": "2",
+      "question": "How many giraffes can you see?",
+      "question_id": "ground:dev:22:1",
+      "question_type": "counting",
+      "reference_nll": 1.7108590602874756,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 287387,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 0,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 287387,
+      "original_target": "1",
+      "pair_id": "ground:dev:23",
+      "partner_canonical_answer": "2",
+      "question": "How many teddy bears can you see?",
+      "question_id": "ground:dev:23:0",
+      "question_type": "counting",
+      "reference_nll": 0.12833206355571747,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 132992,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 1,
+      "model_identity": {
+        "global_update": 4000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 3
+      },
+      "original_image_id": 132992,
+      "original_target": "2",
+      "pair_id": "ground:dev:23",
+      "partner_canonical_answer": "1",
+      "question": "How many teddy bears can you see?",
+      "question_id": "ground:dev:23:1",
+      "question_type": "counting",
+      "reference_nll": 0.17297837138175964,
+      "reference_seconds": 0.016398038365878165,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "06f87363179b929f57d768af74e05045790a06ee1e3a398820893f4968f04e64"
+}

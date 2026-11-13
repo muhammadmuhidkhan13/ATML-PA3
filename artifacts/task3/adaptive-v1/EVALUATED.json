@@ -1,0 +1,7 @@
+{
+  "frozen_config_sha256": "ae1f6c99f0a81a377586e273bce0753b0d8e3eb06a754a761dfadf6aa29d089a",
+  "manifests": {
+    "math": "e0c3cc6f05054c2d012a48f0d553dc2ed057b035a600ab474c6c93576a7c06b2",
+    "mathvista": "d81630d9706ccfe4d42e18bb7c81b9e19e72abc42264e7e983909f084a8a1690"
+  }
+}

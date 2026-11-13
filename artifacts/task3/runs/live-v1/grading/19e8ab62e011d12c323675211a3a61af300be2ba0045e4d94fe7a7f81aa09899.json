@@ -1,0 +1,90 @@
+{
+  "semantics": {
+    "correct": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "equivalent": [
+      [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      [
+        false,
+        true,
+        false,
+        false,
+        true
+      ],
+      [
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      [
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      [
+        false,
+        true,
+        false,
+        false,
+        true
+      ]
+    ],
+    "missing": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "normalized": [
+      "\\frac{3 + \\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3 - \\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3 + \\sqrt{13 + 4\\sqrt{3}}}{2}, \\frac{3 - \\sqrt{13 + 4\\sqrt{3}}}{2}",
+      "0",
+      "0 \\text{ and } 4",
+      "2 + \\sqrt{2}, 2 - \\sqrt{2}",
+      "0"
+    ],
+    "operation_timeouts": [],
+    "parsed": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "sha256": "fe6df3d89b13e79c82a5f952484a1e15a71f95c03706d1441d709fad8f08751b",
+  "source": {
+    "call_order": [
+      "longer",
+      "parallel0",
+      "parallel1",
+      "parallel2",
+      "revision"
+    ],
+    "calls": {
+      "longer": "f0e20df706d8451c3456a520dbf6e28adfe35e930e951776309aea312222b678",
+      "parallel0": "0c25caa442d445e5effe1451b1d82d587ce47c9fc1b15ed1bd296e7b92f9f765",
+      "parallel1": "1f8359e8d33b296860312724735133697463f6d3b0f43eb71f8a337412676a28",
+      "parallel2": "db7b833c1f5437dff05ee3461c3291bfccbe1cfbb8b30d1d9852a336ab996dd7",
+      "revision": "dded239ef7391db6378caed091e1b1f9a8adf2af2b441a3141e8336c9406b278"
+    },
+    "config_id": "18867619bfdbc737e2a4df87e80d49edc50227dc27405a3faf0250cc471c6687",
+    "gold": "1+\\sqrt 2,\\ 1-\\sqrt 2,\\ 2+\\sqrt 3,\\ 2-\\sqrt 3",
+    "sample_id": "test:2948"
+  }
+}

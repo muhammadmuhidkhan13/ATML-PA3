@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 325736,
+      "caption_id": 355856,
+      "image_id": 325736,
+      "original_target": "A person skiing and somersaulting on snow clad mountains.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 338472,
+      "caption_id": 736067,
+      "image_id": 338472,
+      "original_target": "a close up of a bowl of fruits ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 512902,
+      "caption_id": 368130,
+      "image_id": 512902,
+      "original_target": "The bride and groom are smiling as they pose together.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 304484,
+      "caption_id": 53752,
+      "image_id": 304484,
+      "original_target": "A small grandfather clock, a sideboard and a dining room table.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 202622,
+      "caption_id": 216278,
+      "image_id": 202622,
+      "original_target": "A view of a building with a clock towering into the sky.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 64334,
+      "caption_id": 128935,
+      "image_id": 64334,
+      "original_target": "a person at a wooden booth in the middle of a group of people",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 363036,
+      "caption_id": 750972,
+      "image_id": 363036,
+      "original_target": "A woman sitting beside a white frosted cake. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 361571,
+      "caption_id": 315732,
+      "image_id": 361571,
+      "original_target": "The large dog is wearing a human's cap on it's head.",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 325736,
+      "caption_id": 355856,
+      "image_id": 325736,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A person skiing and somersaulting on snow clad mountains.",
+      "question": "Describe this image.",
+      "reference_nll": 2.6305923461914062,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 338472,
+      "caption_id": 736067,
+      "image_id": 338472,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "a close up of a bowl of fruits ",
+      "question": "Describe this image.",
+      "reference_nll": 2.5592501163482666,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 512902,
+      "caption_id": 368130,
+      "image_id": 512902,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "The bride and groom are smiling as they pose together.",
+      "question": "Describe this image.",
+      "reference_nll": 1.897587776184082,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 304484,
+      "caption_id": 53752,
+      "image_id": 304484,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A small grandfather clock, a sideboard and a dining room table.",
+      "question": "Describe this image.",
+      "reference_nll": 2.9614131450653076,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 202622,
+      "caption_id": 216278,
+      "image_id": 202622,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A view of a building with a clock towering into the sky.",
+      "question": "Describe this image.",
+      "reference_nll": 1.9559075832366943,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 64334,
+      "caption_id": 128935,
+      "image_id": 64334,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "a person at a wooden booth in the middle of a group of people",
+      "question": "Describe this image.",
+      "reference_nll": 2.3766753673553467,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 363036,
+      "caption_id": 750972,
+      "image_id": 363036,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "A woman sitting beside a white frosted cake. ",
+      "question": "Describe this image.",
+      "reference_nll": 1.934688687324524,
+      "reference_seconds": 0.02408313352498226
+    },
+    {
+      "actual_image_id": 361571,
+      "caption_id": 315732,
+      "image_id": 361571,
+      "model_identity": {
+        "global_update": 3000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 2
+      },
+      "original_target": "The large dog is wearing a human's cap on it's head.",
+      "question": "Describe this image.",
+      "reference_nll": 2.9690775871276855,
+      "reference_seconds": 0.02408313352498226
+    }
+  ],
+  "spec_id": "24725920d3824a1b0d957b25ae98d5c5aa5a30a179954cb975af0a76b327123b"
+}

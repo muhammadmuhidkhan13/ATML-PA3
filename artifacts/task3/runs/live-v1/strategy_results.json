@@ -1,0 +1,5808 @@
+{
+  "config_id": "18867619bfdbc737e2a4df87e80d49edc50227dc27405a3faf0250cc471c6687",
+  "grading_files": {
+    "00a92547fd7e90e29102cba82ba5cae337fa548a0d471e2da3395202699de330.json": "bfc54a7bfb111a9724fc8b8f147af4a30c4bf178177e2361bb4736849ba5fa18",
+    "011506427d22fb0f332f44eb79b81660c463af7520bc719e2578e0ba3eb50954.json": "6dec805381d71bd8c71351d3776485fac3c34048303887f0692c90162baa8b07",
+    "04ababbe01c88a214894e7a1a9ae388ebd279ad2868743d61303795d38bcb38f.json": "0c6e8330c9e531e29a9f8eb6b2e560344bdaf773d5d72aebf99bd98b934ff099",
+    "0c553b1aa451af63d3c7946da7d94fa3dfcee6eeb218e1d19889d7028eb9803e.json": "884923527858529f105b1fdebd7e6abb77f8a566eea9ab4c3216216fa2c79b9b",
+    "19e8ab62e011d12c323675211a3a61af300be2ba0045e4d94fe7a7f81aa09899.json": "81146c119add5f5ead23fdab348e4557f20856eb7bd529fd070f692d93c4a4b9",
+    "1b7a6c1e27190cb5fb7417412fc228bd32a0acbe6341ca927bdcf30a06444661.json": "c659d8908f01dce130459c457a1f17e255785b0dcebc6a11db5db67053dbff9f",
+    "23949a6c988a5d67b2e865afbb936c2c7664756f9579994b91f8e14215a5cc23.json": "6480ffa3dd324b0e16b330861e9fdac363b367a9a50a9dd3f73389a81debf08a",
+    "249b85ab965b4ec55891d3fbd670435d1b7d1011291d2c3d76bb58dc44413f77.json": "94f3f86a9db8fad1cd60c9693a91cfa0a5937fba86482b07299b653817c0d11d",
+    "26c461865a505727a80ba161267723acee2c05cc61833ed43887283188eba0dc.json": "f012ed1a6ad5e50080788b4fad65dc7d57b9dcb423948434b7cc25787fc77536",
+    "29ea7b336e260bf56dab20815dca5a2954ad057824f53482e420f8957093cf20.json": "aa293e12c9ebcb71772bd26f0de6de3fd3f6638290018681593833ae4f448525",
+    "2cfea825f15219609f2c141d728924ec0290e6a71d4a84ca59ae51dcfc1391c1.json": "7e170649c61cbca0d862ad3e87619061edd6d9ca76a051b72ae41f39bdb52cfd",
+    "33037994235805976fa4329854bb2c7a058c9fa9a5deaed89317e7ef7860a762.json": "63e5d3188a9240069f65727ff3dbb5bcc50b792fcc6130dc057b7ad8611b1310",
+    "37c5f182525e1e62a7b3277133287e577bd29c5a769e86a4aebd8674fbf7a827.json": "2b85fff4e8b240b09981b6dc7e4e2bacb15f14770bed1b706ba4a3f3ede26556",
+    "39048b836607cd2286e7e474352d10a88d5bddacba10d42b286ed45cd55d2ab8.json": "8768b7a7581ed056367eef47e9efc98248f7ee84ef447e127548c4b0fc40acec",
+    "39fd49cf60bbe3cb7c76091723be6589d303d87047a5f2ae50c0a74d01d5d86d.json": "589dc881d369e470d088ce9c529259435e0849753dd03554eda8ca947f049499",
+    "43051827ff4d5379aaead824ebe84da6798a8e235f766fd3f2eff742ba33332a.json": "82d44381dfb13a69f793a1248f936eaf1990fd3196b06cadca46ca31d4c87cea",
+    "448900b8825b0556a8f9103512517404e3077dc7bef2a61191697e03819a8855.json": "ec1a8382005ee7ab55c19d38be9f28a53d8d647859a421ed7779c2f008674aed",
+    "47b9ae29a4d11fa6de889617f625ff52245a4ad0b088bb25d2345d2b428d8c69.json": "d7e04910abc7c3b2645ba78eff9ccc84687662cc93a07b5140250225a28456b4",
+    "517991572717020940f89afde250ad7169753026535579faaca0f1466c94055a.json": "a269bcad5d7148dc74d5314a15eabe8218d235fd48e4875cd09fb3c05746d25e",
+    "534e048ce4205dac5ed838725ac136aa507b7205df7a403726c57d570212fd8c.json": "436c983240fec2a577cc43f444989eb8441e6f82b98c6998ae8c07f32f5de2ef",
+    "5b05d9de8cd65d71f3ddf1f99e90a21b12987560d35fc85953e5d7acfd67cf26.json": "76712af6846dd4a703f2636473aaa05ba0aa4b7cdd84db7ad90b7e51db8cb0c3",
+    "620d652eec50f574e794f33af3316fb143c61fa759c0f665ad6a6b54323035fa.json": "a5e6c39045a0ae94ee95d3e336b803068d2217b03a4de6c42dcdc37f3686358d",
+    "636603c8b17de1b44ae8b9f721fc0d40e134178954c4d6a5f5f6f290b3baf288.json": "18756aba97979f3f74296bb8af50cb51d801778cdb1ab34cff1894d072e25837",
+    "6422ff495cf996b845fa79380fd6826d44c2f1de76f97a261f8fbd17d82c07be.json": "521fdaba1db0bc3811bf567880f76e09e20c4153a4e9dc82f1f986ed0fb7fe0c",
+    "65e29ecfae4e18e58d7cb630f08796dbe90c618e6b6e786374843b160c69c3ce.json": "9641612cd889b2440bf3cc20bdf2c8c5e04bb8093de5a7ece07419f0f1567ebd",
+    "6f8073d474c0a18261f03309f8cb54c196d96796f2caab0d4c6f948a6120a864.json": "d36d110b3b9194ddf20f5f925e93559d8af93bf391f1a8711a15e17e4edc69f2",
+    "77a8dbdf348999d522666e7642df834f88c4d0f8bdfef6b0b7b71051d899646a.json": "b80424837556802e65a3efd177b5e515e4964bb633797ea593f5e011eaf692b6",
+    "787cc0ffc70700424208ba27b1c72151ae7248114aecf8bc9040c0589678b3de.json": "4b56d16afc894ab3919ced1aebd025f67ef23ee52a467fb5630bfb60759414bd",
+    "797f885df95a889dbb1c6e4a469a2b2c1fe41aaa5fbff08157292943e72e3611.json": "4cbbb582605d4975120da407ccd32d4e99917024955be62657674ced1da1f3f1",
+    "7b596737c5a4756a9d1c61a051e92350ab1274c081b991af1bc72fbe4812645f.json": "dea55be499abcd3645244dad7825c5cb90591952ab372e3c9438a437e4e3a024",
+    "7f6b9ed0addc3a34bc4e8dd9555b77affd456dbdf5a028beeab91a8102cc90e7.json": "b7ee36c4e267eee2c365a283b6b739d6ef10ca8c45a37066e2d5f16412a838ba",
+    "8f185b449abb2d64033b52e99b05b3c9bb41ae38d1596801bffc885d68e666cb.json": "5eb7a6312da8f4154dda64ec64742fcb60c29ae8142e556d1031e90cc4dc544c",
+    "8f7bc61dc4dca155fbb1ef990ccfec1881b5302d13456b879719ce46faa2f7c0.json": "bf47470a122ffaac822555ea496a1083c27524e8a08a6f6b9a04447a6054503d",
+    "968ca4a72058f3a66a4baaafe8165537299f26dd4030b49e4307462f2437f8fa.json": "b6cc99f80e9d3eb111d90c0bd26a6693c3e212c0f723ae5edb42b751227e08a4",
+    "97447ddac90155e6d22553a0748d1724b5fb0de99ce30446c277a084bab75506.json": "8ea1afda1e09cc29afa671710f31c8af777dca4fb8ce8da462e57666c543fc68",
+    "98606b0028af8f865f1ee9041d00b5512338ef10eeb2d97b032f3c3ef6a5bef5.json": "1839544a13727925ad772907536921e42077a92b403960f9030f92360f066231",
+    "9b776980379de2824516b718b952ce987c0694476903b27c4c53397ec9a1f381.json": "46beb2350e640a36f5b0e3824ab28493646a21d7be6fd368a718b6dcb3c7eb26",
+    "a6c0c550a9f00f642730aee22402d1504b0dab5f711105e5e85bd74b0e7a212a.json": "fc51405136ad233780fee88ba1e246c05bc36a725499921b422c0a97586acf37",
+    "a7202e31a58fe5525883e68ab515f9b196fbe70c0e2251c87d6da89746398255.json": "509c49b9c270e6e187220a4c49a17ab55b68777cf5f23e2a9cfc083acbc940ec",
+    "a83f318787543fb10a6c159efa0c2db48fa3333952ddab173b1e4a7ddddcd00a.json": "34d99323cbcd3727a3e6b284b2ecf587e5376081bb53b3063e62b6e9b4cd6ecd",
+    "b57f17d46c7195a1cd62fb30e4a52b09fa82c67d4c61becc2a98e44077104575.json": "6893dafc4b21376f53f642173e684171836da3c896cc19d99b41eafa27fddadd",
+    "b674cf96c8543f0f65465293cacdebb1bd0dd2e9b8250550f725f48ed743fb52.json": "d62c59c5bd8e8c60c3e887b270f7b7619d8607fd8ba66c457162f749c028d1a4",
+    "bd648ec62650f05cb31a3daaec4a823e83263dbec2370e365ff2d12a1d03fe34.json": "f887d10606e2ad3a2a9869f6248e26c7b435aa459b93dd22318ea7b1ae0e5683",
+    "c09c28fd670f4cc41c4221e21ae9571accd382c50ab28e2811ecd2619be033fc.json": "3022318b24837cf015acbec3b8ba5c9d1a368e914bbd8cc61e2d5e3246c0c1a9",
+    "c72b83830da4364cd715d5b486a03d8f1c059f4c64ea00feb66b57af28c7e9e7.json": "4ec2a0b7877ec0e9537ee649b0de95978c38d91a3529b9b4889cac76d0110cf5",
+    "dcfbe65d9945f810fccc5f4683aca892b1a3e345b47947e7bfbfedc31c970d86.json": "7e02d0213c4258808e42832af032d2a27205429e5b7c47e05f73254c46ba2940",
+    "e48b308168cbe5a596ed8af1b04892c2328a157a7bbc63d058472e0f586ec87b.json": "90a20077086deee98c6197d84d269f1f839941a443f6760f040af84b05fbcf54",
+    "ec46f2f9f5a795cab8a98f60c7abf86156aa100067edaacb6cf8a754cf9105de.json": "3c569925f6797c8871cdd13652f607cfe58ada0f289c2e66b9bc640d917128cf",
+    "ef2dd9ff53f0b846730d4e6e095009c8729566f579584870e958bd1c0c59cecd.json": "4d0588df0ec9d5a62449d5e2abf9787bec0292cb1f565613f0b16880dbbd2171",
+    "f21efac20d86eecba872dce154617b4acc17f2e1b781d58f01694d42472a4ed5.json": "d2c685f3073d1fa9b70f912c8843603c609e8fe5412ce295e7e004d208a082f8"
+  },
+  "kind": "real controlled FP16 generation; not instructor offline rollouts",
+  "rows": [
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "14"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "11abc7b44a6a7690e52b98606f429946276a28c6e8ff13095525a0be553940c5"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 22.82797160098562,
+      "input_tokens": 106,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 438,
+      "peak_allocated_bytes": 6321858560,
+      "peak_reserved_bytes": 6488588288,
+      "sample_id": "test:943",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "14",
+        "14",
+        "14"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "dedce7146e143aff43fd832086b1ff389467df1d23471625cb1eec09ade9432d",
+        "parallel1": "6dd0c06957c79e5b8df09384dd69e79d033346340dd342a29997abd77bb47576",
+        "parallel2": "1f895965819f8b3c758a935ed5039b020ba7b1c34cb9e427b7047a5996b0ea81"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 60.31464394700015,
+      "input_tokens": 318,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1181,
+      "peak_allocated_bytes": 6321010688,
+      "peak_reserved_bytes": 6488588288,
+      "sample_id": "test:943",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "14",
+        "14"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "dedce7146e143aff43fd832086b1ff389467df1d23471625cb1eec09ade9432d",
+        "revision": "f987ea92482e126157aaac5fba0b685ee39e78fd36f9e55f89401f6ff6235c6f"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 34.88556992501253,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 630,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 680,
+      "peak_allocated_bytes": 6359976960,
+      "peak_reserved_bytes": 6530531328,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:943",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "-1"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "551e3e71f7ba3ed1df5a7a7041e1aace95c5f85a3fd95e287d7d1be660d775c5"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 29.564803088956978,
+      "input_tokens": 71,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 592,
+      "peak_allocated_bytes": 6326247424,
+      "peak_reserved_bytes": 6530531328,
+      "sample_id": "test:2688",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "-1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "NO_ANSWER",
+        "group:1"
+      ],
+      "answers": [
+        "-1",
+        null,
+        "-1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "4303e8cc311b51a0358d935bd39d63f7c2b772e33f364171d4d128a88ab5fd81",
+        "parallel1": "019058f0bafed791889c6982b998000ad69e2a88adcac97cd878fff903281973",
+        "parallel2": "ca48ad1e3469b7e07576f9540ba684a7474d941fd66df3fa1a1fb352399e3ec8"
+      },
+      "call_truncations": 1,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 113.29791769303847,
+      "input_tokens": 213,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2217,
+      "peak_allocated_bytes": 6342179840,
+      "peak_reserved_bytes": 6543114240,
+      "sample_id": "test:2688",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "-1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "-1",
+        "-1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "4303e8cc311b51a0358d935bd39d63f7c2b772e33f364171d4d128a88ab5fd81",
+        "revision": "c47b7971e097ca2ede0d09311a3f34093d7dba4986e19e952351a8a9d384a9cd"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 51.284641366044525,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 709,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1004,
+      "peak_allocated_bytes": 6372530176,
+      "peak_reserved_bytes": 6589251584,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2688",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "-1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "168"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "b0d7ab26b3e2202d1de05ccf6df9cdb7e46f99c57e0c62b31621b05372e55d2a"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 63.791588329011574,
+      "input_tokens": 60,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1246,
+      "peak_allocated_bytes": 6349959680,
+      "peak_reserved_bytes": 6589251584,
+      "sample_id": "test:3504",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "168",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 3,
+      "call_record_hashes": {
+        "parallel0": "bae274d3b102661cf8c8f71476678698c10dc83b28e4d174087bb1fb5ee727e3",
+        "parallel1": "9d052d8b88e12e039350c9a9902772259e915dfe4fa70772bc0652d3cd2777fd",
+        "parallel2": "a5e15ab4c59e7c6f4e1f4f3e67a6d1ef5e74ae3a26d05cff38ac4d97951c9d1c"
+      },
+      "call_truncations": 3,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 178.08227510697907,
+      "input_tokens": 180,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6341771776,
+      "peak_reserved_bytes": 6589251584,
+      "sample_id": "test:3504",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "120"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "bae274d3b102661cf8c8f71476678698c10dc83b28e4d174087bb1fb5ee727e3",
+        "revision": "b0e498f37606c5d2fa3b19d94b9bf016382356fd14dce2ab1953383531a7f7c8"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 109.35195848101284,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1182,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2062,
+      "peak_allocated_bytes": 6430023680,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:3504",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "120",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "5040"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "dce4e147c340f70b9f952f8d51e8ff9ce4b37994905405215270a4a4b2f3b89e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 13.519155000976752,
+      "input_tokens": 83,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 250,
+      "peak_allocated_bytes": 6314077184,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:4335",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "5040",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5040",
+        "5040",
+        "5040"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "30bac3a84e7948ad489b6d1ea2f15a8d32a6187799322e5db2318de8ab97d4cf",
+        "parallel1": "80528c7b2d235194cc9618266f5ec61559e8b824041911aedaf562d9ec9cc3b9",
+        "parallel2": "3a7252f13729687a6f99451ccecc9ebc9aae2802f270dd4f1e6031e5d92e0425"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 50.01075951894745,
+      "input_tokens": 249,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 970,
+      "peak_allocated_bytes": 6317543424,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:4335",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "5040",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5040",
+        "5040"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "30bac3a84e7948ad489b6d1ea2f15a8d32a6187799322e5db2318de8ab97d4cf",
+        "revision": "12a0e3a708159ffa5bf1d819531f68ad2b91922f68e41b0f3e6986a47ff25a9a"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 26.124904287979007,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 515,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 510,
+      "peak_allocated_bytes": 6346597376,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4335",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "5040",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "longer": "0b727a873913b0bbf1c53911d3114d4c30504dcc5ed77973d3e1178bba961ee7"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 156.26995666598668,
+      "input_tokens": 110,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6453694976,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:2460",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "longer",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        "154",
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 2,
+      "call_record_hashes": {
+        "parallel0": "844988e4736bdecd3237ed2c5cfac18de49889fcd2b6bc783d1cc082c9d1317b",
+        "parallel1": "9e8de9ce5a8a79e6302165b59b8a610ed21e6dee55dabb4fbfed0f6afd5e133c",
+        "parallel2": "8b35100d8834f901d6c05bc0cacfc0b99696fe43626730fdc0da6e26f794a2ae"
+      },
+      "call_truncations": 2,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 151.74863788002403,
+      "input_tokens": 330,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2989,
+      "peak_allocated_bytes": 6343617536,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:2460",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel1",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "154",
+        "154"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "844988e4736bdecd3237ed2c5cfac18de49889fcd2b6bc783d1cc082c9d1317b",
+        "revision": "fb2ebaef2279c9751b62fcfe07c091e7d22af17a5c170d61014745e3016769bc"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 78.86396501603303,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1198,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1552,
+      "peak_allocated_bytes": 6424556544,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2460",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "154",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "\\frac{1}{2}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "61df05181c5603f1daebf8c3d0b5d54cf492e24d2e46696be9b037d75f6c9b95"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 31.063982798019424,
+      "input_tokens": 148,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 612,
+      "peak_allocated_bytes": 6329825792,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:1324",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "\\frac{1}{2}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{1}{2}",
+        "\\frac{31}{32}",
+        "\\frac{1}{2}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "ac337827bd3a7a0ca50687c495166dd443cb17b20bb0e934903090e387c28353",
+        "parallel1": "cbeac844cfc6ea19484fcceab7c699c8647724e745233a969c18d3ac1cef5223",
+        "parallel2": "b2c25b15925074bed6b104583b2b5dd77fd7c2be23fd530c009f428f782dfe91"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 89.62705181905767,
+      "input_tokens": 444,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1737,
+      "peak_allocated_bytes": 6333366784,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:1324",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "\\frac{1}{2}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{1}{2}",
+        "\\frac{1}{2}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "ac337827bd3a7a0ca50687c495166dd443cb17b20bb0e934903090e387c28353",
+        "revision": "2e101d654b6e7434d1cb08cd9b6d1bd74fb3049c25b5be4360dd8a4bc0e4b23b"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 56.2897235910641,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 1041,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1090,
+      "peak_allocated_bytes": 6403334656,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1324",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "\\frac{1}{2}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "6\\sqrt[3]{2}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "1833bf303e5733f6c983b278365ed79004fff720d6580b61919f9f25b802a6d1"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 54.98796138598118,
+      "input_tokens": 87,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1067,
+      "peak_allocated_bytes": 6344355840,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:2340",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "6\\sqrt[3]{2}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:1"
+      ],
+      "answers": [
+        "6",
+        "6\\sqrt[3]{2}",
+        "6"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "9c7b03a210d265cabd6c7b7a03bb873588208acdf0fbc390e495fbe10ffb1a0c",
+        "parallel1": "20432622da0703b96da5c2cf53d81047cb5cbfd04bc7de9aa509147d0cc55d6e",
+        "parallel2": "79804789b17b2d29bf9009eaa39c0b73223350129fe05b2a68e94f2592b41784"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 119.41196943703108,
+      "input_tokens": 261,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2347,
+      "peak_allocated_bytes": 6339228672,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:2340",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "6",
+        "6"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "9c7b03a210d265cabd6c7b7a03bb873588208acdf0fbc390e495fbe10ffb1a0c",
+        "revision": "1ac696d0701298055e0912f5d54db3cd5dcd69d59f1adf5ea5d18da7425b5703"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 49.98416944697965,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1139,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 981,
+      "peak_allocated_bytes": 6420243456,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2340",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "54"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "72c0ade4d41b95402ab71267dc143fb2d565a057054ae2b9c712dc852be31c60"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 34.102782236004714,
+      "input_tokens": 366,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 670,
+      "peak_allocated_bytes": 6340009984,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:1577",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "54",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:3"
+      ],
+      "answers": [
+        "14",
+        "14",
+        "65"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "f7b5a9513a8cfbf4ba2e33c055b258c8b3882f39cab07655448fbd21a75cc1e0",
+        "parallel1": "16c0a7f0833f7f87ba6cc1a596fac6ea5932c67af6693b858163ddd853f33ab1",
+        "parallel2": "f76d01d528ba6e2b8e629b0633e66627831aa3fc7093d46792a5f6ec04fa484d"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 52.38893585902406,
+      "input_tokens": 1098,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1035,
+      "peak_allocated_bytes": 6338032640,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:1577",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "14",
+        "14"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "f7b5a9513a8cfbf4ba2e33c055b258c8b3882f39cab07655448fbd21a75cc1e0",
+        "revision": "2775cbb77ce48bb935062f2ed064fe9a2553d1d3608a3fc5a89a871d67309dbe"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 23.72205112496158,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1012,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 470,
+      "peak_allocated_bytes": 6372962304,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1577",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "-9"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "a5da58a19ed22d5e437923e4efe923b3e069e8eacb8faefc156e234d95b17025"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 19.469583923986647,
+      "input_tokens": 74,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 382,
+      "peak_allocated_bytes": 6318613504,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:639",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "-9",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "-9",
+        "-9",
+        "-9"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "0a1ff304930a5c7c4e6854fe0aa7f0baa2199dd33b775d10a5fbd2133652a5a4",
+        "parallel1": "996c78b0bd36e9664c21866555cfaf2b7bd249262181f1859575dea1a70e42b9",
+        "parallel2": "bab685a86c5ca7c4974518f8e956742fcbee6f6f84634ddd424757a2e4eb571f"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 51.87324279604945,
+      "input_tokens": 222,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1031,
+      "peak_allocated_bytes": 6317359104,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:639",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "-9",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "-9",
+        "-9"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "0a1ff304930a5c7c4e6854fe0aa7f0baa2199dd33b775d10a5fbd2133652a5a4",
+        "revision": "318773a3ae3b0986c3e362c4b86f98702cf70b4feb8282a168410060dc63c3b6"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 34.00663184100995,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 523,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 671,
+      "peak_allocated_bytes": 6348497408,
+      "peak_reserved_bytes": 6689914880,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:639",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "-9",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "24"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "c7bd548458b8612d293b0c045d67902f1390fe29c563412c03804aa7e2d61993"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 39.94581615901552,
+      "input_tokens": 98,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 792,
+      "peak_allocated_bytes": 6334618624,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:2892",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "24",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "group:3"
+      ],
+      "answers": [
+        null,
+        null,
+        "9"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 2,
+      "call_record_hashes": {
+        "parallel0": "3f43daf4b2e149df5decc3637804f8c5574cbaf05f7fbb21c0af02b2bd227f58",
+        "parallel1": "ed13ecad7df6b2b7dd1e82b7541c11ceb050d9f46bd98f7dee88d5b2ec69f272",
+        "parallel2": "39373c99d66f1ca3d45af50fa73506c12a9f6c3dca599ae5b12cd9346ff1947b"
+      },
+      "call_truncations": 2,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 142.58693040796788,
+      "input_tokens": 294,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2830,
+      "peak_allocated_bytes": 6343175168,
+      "peak_reserved_bytes": 6689914880,
+      "sample_id": "test:2892",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "-171"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "3f43daf4b2e149df5decc3637804f8c5574cbaf05f7fbb21c0af02b2bd227f58",
+        "revision": "e4951712702790ff28db3e2fe5c3d1b76cf6afe7b92f557892ffb5f263b254aa"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 113.59103965997929,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1258,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2254,
+      "peak_allocated_bytes": 6433186816,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2892",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "-171",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "59"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "c6a8b530dedc353cf2c21de736e4b8f932c35b1b17cf4ae1a99ad0875515178e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 25.23369849898154,
+      "input_tokens": 78,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 509,
+      "peak_allocated_bytes": 6323444736,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4702",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "59",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:3"
+      ],
+      "answers": [
+        "-1",
+        "-59",
+        "59"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "48a872ef51937aaf649ab8e55a92cac20a9a5aa723b49eb407904f573b6e7d6a",
+        "parallel1": "eb55fd5e24685e0545565531362313249041320a1ac84b4fa9cab8c690903eda",
+        "parallel2": "90233a0add042541556674d92d0361e5b3e0b4264b9d8e9d1b313453da4343c0"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 95.25320541596739,
+      "input_tokens": 234,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1928,
+      "peak_allocated_bytes": 6335762432,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4702",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "-1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "-1",
+        "-1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "48a872ef51937aaf649ab8e55a92cac20a9a5aa723b49eb407904f573b6e7d6a",
+        "revision": "d72564af845b2ea7321fead51d5fb6ff58ce59db3874fe41b885ce47680c6137"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 78.65583307895577,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 1036,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1582,
+      "peak_allocated_bytes": 6410058752,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4702",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "-1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "62.5"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "9d4eb23be2126f63f42e221d4369f3e21535f7e4d4410f8bcac90ee1a4e361c8"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 43.3573725100141,
+      "input_tokens": 250,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 882,
+      "peak_allocated_bytes": 6343546880,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1709",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "62.5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:3"
+      ],
+      "answers": [
+        "75",
+        "75",
+        "62.5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "ca8acd1e2a64ccc43bae8e62def3b1587f9a8fbf6b3be9ccad98b585742dd19e",
+        "parallel1": "d61535f75788840ab37edd14b2e58c4ff10f7566fd167e96cf7c2ea80d3c9910",
+        "parallel2": "2bf5514b0fc93fc91c238033b8829a8093518524a6f3e65ccbf002d27d3f137d"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 111.85938441299368,
+      "input_tokens": 750,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2272,
+      "peak_allocated_bytes": 6339970048,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1709",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "75",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "75",
+        "75"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "ca8acd1e2a64ccc43bae8e62def3b1587f9a8fbf6b3be9ccad98b585742dd19e",
+        "revision": "d08f326bac13eaa3b4f4ef40a48d630f3c63dadd237ff8542771f8c9543f20f0"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 73.68128991598496,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1322,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1496,
+      "peak_allocated_bytes": 6422639616,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1709",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "75",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "56"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "aa804d1021fc82441630a060ccef53467a633ca024c023740331888cd075da61"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 13.731822128000204,
+      "input_tokens": 85,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 278,
+      "peak_allocated_bytes": 6315183104,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4041",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "56",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:1"
+      ],
+      "answers": [
+        "56",
+        "63",
+        "56"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "14100616c879f4fdbdaef9f662ba8cae795e101930da28dffea051531920c69b",
+        "parallel1": "1a5d084d526f63c1fd1bbb7ec7419c6a4d2cf1d5d5590aa497258ec4339c636f",
+        "parallel2": "e303355960fbbd173cec6acabfcd12e694c94319a3c00896cbc637d4a9378f56"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 43.024597853946034,
+      "input_tokens": 255,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 871,
+      "peak_allocated_bytes": 6317543424,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4041",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "56",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "56",
+        "56"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "14100616c879f4fdbdaef9f662ba8cae795e101930da28dffea051531920c69b",
+        "revision": "a81d7652da743d4c37d75dc1e6d70c4075a73f4a8ee5ce36b9850d97965e3e3e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 33.21830308891367,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 549,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 672,
+      "peak_allocated_bytes": 6350171136,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4041",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "56",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "21"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "8969770f3bb38226b08070a11f1b46e5497d5d582f66a818361e71c20e9e0555"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 50.452340628020465,
+      "input_tokens": 119,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1023,
+      "peak_allocated_bytes": 6343912448,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2119",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "21",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:2",
+        "group:2"
+      ],
+      "answers": [
+        null,
+        "21",
+        "21"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "2f9bcb5ea3a2ee01b63933269a4e20f28b93935a95ff5d7dc297e3bf4e829d1a",
+        "parallel1": "f48276a18c01491077bd5e543476a54e12c32ecafe42abf8d1d2997aa828df2e",
+        "parallel2": "d65a0cdedca9bb353fe75ef1144f6087cee2cd9961fce4f3753825921903f2e3"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 139.73317143699387,
+      "input_tokens": 357,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2627,
+      "peak_allocated_bytes": 6343949312,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2119",
+      "selected_answer_group": "group:2",
+      "selected_call": "parallel1",
+      "selected_extraction": "21",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "21"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "2f9bcb5ea3a2ee01b63933269a4e20f28b93935a95ff5d7dc297e3bf4e829d1a",
+        "revision": "29d0a3bcc8f1685b5612c0359a22238ae1a1c7307afb79735b4a48c425b6c0a6"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 100.95631599798799,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1300,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1928,
+      "peak_allocated_bytes": 6435703296,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2119",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "21",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "7"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "05da10fa4d1aefff3341f36e9a41c8abe00bd92e4516850f0b6660df447bdb5e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 20.527581197035033,
+      "input_tokens": 319,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 403,
+      "peak_allocated_bytes": 6332948992,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2087",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "7",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:3"
+      ],
+      "answers": [
+        "7",
+        "7",
+        "-3"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "d546d06df0d8483152f6019d2fa2fb1236fa5ea778f5853f28d8e2047b0b16f4",
+        "parallel1": "c2f6d71446f5f9dde0e597d4be981e7157b76e7d2fb242d50d3b5ef26bb19e2e",
+        "parallel2": "5df72b67226647a3f0b153442e62f8241ed2c8f71f5120bbe6f6442c6410d6e0"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 86.43242779711727,
+      "input_tokens": 957,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1705,
+      "peak_allocated_bytes": 6340524544,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2087",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "7",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "7",
+        "7"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "d546d06df0d8483152f6019d2fa2fb1236fa5ea778f5853f28d8e2047b0b16f4",
+        "revision": "fcdcdfc222f0ef5db1ad3e62f231c7445a9f047cacb15b65ce0f96f07b113e46"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 44.81828670902178,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1130,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 885,
+      "peak_allocated_bytes": 6394851840,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2087",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "7",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "5"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "071377e3c52a92f8eb0dd3502b1673e5b76bbe4cc99cda352510d69187a220c3"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 61.931092499988154,
+      "input_tokens": 141,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1234,
+      "peak_allocated_bytes": 6352507392,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4549",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 3,
+      "call_record_hashes": {
+        "parallel0": "d05f9d053e4d7e96170d080257c9ab2da5b268fe0788c0562b78aaf8f590a565",
+        "parallel1": "02518fed436e07f5494f8e97d7a905a63ed9e4ee613f14745a353814290b445c",
+        "parallel2": "fbc6140e7ba945b6fcaf5ade8724ce6877759e144dfc9b08851d1b63aa365cbc"
+      },
+      "call_truncations": 3,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 156.29319045401644,
+      "input_tokens": 423,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6344762880,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4549",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "d05f9d053e4d7e96170d080257c9ab2da5b268fe0788c0562b78aaf8f590a565",
+        "revision": "320bbfe3f94f3af006f3d8ff72bb994def660edf5ec89cfce57d9d16510ea47d"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 88.8175918040215,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1344,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1750,
+      "peak_allocated_bytes": 6440672256,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4549",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "53333.38333\\ldots"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "8a8b3994339de7b78280ce0744eb2535c8f2b201dde894eaaf5bda3fa5dfcba9"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 47.27124167600414,
+      "input_tokens": 85,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 940,
+      "peak_allocated_bytes": 6339597824,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2732",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "53333.38333\\ldots",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:2",
+        "group:3"
+      ],
+      "answers": [
+        null,
+        "266664",
+        "5333 \\frac{1}{3}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "0383b89de3204e4d28933d366a015a6693fb14570d78e46eb606774103a44c17",
+        "parallel1": "065ade36ccf0fe8782f2eb7a664e3d33777c49e13c4896b13ff26e8c8b074f39",
+        "parallel2": "4efb509f5a1cf00a57843a9d0c01389582654e437fe6b0c3ba66fea767f8dcd6"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 140.78833571105497,
+      "input_tokens": 255,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2837,
+      "peak_allocated_bytes": 6342695936,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2732",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "192645540.3666667"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "0383b89de3204e4d28933d366a015a6693fb14570d78e46eb606774103a44c17",
+        "revision": "700763242add5b8a894ee910549a6cd7544883e27098a860ab5b51f4a8c5d260"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 118.35760906198993,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1232,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2378,
+      "peak_allocated_bytes": 6431627776,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2732",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "192645540.3666667",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "\\frac{1}{4}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "38dc8c8941082948e044ce4fc88a8e6809f0e2a09993f68c2e24fd73ee6910c8"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 18.75714500999311,
+      "input_tokens": 75,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 373,
+      "peak_allocated_bytes": 6318317568,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1433",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "\\frac{1}{4}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{1}{4}",
+        "\\frac{1}{4}",
+        "\\frac{1}{4}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "61a327f081dc6c2256f6c402c6e1ede84af01c3cf036d144527955a7cdcaf701",
+        "parallel1": "e2747280c1663f28054150f1c4633074d586ef1a325725de20742de0111d6374",
+        "parallel2": "f58f424ce629b9b9272b6d682fb31c282355fc84cfe38658793a44d617eed472"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 50.28952581208432,
+      "input_tokens": 225,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 999,
+      "peak_allocated_bytes": 6317912064,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1433",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "\\frac{1}{4}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{1}{4}",
+        "\\frac{1}{4}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "61a327f081dc6c2256f6c402c6e1ede84af01c3cf036d144527955a7cdcaf701",
+        "revision": "5bf74a1be13bc3eee97192ffe9b0ce1a5fd36d71e718a49279325c8d65064b06"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 29.22503004601458,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 480,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 582,
+      "peak_allocated_bytes": 6343584256,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1433",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "\\frac{1}{4}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "longer": "490c3f70b3fc9ddf157bfbc39c1b678bfc3ea45c36fd4a68f7039252d93c07c8"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 154.02942508400884,
+      "input_tokens": 151,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6453735424,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3285",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "longer",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 3,
+      "call_record_hashes": {
+        "parallel0": "9557ee1464f2d92850264befb8969a25593aa9d6edc7004d5ba50150ed8867b1",
+        "parallel1": "f1f7308abbb27dd6d5b7710beadc11c83b9c45ff16bbc7b4cbe3b3d4a0481670",
+        "parallel2": "a95655c8c8e221a597190a4a2f842dcfc98cab4509730f9d5dbc686c4638dfb4"
+      },
+      "call_truncations": 3,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 155.62308167101583,
+      "input_tokens": 453,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6345131520,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3285",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 2,
+      "call_record_hashes": {
+        "parallel0": "9557ee1464f2d92850264befb8969a25593aa9d6edc7004d5ba50150ed8867b1",
+        "revision": "d1af2ffa226db7c0835130d29ae3e001b06f86c24366d3d590a5444fa8fe72b5"
+      },
+      "call_truncations": 2,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 155.38624284794787,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1364,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6453797888,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": true,
+      "revision_hit_cap": true,
+      "revision_truncated": true,
+      "sample_id": "test:3285",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "revision",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "16"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "3fa6f2947848e09706d7a2a762e0fc503aef42e5ed59fd6ab5bc84bbd2209942"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 29.739697195996996,
+      "input_tokens": 87,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 585,
+      "peak_allocated_bytes": 6326579200,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:29",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "16",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:1"
+      ],
+      "answers": [
+        "16",
+        "12",
+        "16"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "ad1015518fd8855d03f106f155401ee8210cd10c85ee76629203ef5f4da244d4",
+        "parallel1": "939278664d340de693f7144d5a8c276cd1e228dd7875891df5c5992b14a3185e",
+        "parallel2": "f8b48fdda4459f0a9adbfbd744bc5c3b4993a9306d487372b0c9e4eb61938f59"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 64.51368587400066,
+      "input_tokens": 261,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1269,
+      "peak_allocated_bytes": 6322632704,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:29",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "16",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "16",
+        "16"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "ad1015518fd8855d03f106f155401ee8210cd10c85ee76629203ef5f4da244d4",
+        "revision": "b95322dfd0b511f28f8dcb6e6c6c35a7b1fe450f4a86534b56507245f68461c3"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 47.62398217601003,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 689,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 938,
+      "peak_allocated_bytes": 6366315520,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:29",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "16",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "\\frac{3 + \\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3 - \\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3 + \\sqrt{13 + 4\\sqrt{3}}}{2}, \\frac{3 - \\sqrt{13 + 4\\sqrt{3}}}{2}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "f0e20df706d8451c3456a520dbf6e28adfe35e930e951776309aea312222b678"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 54.39294117700774,
+      "input_tokens": 82,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1078,
+      "peak_allocated_bytes": 6344577024,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2948",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "\\frac{3 + \\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3 - \\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3 + \\sqrt{13 + 4\\sqrt{3}}}{2}, \\frac{3 - \\sqrt{13 + 4\\sqrt{3}}}{2}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:3"
+      ],
+      "answers": [
+        "0",
+        "0 \\text{ and } 4",
+        "2 + \\sqrt{2}, 2 - \\sqrt{2}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "0c25caa442d445e5effe1451b1d82d587ce47c9fc1b15ed1bd296e7b92f9f765",
+        "parallel1": "1f8359e8d33b296860312724735133697463f6d3b0f43eb71f8a337412676a28",
+        "parallel2": "db7b833c1f5437dff05ee3461c3291bfccbe1cfbb8b30d1d9852a336ab996dd7"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 108.04429683601484,
+      "input_tokens": 246,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2147,
+      "peak_allocated_bytes": 6342548480,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2948",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "0",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "0",
+        "0"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "0c25caa442d445e5effe1451b1d82d587ce47c9fc1b15ed1bd296e7b92f9f765",
+        "revision": "dded239ef7391db6378caed091e1b1f9a8adf2af2b441a3141e8336c9406b278"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 92.83626253501279,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 1224,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1846,
+      "peak_allocated_bytes": 6431098880,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2948",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "0",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "120"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "2c6797bf00bcaa1e78580d1fbac52c6a0f20deffc4d79b9613507b60bf85febe"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 22.332995811011642,
+      "input_tokens": 79,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 448,
+      "peak_allocated_bytes": 6321231872,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1997",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "120",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "120",
+        "120^\\circ",
+        "120"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "774de71bca5c99ef0719ce8cdd3ddb2d02cce796d931f990ff0028e161cd3283",
+        "parallel1": "974058165c969334181d22bb04fcf445258399a9ac30fdab09b645af4f5aebb2",
+        "parallel2": "69fb9ca21ec0000ca5f57f7c6b28285c76e3d0c6f2b864d426a59b8f219711ae"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 66.01076062698849,
+      "input_tokens": 237,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1346,
+      "peak_allocated_bytes": 6321600512,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1997",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "120",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "120",
+        "120"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "774de71bca5c99ef0719ce8cdd3ddb2d02cce796d931f990ff0028e161cd3283",
+        "revision": "fff2d5c0240155ebc600722b1b6b643c2f1a7a9fa881cd94486574a196b93542"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 41.35651663399767,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 650,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 841,
+      "peak_allocated_bytes": 6362623488,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1997",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "120",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "-2, 1"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "5b5873c4eb03d39b1cb4e77804ff2f2a466ddfbb75fbdbb3fe44625a31cb4e17"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 34.1006840839982,
+      "input_tokens": 78,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 689,
+      "peak_allocated_bytes": 6330082304,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:414",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "-2, 1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "-2, 1",
+        "-2, 1",
+        "-2, 1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "048af82cfa0c6af269802a4ee56cc292c3963949baa08ff5c18f34167ba83824",
+        "parallel1": "32fc6334aff832ef7147274ad21b04d26b2a6ba8275bb20fd740b6bb873673b6",
+        "parallel2": "bfece9c25912756ccfa6821fed8574dac7d66357999f7b8e9c99076951f17ee1"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 95.4474383739871,
+      "input_tokens": 234,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1889,
+      "peak_allocated_bytes": 6331115520,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:414",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "-2, 1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "-2, 1",
+        "-2, 1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "048af82cfa0c6af269802a4ee56cc292c3963949baa08ff5c18f34167ba83824",
+        "revision": "f5443a35e8d30500f84a66253f99e1fbd35da98940fc666ec8a1e534791952ec"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 59.13297676900402,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 768,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1138,
+      "peak_allocated_bytes": 6376860672,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:414",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "-2, 1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "2"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "62b5fc6c3b63cbb08204548a7dfaee7b7e81212d3f2492bd5eaf3364b83c56ee"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 30.43416458403226,
+      "input_tokens": 95,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 610,
+      "peak_allocated_bytes": 6327796224,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1808",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "2",
+        "2",
+        "2"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "1db2695a9cf477016ecf9d83681d73d804c27e5b85d77428ca0f206683c9e4ce",
+        "parallel1": "11f9aabc51a452324d8eb38f0cd42e785f3985669854396c32eeeb2c8950cf05",
+        "parallel2": "ca8c7b7696b1ec67f8dd8a0a70a143f61fc2dad607bd7593e673a620b9e988f8"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 92.20890529092867,
+      "input_tokens": 285,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1875,
+      "peak_allocated_bytes": 6328976384,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1808",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "2",
+        "2"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "1db2695a9cf477016ecf9d83681d73d804c27e5b85d77428ca0f206683c9e4ce",
+        "revision": "c1195023a96e9bc6e9818379d7661696b8c20a2b54e1d8d67b38fcfa3316f8da"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 54.02882755297469,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 840,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1095,
+      "peak_allocated_bytes": 6383452672,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1808",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "(4, \\pi)"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "ef0dee66ccde2974079c60f9a0c853a457520eba56bbacf8357b42d942d3901e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 14.70624815003248,
+      "input_tokens": 90,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 299,
+      "peak_allocated_bytes": 6316142592,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4962",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "(4, \\pi)",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "(4, \\pi)",
+        "(4, \\pi)",
+        "(4, \\pi)"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "997a8a67a2b272bd20314ff369b30c290737f1876f1e8f2b8a910d4a4ab69828",
+        "parallel1": "30b87c5a4048e64da580608e31b47ab27f6900f8556c000ad9661b712bda47ed",
+        "parallel2": "dc20a1b96c6bdd01d710afb994e03e4c76afa824f9a16bb373514a4f3814b562"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 52.856392997084185,
+      "input_tokens": 270,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1060,
+      "peak_allocated_bytes": 6318724096,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4962",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "(4, \\pi)",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "(4, \\pi)",
+        "(4, \\pi)"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "997a8a67a2b272bd20314ff369b30c290737f1876f1e8f2b8a910d4a4ab69828",
+        "revision": "dcab45e7b13d03c7e12d01e26bbb922acbb1128aa810c32424f45af41abfe753"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 28.7717044709716,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 545,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 579,
+      "peak_allocated_bytes": 6349167104,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4962",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "(4, \\pi)",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "2"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "05f4d6e4eed5d9ae78a30bcc545b18c1806d70aa9104a7e8b3dd5c6922a08fa4"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 22.47476850898238,
+      "input_tokens": 78,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 449,
+      "peak_allocated_bytes": 6321231872,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:274",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "2",
+        "2",
+        "2"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "4714142c8a83f8a007c55d13c98c767db289ae14a3c23461a82bc5d2b25955bd",
+        "parallel1": "8a8879f660c0bdc40eb67c5ee86b30007bf137825805e3dfd8b0b96f673560d8",
+        "parallel2": "f3af66af7c0bd79870fb70bf4e210d38dbcdea72c2e8d07b5637d9f1b56b212f"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 80.96553056500852,
+      "input_tokens": 234,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1620,
+      "peak_allocated_bytes": 6326505472,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:274",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "2",
+        "2"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "4714142c8a83f8a007c55d13c98c767db289ae14a3c23461a82bc5d2b25955bd",
+        "revision": "5805efce325433bdd39ae6a376e6767987caa3ff671b0bcae87c5de5666be1e7"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 45.117424353025854,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 684,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 905,
+      "peak_allocated_bytes": 6366794752,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:274",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "14"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "cf8d9abf942571019840f6f2d9bcc27af04a259c5f60b0d12368c614b772058a"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 19.07668672199361,
+      "input_tokens": 89,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 390,
+      "peak_allocated_bytes": 6319461376,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:916",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "14",
+        "14",
+        "14"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "de8c2c6126645e32317be9f4afa8f5ed26c76bb5a499e058d8da4c399a4d21be",
+        "parallel1": "edfdcdce9a3443a3af2509cb7fea44f0e0a41645c1d2f6a0142b32b1fd15244e",
+        "parallel2": "a2b2092fbf86c2a3e6be7ccce18340fbc0230e1fc4dce963005be3d2333eac72"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 57.405858232988976,
+      "input_tokens": 267,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1170,
+      "peak_allocated_bytes": 6320419840,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:916",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "14",
+        "14"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "de8c2c6126645e32317be9f4afa8f5ed26c76bb5a499e058d8da4c399a4d21be",
+        "revision": "4e2bfca4f4a19be5b1dfc62a01edbf632bf693094902ea144fb739c2bef39cee"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 34.828519568021875,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 580,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 712,
+      "peak_allocated_bytes": 6353185280,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:916",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "14",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "48"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "f94e51d45623f7921025b3e229facf7786808c83d376dcac812445c31944a1f6"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 31.43527683400316,
+      "input_tokens": 106,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 639,
+      "peak_allocated_bytes": 6329271296,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:534",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "48",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:3"
+      ],
+      "answers": [
+        "56",
+        "56",
+        "70"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "db3bc5a0b11b0fb49b1c473f9d13bbe400c2758895d6156f329e1bc29c2a1aaf",
+        "parallel1": "261df67649cb7d59f897fef80ccdb463193623c87dbda1fbad2d7ed1b97828bf",
+        "parallel2": "744f4d9fe0e9d54704969cf73483fc6f58768f285f7a43278542c434bf2c5a8b"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 61.57207308802754,
+      "input_tokens": 318,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1252,
+      "peak_allocated_bytes": 6322890752,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:534",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "56",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "56",
+        "56"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "db3bc5a0b11b0fb49b1c473f9d13bbe400c2758895d6156f329e1bc29c2a1aaf",
+        "revision": "12bf63d032d284514d901e14a034546703f7faa5ea04069c4bf40cbc09f2cbe0"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 42.681375416053925,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 715,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 867,
+      "peak_allocated_bytes": 6367154688,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:534",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "56",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "6"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "b0003e30d8c27238306bcddd8367d9c9ec3db7fdf4affed8290e06e6284300d3"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 42.41151147102937,
+      "input_tokens": 167,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 858,
+      "peak_allocated_bytes": 6339599360,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2177",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 3,
+      "call_record_hashes": {
+        "parallel0": "a30d6715dfc77faa8bf7d92b9435f6879975c36a6799a981759dc749dd324c86",
+        "parallel1": "a8dcedd9a5b5eeeef9bd0c70673723c15ca52f4c1f5a8a536d4474ed4c919d30",
+        "parallel2": "7091ac9731ffcf52d4c1e0a0ef31090810723dad50d3bf86ea52711144dd9b01"
+      },
+      "call_truncations": 3,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 154.75752036005724,
+      "input_tokens": 501,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6345721344,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2177",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "12"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "a30d6715dfc77faa8bf7d92b9435f6879975c36a6799a981759dc749dd324c86",
+        "revision": "174da5c9ff8b438fb0b29cdf29ebfe6d70ac049b7a876107d75560281082c295"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 126.384483432048,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1396,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2509,
+      "peak_allocated_bytes": 6442072064,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2177",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "12",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "2"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "f3d3d71c797525914b575985dc7c3a9dfa7cb0aaa5bab6be09e1b7d4d77927e2"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 22.65971025597537,
+      "input_tokens": 75,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 463,
+      "peak_allocated_bytes": 6321637376,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1043",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "2",
+        "2",
+        "2"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "332961325937238a1e2396d279109934c9e918243cacd09cc1e7c410b8231d4f",
+        "parallel1": "d23422e34790eeec8decaeac55616c7e11c0d081c008c52de110bbb401ac6361",
+        "parallel2": "35f0190f1746b5da00862355ce2388a6d6ab933c5cd71accc6cc56d5a08637a9"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 85.2345606070594,
+      "input_tokens": 225,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1703,
+      "peak_allocated_bytes": 6327611392,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1043",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "2",
+        "2"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "332961325937238a1e2396d279109934c9e918243cacd09cc1e7c410b8231d4f",
+        "revision": "1a9b6857301b454fbb57c205c6e5c6e5d80edf46f02a4c2d60403f560198fc11"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 60.716375201009214,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 812,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1218,
+      "peak_allocated_bytes": 6382494208,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1043",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "2",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "11"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "a01f55fedb2ff9346f4b92e5f5a3f01408ab4207f5ad32a791f6b6b0cea932c2"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 12.501570070977323,
+      "input_tokens": 84,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 252,
+      "peak_allocated_bytes": 6314187776,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:373",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "11",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "11",
+        "11",
+        "11"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "f2033f0698709089844c780a20a9646651a5f2f80b9483982d3c5d47f95b3cc0",
+        "parallel1": "1ff0cfc0913d604ff6e8c1624f2c81ecf3378d8b442fc0e80eb22477a96b6d68",
+        "parallel2": "44cb28e5f3fc5f8495f6280fb189c3f084e00057a88eeb320583fdd8fd41160f"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 34.87290526396828,
+      "input_tokens": 252,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 707,
+      "peak_allocated_bytes": 6314703872,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:373",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "11",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "11",
+        "11"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "f2033f0698709089844c780a20a9646651a5f2f80b9483982d3c5d47f95b3cc0",
+        "revision": "f33b95791b0b3f1d1d18267d53f068bc35d1a3b9be4e7f58113e8570b6f88914"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 20.920911536028143,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 415,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 424,
+      "peak_allocated_bytes": 6334093824,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:373",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "11",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "\\frac{3}{19}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "8adf34fd4eff3ccc89726af65bc8a64a7ad6376a484a0322c027abb435de98d5"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 19.184953267045785,
+      "input_tokens": 96,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 387,
+      "peak_allocated_bytes": 6319608832,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1379",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "\\frac{3}{19}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:3"
+      ],
+      "answers": [
+        "\\frac{16}{19}",
+        "\\frac{16}{19}",
+        "\\frac{12}{19}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "eda3e4e35db9124f9574481d560f3dbe1152955fa9fe3bb4ce2aa9d1039a6e87",
+        "parallel1": "c1c96053166ceeae4adf8c7b3da19703c4ecb99f2771928f9a9f033f12a4c568",
+        "parallel2": "f57e83aa82f2a3b52886cdcd6975ff1f90423e35a455d1dfbf08eb861ac2f233"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 80.87297071196372,
+      "input_tokens": 288,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1634,
+      "peak_allocated_bytes": 6331742208,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1379",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "\\frac{16}{19}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{16}{19}",
+        "\\frac{16}{19}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "eda3e4e35db9124f9574481d560f3dbe1152955fa9fe3bb4ce2aa9d1039a6e87",
+        "revision": "c4a1a9360e3fe8fe98e45369260462e0ac251e68eb519cdf20c614fdc2b42cdc"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 42.42600858898368,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 723,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 855,
+      "peak_allocated_bytes": 6371939328,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1379",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "\\frac{16}{19}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "81"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "98b548319a69a3af7ce1d76f725729f98e1c6d8444784ffe56cb526a0296a69d"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 35.92173254798399,
+      "input_tokens": 81,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 728,
+      "peak_allocated_bytes": 6331631616,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:196",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "81",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:3"
+      ],
+      "answers": [
+        "81",
+        "81",
+        "72"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "7d22eed044e1e3bf5e6d85a4314f3d6e24abd0f848712019a80a250834dea5d5",
+        "parallel1": "2600a257774131c427addf4879e5f207c6ddf229025d73046e7ac33eba4c1c22",
+        "parallel2": "c218b0bb5426dbc7cecf57e9e46a1f2570e88304775f8ee941514c0168444f2b"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 122.98754308500793,
+      "input_tokens": 243,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2490,
+      "peak_allocated_bytes": 6339007488,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:196",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "81",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "81",
+        "81"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "7d22eed044e1e3bf5e6d85a4314f3d6e24abd0f848712019a80a250834dea5d5",
+        "revision": "4ee2ad1af27f58160ac71837faebfed92625942bdc33ac718e308e289246681d"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 74.39556739199907,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 971,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1505,
+      "peak_allocated_bytes": 6403023872,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:196",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "81",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "15"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "853b39e722a9a5241e044d36ab047948d873f33db85b43e9201bf0c73ca68e79"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 42.63701150397537,
+      "input_tokens": 106,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 854,
+      "peak_allocated_bytes": 6337200128,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2134",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "15",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:2",
+        "group:2"
+      ],
+      "answers": [
+        null,
+        "15",
+        "15"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "6cf95660b2c19036b78f409cf9c5f902cd26d0e8a1d370acd7ffa263d8d51081",
+        "parallel1": "d394f29855f6893f6b250e2e08302115b6021156dfcc06281bb43d21419a73bc",
+        "parallel2": "e9284629b832cb9fa938750ecfe4dff22b7efe2a8b3799b87deb82614d137c85"
+      },
+      "call_truncations": 1,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 117.40694523905404,
+      "input_tokens": 318,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2364,
+      "peak_allocated_bytes": 6343470080,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2134",
+      "selected_answer_group": "group:2",
+      "selected_call": "parallel1",
+      "selected_extraction": "15",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "13"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "6cf95660b2c19036b78f409cf9c5f902cd26d0e8a1d370acd7ffa263d8d51081",
+        "revision": "9b919d7406bd9282ce50edd887ca659ee61d58c64d1ca3056c655b3b82dea0ec"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 91.28140156099107,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1274,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1828,
+      "peak_allocated_bytes": 6434145280,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2134",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "13",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "\\frac{160}{33}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "a00e9af7dbe680ff0fbd759d3b64b16d8fda8aa698cc60f82ed6b659dc58b264"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 28.338628435973078,
+      "input_tokens": 126,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 567,
+      "peak_allocated_bytes": 6327353344,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:771",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "\\frac{160}{33}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{160}{33}",
+        "\\frac{160}{33}",
+        "\\frac{160}{33}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "308e845476b11fc6b83c1f078a2f76b19e702d83c5ed8ac9ae86c60cc41e2a35",
+        "parallel1": "2da5966a85feea47be23b6bc1c584fc8568ab3f4ce8b93c3d533afb38d6b9d06",
+        "parallel2": "5ecd8bcb3206fbea0e8b287d33f9337522b39dcf4865d96cfa1136ffb7acacec"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 118.25952223996865,
+      "input_tokens": 378,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2387,
+      "peak_allocated_bytes": 6338528256,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:771",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "\\frac{160}{33}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "\\frac{160}{33}",
+        "\\frac{160}{33}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "308e845476b11fc6b83c1f078a2f76b19e702d83c5ed8ac9ae86c60cc41e2a35",
+        "revision": "1fe5b72475f034e9652401cea0f5f48508b4bd6e878b4c065e78d1de292e7e34"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 45.54840989393415,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1159,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 915,
+      "peak_allocated_bytes": 6417967616,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:771",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "\\frac{160}{33}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "19"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "b9c36c3cba55960f6ae0a9175a1f9fbcdcc73ba560efa22f7c3ff633de92dd62"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 35.90670484403381,
+      "input_tokens": 96,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 726,
+      "peak_allocated_bytes": 6332110848,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3572",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "19",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        "15",
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 2,
+      "call_record_hashes": {
+        "parallel0": "1b7414c360e37fd02598a5e7942f9ab44e8459656fcde35a02def974d3a83c54",
+        "parallel1": "b0f73d4057c4aad289ce084e068c2380de8fa08a8e3dbd15f4c9f00c2b80a788",
+        "parallel2": "269ccb00d4fe86babb82e8638b25a519c87e5c2bfe20420d274a8b4b52aff0ca"
+      },
+      "call_truncations": 2,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 152.98634915798903,
+      "input_tokens": 288,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3064,
+      "peak_allocated_bytes": 6343101440,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3572",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel1",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "15",
+        "15"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "1b7414c360e37fd02598a5e7942f9ab44e8459656fcde35a02def974d3a83c54",
+        "revision": "4113600b1b498077a3d068aa8afbf5fa315665c4a5c0143e36269e97a066d258"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 98.17823296500137,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 1245,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1967,
+      "peak_allocated_bytes": 6431867392,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:3572",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "15",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "3"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "a171265f533eee7bf394be179aa8ed22d373c5a546578a7d80a9cb4f1f89e7a3"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 75.82863850297872,
+      "input_tokens": 96,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1530,
+      "peak_allocated_bytes": 6361762816,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2358",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "3",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 3,
+      "call_record_hashes": {
+        "parallel0": "37e46b2d90318299069767da604caa18a1ca0ef9ff21c929726dd7ac004f71c5",
+        "parallel1": "8aef2061197146d1d15c7dd2e2b1ac107d7d1827a4e787882c47e51c6bddb7c4",
+        "parallel2": "b7880334b99ebe947a64ea19c99a837eefaa8d5ac5a7cb0cad07358c999cd1c9"
+      },
+      "call_truncations": 3,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 152.74741518101655,
+      "input_tokens": 288,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6343101440,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2358",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "\\sqrt{18} + \\sqrt{47}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "37e46b2d90318299069767da604caa18a1ca0ef9ff21c929726dd7ac004f71c5",
+        "revision": "d56fd344953fa8e71f25892901272894a9039eb15a72fed2bc0297ebe0200883"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 93.30534369399538,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1254,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1867,
+      "peak_allocated_bytes": 6432947200,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2358",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "\\sqrt{18} + \\sqrt{47}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "5"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "4f415b61caeeea26bc73d49de090d3fa26adea00aadce08c9e7726e80bdeb167"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 15.253561527992133,
+      "input_tokens": 68,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 305,
+      "peak_allocated_bytes": 6315551744,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2019",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5",
+        "5",
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "5d395b3cb1c396d74bd052fd1ecc7c903023b574be37f874c0e1d449cb9101f6",
+        "parallel1": "d74d398512532da8dab52557722d658085958735a7dc02df574f9f3d6c82f3c8",
+        "parallel2": "67d589d5aeb7f2b9fb660a12a61ecf430a03b37ff7c0de00c924b5acd2978110"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 49.31102991697844,
+      "input_tokens": 204,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 993,
+      "peak_allocated_bytes": 6318096384,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:2019",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5",
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "5d395b3cb1c396d74bd052fd1ecc7c903023b574be37f874c0e1d449cb9101f6",
+        "revision": "8431c76316caba7fd2df722bbeaea4504f625c756ab7bcce98c0fc62f7ade3ee"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 33.749320430040825,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 547,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 682,
+      "peak_allocated_bytes": 6352116224,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:2019",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "5"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "91ea33e8e9ea340c7ab6d3ec5e112b8285e99901f347df4676c7e21ba2b1043a"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 17.40378364501521,
+      "input_tokens": 77,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 353,
+      "peak_allocated_bytes": 6317654016,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4144",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5",
+        "5",
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "a63a759410e6d0ac2df4abdf0f733ced608aa3762c29fb8bcebd3c66c07e9fe1",
+        "parallel1": "c913f0f7f69b02adc97937032c92497018fc577346040d8a3ab4f9e96b9bd164",
+        "parallel2": "e2fee2d40f655cab87aacbb261756d144b472618f8ed738ee7a15651c0521e6c"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 56.38805275200866,
+      "input_tokens": 231,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1147,
+      "peak_allocated_bytes": 6320493568,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4144",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5",
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "a63a759410e6d0ac2df4abdf0f733ced608aa3762c29fb8bcebd3c66c07e9fe1",
+        "revision": "cfd11ba15de2715d5ef94449bbe43edd3d46fe6db28b4895738c50a6ebf3a020"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 34.35193363297731,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 535,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 699,
+      "peak_allocated_bytes": 6349501440,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4144",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "8"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "a7d575e8b7900650bd51d99526bca2521f1f291a1580705f840ed3a6bffbdcc6"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 28.330176897987258,
+      "input_tokens": 67,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 577,
+      "peak_allocated_bytes": 6325547008,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3314",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "8",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "15",
+        "15",
+        "15"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "e4468cea2015c4093acb26953b3f2fefc8be89858aadc2ffa9eeef3d32c540b3",
+        "parallel1": "43b3bd31da33587dac859be88b29ae76d8fa3c26d71ed7d968c763c06cc62e94",
+        "parallel2": "bf77903ee3f202abf8ede0eae219ca35169c06ec93f40fd5429a7552dbcb3e87"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 81.6365414960892,
+      "input_tokens": 201,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1663,
+      "peak_allocated_bytes": 6325251072,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3314",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "15",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "15",
+        "15"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "e4468cea2015c4093acb26953b3f2fefc8be89858aadc2ffa9eeef3d32c540b3",
+        "revision": "7130a779ab2846e3d619f5db67ff817c1698b0581a43433c5b1b9b093417b74e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 51.16592507297173,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 740,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1040,
+      "peak_allocated_bytes": 6374824448,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:3314",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "15",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "4"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "f4d20a4de6c9579b3fbfcd20600fe2edce3b78d0e6e20611a3ccca6d0b59fcfc"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 13.87529417796759,
+      "input_tokens": 74,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 283,
+      "peak_allocated_bytes": 6314961920,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3239",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "4",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "4",
+        "4",
+        "4"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "b0bc0ca3e54be1ba5d7429144d7eb535bab1e8ce1c16312cb06f307e29d5c5eb",
+        "parallel1": "5f49826557604c3246eee7436c5b2f3ac27e004ebd9482ce43a97c6684eb72a9",
+        "parallel2": "18c598c9ee6cbffc96179a6bc58a6f4a3f82d3267a8e8a98ac014dc294a7ea79"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 65.21264354803134,
+      "input_tokens": 222,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1327,
+      "peak_allocated_bytes": 6324550656,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3239",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "4",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "4",
+        "4"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "b0bc0ca3e54be1ba5d7429144d7eb535bab1e8ce1c16312cb06f307e29d5c5eb",
+        "revision": "d4baadcc5db873368d5aa3114beabd3cf5bf1b0d6dfa33274352c7a5c78717a4"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 43.40219704702031,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 684,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 884,
+      "peak_allocated_bytes": 6367273984,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:3239",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "4",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "6"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "c53899fba5c844de80ce634ac1554c32c3e0e4066ffc1851571a08aa85faedc4"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 57.25541449803859,
+      "input_tokens": 85,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1169,
+      "peak_allocated_bytes": 6348043264,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4678",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        "12",
+        "6",
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "80086c76eed9cbc437921e80b4c35d1befc625e73e8e76be57e53d2db244008c",
+        "parallel1": "70446c33d4a9690c21544f35819cd7653716b59825163829b1d5e850e10420ca",
+        "parallel2": "1aa734b2289d2b2c3171f0755dd727fffb03dfcd8e5145abaeb52198a5f23758"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 135.85457405098714,
+      "input_tokens": 255,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2740,
+      "peak_allocated_bytes": 6342695936,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4678",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "12",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "12",
+        "12"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "80086c76eed9cbc437921e80b4c35d1befc625e73e8e76be57e53d2db244008c",
+        "revision": "fba83b38ce5c6391bb89fadeac51b28ec44e40a517579aaa80a941f398fba58a"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 87.42739776795497,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 1136,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1735,
+      "peak_allocated_bytes": 6420124160,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4678",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "12",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "5"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "f81c699d6f7a20872cf23ae5bd7cf7fe843af08aaf4187e4efeb6f126462a9d1"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 24.23364498699084,
+      "input_tokens": 65,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 475,
+      "peak_allocated_bytes": 6321711104,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1122",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5",
+        "5",
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "69c9a167ac685f167d71287f429e99a0f190151aa1dcff088fbef913095f82fa",
+        "parallel1": "6356a4a7dcec1316a3fd4ee7c5d05766a2426890e013a66f4eec4720fe36f128",
+        "parallel2": "5aaa1fb2d6c9e2a01185731b78f7fa2e97e5e2052c35dfbe0cac20df50468cf4"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 107.92062812799122,
+      "input_tokens": 195,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2113,
+      "peak_allocated_bytes": 6335799296,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1122",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "5",
+        "5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "69c9a167ac685f167d71287f429e99a0f190151aa1dcff088fbef913095f82fa",
+        "revision": "0740b5ef2448811b49e012bb071657ce6bfa5ff291261f38b11bbab8a1a1a118"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 61.05095464398619,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 810,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1201,
+      "peak_allocated_bytes": 6383452672,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1122",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "0.6"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "7932e9be9badf7536286724ada331f8ce0d7fb27949fa831c7357f24976e6d24"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 13.651290241978131,
+      "input_tokens": 54,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 269,
+      "peak_allocated_bytes": 6313707008,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4168",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "0.6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "0.6",
+        "0.6",
+        "0.6"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "5c3237d402f6a6231ed7f8f42746a0fc37310ad2ed3a13ddf9d8341d21e7327c",
+        "parallel1": "d18fc37c4ee850ed772cad000077540ceedf6402d599e122a31878853c5ebb34",
+        "parallel2": "262c5a6f15f0f2be5350bdf3e20b6ab72dd3ba073ad73594f8f08e7c5083a0bf"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 49.11577184702037,
+      "input_tokens": 162,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 971,
+      "peak_allocated_bytes": 6316214784,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4168",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "0.6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "0.6",
+        "0.6"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "5c3237d402f6a6231ed7f8f42746a0fc37310ad2ed3a13ddf9d8341d21e7327c",
+        "revision": "2c0c64d2ea54616b4b0620cdcb0e45656635c76fa3fdbfe9af8775df7c67a50e"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 32.72651235101512,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 482,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 650,
+      "peak_allocated_bytes": 6346150912,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4168",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "0.6",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "1"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "a3008228ebe0c4fe05cccc32b2c8da944e0dd56a97869b8fb237812808a2dec5"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 13.237648396985605,
+      "input_tokens": 68,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 259,
+      "peak_allocated_bytes": 6313856000,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1300",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "1",
+        "1",
+        "1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "f87205b273161fd3b280a27e723d520fecb3f3f6236a7032f9679d312bb32985",
+        "parallel1": "63262394edab008c444ebfa018a89b77d5d177d0b04f4d0e26c5e15d4c166bd8",
+        "parallel2": "2f73f9b6cd1cce34f823d1fcd6062ee7882801fe37e422c45a7e04bda5b19087"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 27.356028133945074,
+      "input_tokens": 204,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 543,
+      "peak_allocated_bytes": 6311273984,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1300",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "1",
+        "1"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "f87205b273161fd3b280a27e723d520fecb3f3f6236a7032f9679d312bb32985",
+        "revision": "d5a4eb98e8113b7015d1672f32658c8f47d279fd5142efebc229d7ee42e7d9e3"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 17.843094772018958,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 362,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 354,
+      "peak_allocated_bytes": 6330567680,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1300",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "1",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "\\frac{17\\sqrt{10}}{2}"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "0a614860fd1e0de6ede8743226080681103deee92dc6d51c26b0a8822ed21c35"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 60.44863944000099,
+      "input_tokens": 122,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1209,
+      "peak_allocated_bytes": 6350882816,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4516",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "\\frac{17\\sqrt{10}}{2}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "NO_ANSWER",
+        "NO_ANSWER",
+        "NO_ANSWER"
+      ],
+      "answers": [
+        null,
+        null,
+        null
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 3,
+      "call_record_hashes": {
+        "parallel0": "030a086aba2885a2f00e01ff4eca21718ba99481a0b8bf4c8d1ed0d7ff06402e",
+        "parallel1": "eedcb9d278b1660f9bccd54092dfa01a407f5f98cc477567b06a28265edd1b55",
+        "parallel2": "de4a8419f149232158dd7ee596acffc30f6a4b59bf8586c35ea93125a668bd2a"
+      },
+      "call_truncations": 3,
+      "correct": false,
+      "extraction_failed": true,
+      "inference_seconds": 180.70490169798722,
+      "input_tokens": 366,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 3072,
+      "peak_allocated_bytes": 6344059904,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:4516",
+      "selected_answer_group": "NO_ANSWER",
+      "selected_call": "parallel0",
+      "selected_extraction": null,
+      "selected_hit_cap": true,
+      "selected_truncated": true,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": true,
+      "answer_groups": [
+        "NO_ANSWER",
+        "group:4"
+      ],
+      "answers": [
+        null,
+        "4\\sqrt{10}"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 1,
+      "call_record_hashes": {
+        "parallel0": "030a086aba2885a2f00e01ff4eca21718ba99481a0b8bf4c8d1ed0d7ff06402e",
+        "revision": "819acc7217b0fa5a8a452bfd484da2261f95701a126bc02ef0dbdb19c2546bd2"
+      },
+      "call_truncations": 1,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 112.70088657399174,
+      "initial_correct": false,
+      "initial_missing": true,
+      "input_tokens": 1306,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1987,
+      "peak_allocated_bytes": 6436062208,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:4516",
+      "selected_answer_group": "group:4",
+      "selected_call": "revision",
+      "selected_extraction": "4\\sqrt{10}",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "75"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "c03088270d9999a592e90289e8ee7bdaf009e7b70057251bd147513d7b87c9ff"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 31.163540555979125,
+      "input_tokens": 200,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 491,
+      "peak_allocated_bytes": 6327282688,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1903",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "75",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:3"
+      ],
+      "answers": [
+        "50",
+        "120",
+        "100"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "9414e4c5e9c0dbc0efb7fa5d651d665c8207ed13250b60602ba54bfc8695ebfe",
+        "parallel1": "2ee07f379593c515b6ec51bab887232dbcd300a94591e70bc4869b3f9e898366",
+        "parallel2": "2dc40a07d900d050c58df2580a1ee072b431ebdf4f0b14c677a597714a49872f"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 74.27989528601756,
+      "input_tokens": 600,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1438,
+      "peak_allocated_bytes": 6329606144,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1903",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "50",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "50",
+        "50"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "9414e4c5e9c0dbc0efb7fa5d651d665c8207ed13250b60602ba54bfc8695ebfe",
+        "revision": "f7d273eb030a2e2a9e23f81e93e826717ec2784c61266e66b2fcd286fff23836"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 47.200903703982476,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 909,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 908,
+      "peak_allocated_bytes": 6379139584,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1903",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "50",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "96"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "651db2f3ed6afdff42f79cb9e77b59ca211c0fc9549693d07c5d8ce958a283e7"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 19.08038789202692,
+      "input_tokens": 188,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 394,
+      "peak_allocated_bytes": 6323261952,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1916",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "96",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:2"
+      ],
+      "answers": [
+        "112.5",
+        "120",
+        "120"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "7c200e1e2a31f6de15b3f55aba25330b47b7e7027ad5cda34471f2e8535d600f",
+        "parallel1": "e64b3e22da0aab1f23326566e5e2e596ed6005b9afe32e997dee2c070c268677",
+        "parallel2": "caf5064b1d126079d602f892fccf5f15f8ab4ed6b3f59f852ef367afcbe30b21"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 56.69003674102714,
+      "input_tokens": 564,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1168,
+      "peak_allocated_bytes": 6329162240,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:1916",
+      "selected_answer_group": "group:2",
+      "selected_call": "parallel1",
+      "selected_extraction": "120",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "112.5",
+        "112.5"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "7c200e1e2a31f6de15b3f55aba25330b47b7e7027ad5cda34471f2e8535d600f",
+        "revision": "1ba5b85297de55d198d48dd8672fbb2be6b6bab9f551f881b1ea26a033aab140"
+      },
+      "call_truncations": 0,
+      "correct": false,
+      "extraction_failed": false,
+      "inference_seconds": 62.513224658032414,
+      "initial_correct": false,
+      "initial_missing": false,
+      "input_tokens": 967,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1271,
+      "peak_allocated_bytes": 6391542272,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:1916",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "112.5",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "wrong_to_wrong",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "3"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "877072e4cb6f6cb59e0fef6878870a48bb5fd1c56b73516ef0c435e0d96858e4"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 40.203695325006265,
+      "input_tokens": 80,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 816,
+      "peak_allocated_bytes": 6334839808,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3409",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "3",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:2",
+        "group:1"
+      ],
+      "answers": [
+        "3",
+        "9",
+        "3"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "4c0008517befb0dad7cd4ba4936f058f412f8a94b83778d5c7afc2c135072171",
+        "parallel1": "031d36b6db46cc239330602b8423175576ed754b14bb861d5a7f0dc07b464729",
+        "parallel2": "89ba205aae5b2ebb5a33c2a63394841c6bd45da56be33952fbddb1d30e5d629f"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 123.61771941999905,
+      "input_tokens": 240,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 2538,
+      "peak_allocated_bytes": 6336389120,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3409",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "3",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "3",
+        "3"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "4c0008517befb0dad7cd4ba4936f058f412f8a94b83778d5c7afc2c135072171",
+        "revision": "aa3ff224d055e2409464a4641c5d411ccb4438b4a89ef99bff7f80b60334f5cf"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 83.21934111998416,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 1046,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 1702,
+      "peak_allocated_bytes": 6410888192,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:3409",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "3",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    },
+    {
+      "answer_groups": [
+        "group:0"
+      ],
+      "answers": [
+        "9"
+      ],
+      "attributed_call_ids": [
+        "longer"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "longer": "0008cc768b0fb9247444fb4ba8e02e9ad1c1222879a2d5af48930f8a9fd22610"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 18.131691050017253,
+      "input_tokens": 54,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 378,
+      "peak_allocated_bytes": 6317726208,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3617",
+      "selected_answer_group": "group:0",
+      "selected_call": "longer",
+      "selected_extraction": "9",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "longer",
+      "unique_calls_attributed": 1
+    },
+    {
+      "answer_groups": [
+        "group:1",
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "9",
+        "9",
+        "9"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "parallel1",
+        "parallel2"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "e18fb46d6f6b901c2c6fa0a36a408116ced5165b45b21432bfa6f2ec03a1e653",
+        "parallel1": "51101e7372d7b5aebaf7870a8d9911f7f52e3bc6bf8c6786f71b329723b0e4bc",
+        "parallel2": "3ed98525ad09a6473d8254df83a6462c58f585d233d74163953353c617bd50fa"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 38.47367892292095,
+      "input_tokens": 162,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 796,
+      "peak_allocated_bytes": 6314665472,
+      "peak_reserved_bytes": 6771703808,
+      "sample_id": "test:3617",
+      "selected_answer_group": "group:1",
+      "selected_call": "parallel0",
+      "selected_extraction": "9",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "parallel",
+      "unique_calls_attributed": 3
+    },
+    {
+      "answer_changed": false,
+      "answer_groups": [
+        "group:1",
+        "group:1"
+      ],
+      "answers": [
+        "9",
+        "9"
+      ],
+      "attributed_call_ids": [
+        "parallel0",
+        "revision"
+      ],
+      "call_extraction_failures": 0,
+      "call_record_hashes": {
+        "parallel0": "e18fb46d6f6b901c2c6fa0a36a408116ced5165b45b21432bfa6f2ec03a1e653",
+        "revision": "d1e4c1766e4d4b6480c2c186dd119c504e0629fb9cca7b4179632c3878875e0d"
+      },
+      "call_truncations": 0,
+      "correct": true,
+      "extraction_failed": false,
+      "inference_seconds": 26.583327643980738,
+      "initial_correct": true,
+      "initial_missing": false,
+      "input_tokens": 436,
+      "nominal_output_allowance": 3072,
+      "output_tokens": 543,
+      "peak_allocated_bytes": 6339949568,
+      "peak_reserved_bytes": 6771703808,
+      "revised_missing": false,
+      "revision_hit_cap": false,
+      "revision_truncated": false,
+      "sample_id": "test:3617",
+      "selected_answer_group": "group:1",
+      "selected_call": "revision",
+      "selected_extraction": "9",
+      "selected_hit_cap": false,
+      "selected_truncated": false,
+      "strategy": "refinement",
+      "transition": "correct_to_correct",
+      "unique_calls_attributed": 2
+    }
+  ]
+}

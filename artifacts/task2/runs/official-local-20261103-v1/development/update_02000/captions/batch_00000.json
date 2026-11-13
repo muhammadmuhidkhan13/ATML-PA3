@@ -1,0 +1,175 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 335885,
+      "caption_id": 641313,
+      "image_id": 335885,
+      "original_target": "A parking meter near a outdoor building. ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 45594,
+      "caption_id": 773922,
+      "image_id": 45594,
+      "original_target": "a truck drives down a street next to some houses ",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 282224,
+      "caption_id": 703944,
+      "image_id": 282224,
+      "original_target": "Four people playing tennis and shaking hands after game.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 234554,
+      "caption_id": 365938,
+      "image_id": 234554,
+      "original_target": "A man riding a skateboard in a river bed.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 392961,
+      "caption_id": 695112,
+      "image_id": 392961,
+      "original_target": "A corner desk with a laptop on top rests next to a printer.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 297299,
+      "caption_id": 13520,
+      "image_id": 297299,
+      "original_target": "A man with a drink and novelty tie sits on the grass.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 33958,
+      "caption_id": 26529,
+      "image_id": 33958,
+      "original_target": "a person on skis doing a backflip high in the air.",
+      "question": "Describe this image."
+    },
+    {
+      "actual_image_id": 365626,
+      "caption_id": 303272,
+      "image_id": 365626,
+      "original_target": "People are on their laptops at he desks doodling. ",
+      "question": "Describe this image."
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 335885,
+      "caption_id": 641313,
+      "image_id": 335885,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A parking meter near a outdoor building. ",
+      "question": "Describe this image.",
+      "reference_nll": 2.2751846313476562,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 45594,
+      "caption_id": 773922,
+      "image_id": 45594,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "a truck drives down a street next to some houses ",
+      "question": "Describe this image.",
+      "reference_nll": 2.0488383769989014,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 282224,
+      "caption_id": 703944,
+      "image_id": 282224,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "Four people playing tennis and shaking hands after game.",
+      "question": "Describe this image.",
+      "reference_nll": 2.684887409210205,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 234554,
+      "caption_id": 365938,
+      "image_id": 234554,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A man riding a skateboard in a river bed.",
+      "question": "Describe this image.",
+      "reference_nll": 1.9040733575820923,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 392961,
+      "caption_id": 695112,
+      "image_id": 392961,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A corner desk with a laptop on top rests next to a printer.",
+      "question": "Describe this image.",
+      "reference_nll": 2.4504401683807373,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 297299,
+      "caption_id": 13520,
+      "image_id": 297299,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "A man with a drink and novelty tie sits on the grass.",
+      "question": "Describe this image.",
+      "reference_nll": 2.7096264362335205,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 33958,
+      "caption_id": 26529,
+      "image_id": 33958,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "a person on skis doing a backflip high in the air.",
+      "question": "Describe this image.",
+      "reference_nll": 1.8965237140655518,
+      "reference_seconds": 0.032891187500354135
+    },
+    {
+      "actual_image_id": 365626,
+      "caption_id": 303272,
+      "image_id": 365626,
+      "model_identity": {
+        "global_update": 2000,
+        "run_spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb",
+        "stage": 1
+      },
+      "original_target": "People are on their laptops at he desks doodling. ",
+      "question": "Describe this image.",
+      "reference_nll": 4.519435405731201,
+      "reference_seconds": 0.032891187500354135
+    }
+  ],
+  "spec_id": "daf58a3480a15b20ebe57ac09eafed0cce57791dadd8c2209de59968f1b4fa93"
+}

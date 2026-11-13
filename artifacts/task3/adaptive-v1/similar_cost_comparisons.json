@@ -1,0 +1,130 @@
+[
+  {
+    "accuracy_difference": {
+      "ci95": [
+        -0.0006249999999999996,
+        0.011749999999999998
+      ],
+      "mean": 0.005250000000000001,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    "adaptive_accuracy": 0.7347499999999999,
+    "adaptive_mean_tokens": 10162.777125,
+    "dataset": "math",
+    "fixed_accuracy": 0.7294999999999999,
+    "fixed_mean_tokens": 10677.742749999985,
+    "nearest_fixed_policy": "Fixed16",
+    "policy": "agreement",
+    "rule": "nearest held-out mean retained tokens, descriptive comparison only; no policy retuning",
+    "token_difference": {
+      "ci95": [
+        -1137.546571875,
+        100.20983437499983
+      ],
+      "mean": -514.965625,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    }
+  },
+  {
+    "accuracy_difference": {
+      "ci95": [
+        0.007371875000000001,
+        0.021384374999999994
+      ],
+      "mean": 0.01375,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    "adaptive_accuracy": 0.7299999999999999,
+    "adaptive_mean_tokens": 7686.365500000001,
+    "dataset": "math",
+    "fixed_accuracy": 0.7162500000000003,
+    "fixed_mean_tokens": 5344.1084999999985,
+    "nearest_fixed_policy": "Fixed8",
+    "policy": "quality",
+    "rule": "nearest held-out mean retained tokens, descriptive comparison only; no policy retuning",
+    "token_difference": {
+      "ci95": [
+        1795.9706093749999,
+        2951.1779874999997
+      ],
+      "mean": 2342.2569999999996,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    }
+  },
+  {
+    "accuracy_difference": {
+      "ci95": [
+        0.0067500000000000025,
+        0.02125
+      ],
+      "mean": 0.013999999999999999,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    "adaptive_accuracy": 0.6126249999999994,
+    "adaptive_mean_tokens": 3290.3146249999963,
+    "dataset": "mathvista",
+    "fixed_accuracy": 0.5986249999999999,
+    "fixed_mean_tokens": 2229.902,
+    "nearest_fixed_policy": "Fixed8",
+    "policy": "agreement",
+    "rule": "nearest held-out mean retained tokens, descriptive comparison only; no policy retuning",
+    "token_difference": {
+      "ci95": [
+        798.4986406250001,
+        1351.80911875
+      ],
+      "mean": 1060.412625,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    }
+  },
+  {
+    "accuracy_difference": {
+      "ci95": [
+        0.00024687500000000073,
+        0.013999999999999999
+      ],
+      "mean": 0.007000000000000001,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    },
+    "adaptive_accuracy": 0.6156249999999996,
+    "adaptive_mean_tokens": 3613.0414999999966,
+    "dataset": "mathvista",
+    "fixed_accuracy": 0.6086249999999994,
+    "fixed_mean_tokens": 4461.842500000002,
+    "nearest_fixed_policy": "Fixed16",
+    "policy": "quality",
+    "rule": "nearest held-out mean retained tokens, descriptive comparison only; no policy retuning",
+    "token_difference": {
+      "ci95": [
+        -1075.3675374999998,
+        -604.6269937500001
+      ],
+      "mean": -848.801,
+      "questions": 800,
+      "resamples": 1000,
+      "seed": 6304,
+      "unit": "question_after_order_average"
+    }
+  }
+]

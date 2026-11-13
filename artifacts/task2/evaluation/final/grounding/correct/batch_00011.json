@@ -1,0 +1,703 @@
+{
+  "inputs": [
+    {
+      "actual_image_id": 450500,
+      "canonical_answer": "3",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 450500,
+      "original_target": "3",
+      "pair_id": "ground:test:44",
+      "partner_canonical_answer": "4",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:test:44:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 491689,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 491689,
+      "original_target": "4",
+      "pair_id": "ground:test:44",
+      "partner_canonical_answer": "3",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:test:44:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 157192,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 157192,
+      "original_target": "4",
+      "pair_id": "ground:test:45",
+      "partner_canonical_answer": "1",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:45:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 224138,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 224138,
+      "original_target": "1",
+      "pair_id": "ground:test:45",
+      "partner_canonical_answer": "4",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:45:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 550322,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 550322,
+      "original_target": "2",
+      "pair_id": "ground:test:46",
+      "partner_canonical_answer": "4",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:46:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 354460,
+      "canonical_answer": "4",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 354460,
+      "original_target": "4",
+      "pair_id": "ground:test:46",
+      "partner_canonical_answer": "2",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:46:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 79955,
+      "canonical_answer": "2",
+      "condition": "correct",
+      "member_index": 0,
+      "original_image_id": 79955,
+      "original_target": "2",
+      "pair_id": "ground:test:47",
+      "partner_canonical_answer": "1",
+      "question": "How many trucks can you see?",
+      "question_id": "ground:test:47:0",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 1171,
+      "canonical_answer": "1",
+      "condition": "correct",
+      "member_index": 1,
+      "original_image_id": 1171,
+      "original_target": "1",
+      "pair_id": "ground:test:47",
+      "partner_canonical_answer": "2",
+      "question": "How many trucks can you see?",
+      "question_id": "ground:test:47:1",
+      "question_type": "counting",
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "suite": "grounding"
+    }
+  ],
+  "records": [
+    {
+      "actual_image_id": 450500,
+      "canonical_answer": "3",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        19,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "4",
+      "original_image_id": 450500,
+      "original_target": "3",
+      "pair_id": "ground:test:44",
+      "partner_canonical_answer": "4",
+      "prediction_text": "4",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:test:44:0",
+      "question_type": "counting",
+      "raw_response": "4<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.1927587985992432,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "3"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 491689,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 491689,
+      "original_target": "4",
+      "pair_id": "ground:test:44",
+      "partner_canonical_answer": "3",
+      "prediction_text": "3",
+      "question": "How many handbags can you see?",
+      "question_id": "ground:test:44:1",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.4967461824417114,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 157192,
+      "canonical_answer": "4",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        19,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "4",
+      "original_image_id": 157192,
+      "original_target": "4",
+      "pair_id": "ground:test:45",
+      "partner_canonical_answer": "1",
+      "prediction_text": "4",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:45:0",
+      "question_type": "counting",
+      "raw_response": "4<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.6191158890724182,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 224138,
+      "canonical_answer": "1",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 224138,
+      "original_target": "1",
+      "pair_id": "ground:test:45",
+      "partner_canonical_answer": "4",
+      "prediction_text": "3",
+      "question": "How many bananas can you see?",
+      "question_id": "ground:test:45:1",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.458665370941162,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 550322,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        18,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "3",
+      "original_image_id": 550322,
+      "original_target": "2",
+      "pair_id": "ground:test:46",
+      "partner_canonical_answer": "4",
+      "prediction_text": "3",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:46:0",
+      "question_type": "counting",
+      "raw_response": "3<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.683200478553772,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 354460,
+      "canonical_answer": "4",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": true,
+      "generated_token_ids": [
+        17,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "2",
+      "original_image_id": 354460,
+      "original_target": "4",
+      "pair_id": "ground:test:46",
+      "partner_canonical_answer": "2",
+      "prediction_text": "2",
+      "question": "How many scissors can you see?",
+      "question_id": "ground:test:46:1",
+      "question_type": "counting",
+      "raw_response": "2<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.8095589876174927,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "4"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 79955,
+      "canonical_answer": "2",
+      "canonical_correct": false,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        19,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 0,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "4",
+      "original_image_id": 79955,
+      "original_target": "2",
+      "pair_id": "ground:test:47",
+      "partner_canonical_answer": "1",
+      "prediction_text": "4",
+      "question": "How many trucks can you see?",
+      "question_id": "ground:test:47:0",
+      "question_type": "counting",
+      "raw_response": "4<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 1.8913447856903076,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "2"
+        }
+      ],
+      "score": 0.0,
+      "suite": "grounding"
+    },
+    {
+      "actual_image_id": 1171,
+      "canonical_answer": "1",
+      "canonical_correct": true,
+      "condition": "correct",
+      "empty": false,
+      "follows_partner_answer": false,
+      "generated_token_ids": [
+        16,
+        151645
+      ],
+      "generated_tokens": 2,
+      "generation_seconds": 0.021398038748884574,
+      "member_index": 1,
+      "model_identity": {
+        "checkpoint": "stage_3",
+        "checkpoint_sha256": "d7fad034f576056a5dda9738a66abc8044fe13d63dcbdc4b0975bd212ca87c34",
+        "progress": {
+          "completed_examples": 72000,
+          "evaluated": [
+            0,
+            500,
+            1000,
+            1500,
+            2000,
+            2250,
+            2500,
+            3000,
+            3500,
+            3750,
+            4000
+          ],
+          "global_update": 4500,
+          "mixture": {
+            "caption": 43258,
+            "counting": 7084,
+            "natural": 8426,
+            "presence": 13232
+          },
+          "sft_loss_sum": 7651.382762450841,
+          "skipped_attempts": 0,
+          "stage": 3,
+          "stage_update": 750,
+          "training_seconds": 5574.409303687658
+        },
+        "spec": "c52f88ab1a17ed1a9c63c0b6439280e8d47199e3adaa43b29ba77fe03bf8f6cb"
+      },
+      "normalized_prediction": "1",
+      "original_image_id": 1171,
+      "original_target": "1",
+      "pair_id": "ground:test:47",
+      "partner_canonical_answer": "2",
+      "prediction_text": "1",
+      "question": "How many trucks can you see?",
+      "question_id": "ground:test:47:1",
+      "question_type": "counting",
+      "raw_response": "1<|im_end|>",
+      "reached_token_cap": false,
+      "reference_nll": 0.6843797564506531,
+      "reference_seconds": 0.01583535599638708,
+      "references": [
+        {
+          "answer": "1"
+        }
+      ],
+      "score": 1.0,
+      "suite": "grounding"
+    }
+  ],
+  "spec_id": "863818c935dc3c5db34bace548670564cc7b17f86dcc92490527b66645484782"
+}

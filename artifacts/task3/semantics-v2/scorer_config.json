@@ -1,0 +1,20 @@
+{
+  "equivalence_code_sha256": "f7152bf258f17c93f314d47ea86b255c7027c73a94c27786751c8b96a2beb182",
+  "external_operation_timeout_seconds": 5,
+  "external_question_timeout_seconds": 120,
+  "grouping": "prefix order complete-link, mutual equivalence, earliest compatible group",
+  "library_timeouts": null,
+  "math_parse": "boxed supplied extraction; LatexExtractionConfig; first_match; no_fallback",
+  "math_verify": "0.9.0",
+  "math_verify_options": {
+    "float_rounding": 6,
+    "numeric_precision": 15,
+    "strict": true
+  },
+  "mathvista_choices": "official edit-distance fallback; first tied choice; output option letter",
+  "mathvista_metadata_sha256": "ab0148dca9d401c31cc47f29b3826eec28a76ff155a1c0878d81e8daf0413480",
+  "mathvista_missing": "NO_ANSWER before official normalization; always incorrect",
+  "mathvista_source_revision": "c5acd37d75a8c8f9756cb66c78fe2e54fa2c31fb",
+  "source_manifest_sha256": "80f6e32e6de2141a747a0a2828e7d427dd7b546afe15b9fbd169ea8359941d79",
+  "version": "task3-scorer-v2"
+}

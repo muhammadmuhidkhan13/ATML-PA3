@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "files": {
+    "live_math_50.json": "925b63a68b7f8a671dd018d9e34d830a8bdcc29eeff76b94457fe8ccf1d29413",
+    "math_split.json": "66ca9f8ea1b04839c60664fe36d8d331187582415acbccebb7b10c2ffd843d01",
+    "model_files.json": "0fa74feababf55d2bb392bca1851316f28607ae678de18d84eeda69b9cf6ca52",
+    "questions.json": "2bb6864ed9d94fd93da7aaeae2c83eba51bc513f91e658e47946cf2f29a33f26",
+    "qwen25_model_info.json": "88679dacdfe2a70d0306b5f93ff2a1308f115b9a91704d0f61573fe124d9b225",
+    "scorer_config.json": "d54fca48e1eb208d8531931789ec14920e02ff74892a06831b65509b71b7b05e",
+    "specification.json": "d2d51cc39318380d9f4d6ce62c5912c7e6ebe63de88814dc27be0b5a9c927edc"
+  }
+}

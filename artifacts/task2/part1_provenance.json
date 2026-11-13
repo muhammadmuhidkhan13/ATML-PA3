@@ -1,0 +1,81 @@
+{
+  "data_files": {
+    "captions_dev.jsonl": 14037,
+    "captions_train.jsonl": 2611852,
+    "grounding_annotations_train.json": 59158604,
+    "grounding_annotations_val.json": 5942800,
+    "grounding_dev.jsonl": 9576,
+    "grounding_test.jsonl": 25618,
+    "grounding_train_pools.json": 693015,
+    "images.json": 3122271,
+    "manifest.json": 1790,
+    "vqa_dev.jsonl": 109918,
+    "vqa_test.jsonl": 328447,
+    "vqa_train.jsonl": 5270074
+  },
+  "eligible_pair_counts": {
+    "train": 71941,
+    "val": 33914
+  },
+  "feature_bytes": 1966129152,
+  "feature_manifest_sha256": "1e7c1ce0d78f0805c6bdae88c2cfcb3781c352063c85aaf201de4b6f00fa8ddc",
+  "implementation_sha256": {
+    "src/atml_pa3/task2/__init__.py": "7985f34329075181138fdc0c817f834688dd11a30c609502af51f19e7cf46b57",
+    "src/atml_pa3/task2/acquire.py": "b0de1032c3aeae12a1dfa46ef67f23de07c717bf6a1cdba4f23b9151c6b0d54f",
+    "src/atml_pa3/task2/data.py": "802cf8b16b98aac008daf7099609cfc81aa9dc31a0fc929d85cf0c3d97a3a103",
+    "src/atml_pa3/task2/features.py": "a12628f5680b20e24378af787aaaf0a019a2051d62c27abe4c02c8166475aa12",
+    "src/atml_pa3/task2/images.py": "b8cd09642ea56bba80f62ae313dce44993f9cccec129266c14bdfb37102dc2b1",
+    "src/atml_pa3/task2/integration.py": "f21c0846fc6427b545092e72c6870582ca4c25bb3b24c3a0c4aad2279a2651fc",
+    "src/atml_pa3/task2/io.py": "c0d54a1245a5ac61ec2f229f9fbf9ae5f34f2cae3ef5fa2f9149b20cb9e07c60",
+    "src/atml_pa3/task2/model.py": "15843e346fa0f0684bd5b47783fcc2167ffd5ec5ba4d3db51c29b8a94f3f299b",
+    "src/atml_pa3/task2/normalization.py": "d88ba5129589e8296f70c4aa8bf4ac593bc4f29e969ef631547d19d4bcee0944",
+    "src/atml_pa3/task2/tokenization.py": "7fe66fe3384be73184a06a8266d981be9003b4c74a26489dff1fb7009aa3a0ca",
+    "src/atml_pa3/task2/validation.py": "e535e58be77bb40e1b7250d7abf350da626b79399cbb3aeda252278ace127319",
+    "src/atml_pa3/task2/vqa_tables.json": "a63f8f01d135ab289c1097f5ef89bcf9ee28644d509e0427d31f772db2acbeeb"
+  },
+  "natural_filtering": {
+    "deduplicate_unordered_question_id_pairs": true,
+    "different_normalized_answers": true,
+    "human_answers_per_member": 10,
+    "normalized_consensus_min_agreement": 8,
+    "same_answer_type_both_members": true,
+    "same_question": true
+  },
+  "normalization_source": {
+    "bytes": 8428,
+    "etag": "W/\"0dac7d1b0379dad2c5e5f62ae066ee607e2a99d0056ac8f2c40b7304bc3a4fb1\"",
+    "last_modified": null,
+    "revision": "a013f0043c1e2cdc995922dfe257f7149aa9af06",
+    "sha256": "f08edfcad5be0112500993e245c706b6cb928eadebe203f89f838e5e0d04bec8",
+    "url": "https://raw.githubusercontent.com/GT-Vision-Lab/VQA/a013f0043c1e2cdc995922dfe257f7149aa9af06/PythonEvaluationTools/vqaEvaluation/vqaEval.py"
+  },
+  "numpy": "2.4.6",
+  "official_raw_pair_counts": {
+    "train": 200394,
+    "val": 95144
+  },
+  "python": "3.11.18",
+  "raw_image_bytes": 1042421132,
+  "script_sha256": {
+    "scripts/task2_acquire.py": "15fcc9eda3ba0eb7db93e776eb390c18d426a38dd43be08caefb68af90042cad",
+    "scripts/task2_cache.py": "9d643f901cfa4ea2f398ac266c0ac500e419477d58a012eb6d06d1f37031548c",
+    "scripts/task2_check_vlm.py": "348706b2f0d32b14e07c78d1a09f22c066757a7b02f165f017e13ce6602e04d3",
+    "scripts/task2_fetch_siglip.py": "b739185ee89836cace64fbc931de23f74eb8815c51d71455bc6832900ab32911",
+    "scripts/task2_images.py": "c0faeb8897809c03d65a12ed13f2ea244f6b0db94853e60eccf7c292735d1c01",
+    "scripts/task2_prepare.py": "c4a707dceb39137b38b54e924669e6d1a7a0f76b3cce659ef110d9d3ec923337",
+    "scripts/task2_tokenization.py": "7f1d96e81dac09faed1ab8f1dccfce30f6678a66ce947875a4132fa34ed0c378",
+    "scripts/task2_validate.py": "038f84da8aae003669c418b158b689eb23adc1b1ddd3b4634bea3b61bf70905b"
+  },
+  "seed": 6304,
+  "selected_dataset_manifest_sha256": "46200aa0b1fe350021683bbaea897310703942d621a8c43b0f651bcc39fded57",
+  "test_sha256": {
+    "tests/task2/__init__.py": "61f204500fb857cab696dddfd5d3b6cfc6fa6e66565292fae6065c2286ce9a63",
+    "tests/task2/conftest.py": "3a619d63f28a230928b6677b928e195eb96162d368c85cb04b9a5976b41c3c68",
+    "tests/task2/test_data.py": "70b919c4eb4622a89b63e0b31e9549a21f24062ef66fd12f93222b1f98fb7a7b",
+    "tests/task2/test_features.py": "f6670d8e5180c176e72457ff06efefdd43180e1ee38366253f2fd3630b7d9a92",
+    "tests/task2/test_io.py": "cb03f905f2ecf1c633fc161739c616c4791b4292566a2cae5289a24bdd4307a9",
+    "tests/task2/test_model.py": "2371080099851f4fc40499a56422258f667fb215d31cc45173220be0b79ff88b",
+    "tests/task2/test_real_preparation.py": "29bd963a39c3dd116f1689693cc29822b5860eed61a08d1504780e493940bf46"
+  },
+  "torch": "2.14.1+cu130"
+}

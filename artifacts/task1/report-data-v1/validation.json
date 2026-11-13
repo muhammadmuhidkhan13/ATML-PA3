@@ -1,0 +1,62 @@
+{
+  "diagnostics": {
+    "full_final": {
+      "activation_rows": 192,
+      "weight_rows": 3
+    },
+    "full_mid": {
+      "activation_rows": 192,
+      "weight_rows": 3
+    },
+    "l2sp_final": {
+      "activation_rows": 192,
+      "weight_rows": 3
+    },
+    "lora16_final": {
+      "activation_rows": 192,
+      "weight_rows": 3
+    },
+    "lora4_final": {
+      "activation_rows": 192,
+      "weight_rows": 3
+    },
+    "oplora16_final": {
+      "activation_rows": 192,
+      "weight_rows": 3
+    }
+  },
+  "export_counts": {
+    "activation_rows": 1152,
+    "annotation_rows": 42,
+    "benchmark_rows": 28,
+    "displacement_rows": 3,
+    "qualitative_rows": 168,
+    "resource_rows": 5,
+    "training_curve_rows": 6250,
+    "weight_rows": 18
+  },
+  "export_sha256": {
+    "activation_diagnostics.csv": "337932ecda9b6a2f0528474cf300a36e72c2b2beb46df381fb471996b28b8838",
+    "benchmark_scores.csv": "9db70540ea24b86b994c3543e19eeedbd4fec4a52fe2d679ee30d991f0604bb4",
+    "parameter_displacement.csv": "3149f6ff6c32f66a734ee2ef4bc5a41f35cc6c9a83e044eef728edfd3c4c650a",
+    "qualitative_annotation_subset.csv": "9b577282f753adf203baad285a08862fbdb3e01be6736029ca280e13948eda14",
+    "qualitative_responses.jsonl": "440bf5b6279c51e3a88d264df0c04c0dc21b7fb04e700fc0e3ec84a5fbd2ce22",
+    "resource_summary.csv": "73410f5a9befa0e6d611995d988dfd724a76a269f09e0cda3c90173a24f09871",
+    "training_curves.csv": "e31e6213a7f4558703f7fc51ca3471dbcf3ee2caa5f100acd4232e3469808c37",
+    "weight_diagnostics.csv": "ffac59e6ca0c2aeb9f5e38d5aa0487caa5d265e8836331b47f13b5ec245966d5"
+  },
+  "issues": [],
+  "output": "/workspace/ATML-PA3-linux/artifacts/task1/report-data-v1",
+  "qualitative": {
+    "baseline": 24,
+    "full_final": 24,
+    "full_mid": 24,
+    "l2sp_final": 24,
+    "lora16_final": 24,
+    "lora4_final": 24,
+    "oplora16_final": 24
+  },
+  "smoke": false,
+  "source_yaml_sha256": "215abde5b02811e922b6ac563ff33c490e0dff9ab58439df840f3135e9387173",
+  "status": "COMPLETE"
+}

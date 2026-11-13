@@ -1,0 +1,5 @@
+dataset,policy,relative_savings,ci95_low,ci95_high,resamples,seed,unit
+math,agreement,0.523925198215629,0.495271547024289,0.5533530182919772,1000,6304,paired questions after ten-order means
+math,quality,0.6399325807457648,0.6139696748548344,0.6638167257365889,1000,6304,paired questions after ten-order means
+mathvista,agreement,0.6302085525482122,0.6017177889611415,0.6571865949874163,1000,6304,paired questions after ten-order means
+mathvista,quality,0.5939379669540331,0.5658384696049171,0.6214812851630871,1000,6304,paired questions after ten-order means

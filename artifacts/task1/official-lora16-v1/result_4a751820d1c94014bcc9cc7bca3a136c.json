@@ -1,0 +1,20 @@
+{
+  "attempt_log": "artifacts/task1/official-lora16-v1/attempts.jsonl",
+  "checkpoint_sizes_bytes": {
+    "update_00312": 121572616,
+    "update_00625": 121572617,
+    "update_00937": 121572617,
+    "update_01250": 121572618
+  },
+  "checkpoints_saved_this_session": [
+    "artifacts/task1/official-lora16-v1/checkpoints/update_00312",
+    "artifacts/task1/official-lora16-v1/checkpoints/update_00625",
+    "artifacts/task1/official-lora16-v1/checkpoints/update_00937",
+    "artifacts/task1/official-lora16-v1/checkpoints/update_01250"
+  ],
+  "completed_updates": 1250,
+  "elapsed_seconds": 6790.98133733205,
+  "examples_consumed": 40000,
+  "peak_gpu_memory_allocated_bytes": 9889894912,
+  "skipped_attempts": 0
+}
